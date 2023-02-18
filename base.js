@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $("button").click(function() {
 
-    $("#banner").html("<h1>hello world</h1>");
+    $("#banner").html("<h1>Hello World</h1>");
 
   });
 
