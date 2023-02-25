@@ -1,6 +1,43 @@
+/* reset values */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #9FC1DB;
+}
+
 body {
-	width: 90%;
+	background-color: #C8BCB1;
+	width: 80%;
+	height: 100vh;
 	margin: auto;
 	text-align: center;
-	background-color: #8D99AE;
+}
+
+header {
+	height: 10vh;
+}
+
+nav {
+	background-color: #FFFFFF;
+}
+
+article {
+	height: 70vh;
+}
+
+#showcase {
+	display: none;
+}
+
+footer {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 0;
+	width: 80%;
+	height: 10vh;
 }

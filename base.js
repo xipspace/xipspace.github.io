@@ -1,8 +1,10 @@
-$(document).ready(function() {
+$(document).ready(function () {
 
-  $("button").click(function() {
+  $("button").click(function () {
 
-    $("#banner").html("<h1>Hello World</h1>");
+    // $("#banner").html("<h1>Hello World</h1>");
+    $("#main").toggle();
+    $("#showcase").toggle();
 
   });
 
