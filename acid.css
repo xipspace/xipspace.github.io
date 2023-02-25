@@ -18,9 +18,7 @@ body {
 	text-align: center;
 }
 
-header {
-	height: 10vh;
-}
+/* layout */
 
 nav {
 	background-color: #FFFFFF;
@@ -30,14 +28,23 @@ article {
 	height: 70vh;
 }
 
-.showcase {
-	display: none;
-}
-
 footer {
 	background-color: #FFFFFF;
 	position: fixed;
 	bottom: 0;
 	width: 80%;
-	height: 10vh;
+}
+
+/* elements */
+
+.banner {
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+.showcase {
+	display: none;
+}
+
+.decor {
+	display: none;
 }
