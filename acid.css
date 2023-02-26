@@ -8,6 +8,7 @@
 
 html {
 	background-color: #9FC1DB;
+	font-family: Tahoma, Verdana, sans-serif;
 }
 
 body {
@@ -51,8 +52,9 @@ ul li {
 	width: 90px;
 }
 
-.banner {
-	font-family: Tahoma, Verdana, sans-serif;
+ul li:hover {
+	background-color: #000000;
+	color: #FFFFFF;
 }
 
 .showcase {
