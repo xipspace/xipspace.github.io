@@ -1,5 +1,17 @@
 $(document).ready(function () {
 
+	var content = "https://xipspace.github.io/content.json";
+
+	$(".cards").load(content, function (responseTxt, statusTxt, xhr) {
+
+		if (statusTxt == "success")
+			console.debug("External content loaded successfully : " +
+				xhr.getResponseHeader("content-type"));
+		if (statusTxt == "error")
+			console.debug("Error: " + xhr.status + ": " + xhr.statusText);
+
+	});
+
 	$(".item").click(function () {
 
 		// $(this).toggleClass("selected");
@@ -22,21 +34,6 @@ $(document).ready(function () {
 				$(".design").show();
 				break;
 		}
-
-	});
-
-	$("button").click(function () {
-
-		var contentLoad = "https://raw.githubusercontent.com/xipspace/xipspace.github.io/main/README.md";
-
-		$(".main").load(contentLoad, function (responseTxt, statusTxt, xhr) {
-
-			if (statusTxt == "success")
-				console.debug("External content loaded successfully!");
-			if (statusTxt == "error")
-				console.debug("Error: " + xhr.status + ": " + xhr.statusText);
-
-		});
 
 	});
 
