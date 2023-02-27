@@ -15,7 +15,7 @@ html {
 
 body {
 	background-color: #C8BCB1;
-	width: 90%;
+	width: 96%;
 	min-height: 100vh;
 	margin: auto;
 	text-align: center;
@@ -28,13 +28,6 @@ nav {
 	overflow: hidden;
 }
 
-footer {
-	background-color: #FFFFFF;
-	position: fixed;
-	bottom: 0;
-	width: 80%;
-}
-
 /* elements */
 
 ul {
@@ -45,7 +38,7 @@ ul {
 
 ul li {
 	display: list-item;
-	padding: 5px 5px;
+	padding: 10px 10px;
 	width: 120px;
 }
 
