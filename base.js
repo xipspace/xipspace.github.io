@@ -1,6 +1,8 @@
 $(document).ready(function () {
 
   $(".item").click(function () {
+
+    // $(this).toggleClass("selected");
     var str = $(this).text();
     // $("." + str).toggle();
     switch (str) {
@@ -20,6 +22,7 @@ $(document).ready(function () {
         $(".design").show();
         break;
     }
+
   });
 
 });

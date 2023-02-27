@@ -52,7 +52,7 @@ ul li {
 	width: 90px;
 }
 
-ul li:hover {
+.selected {
 	background-color: #000000;
 	color: #FFFFFF;
 }
