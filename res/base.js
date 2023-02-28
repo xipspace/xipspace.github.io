@@ -1,13 +1,22 @@
 /*
-	get content from
+	content setup
 */
 var content = "https://xipspace.github.io/content.json"
+var cardsView = "<div class='cards'><div class='cover'><img /></div><p class='title'></p><p class='description'></p></div>"
 
-function cardsCreator(x, y, z) {
-	$(".cover").attr("src", x)
+function cardsCreator(){
+	$(".container").html(cardsView)
+}
+
+function cardsElements(x, y, z) {
+	$(".cover img").attr("src", x)
 	$(".title").text(y)
 	$(".description").text(z)
 }
+
+/*
+	exec
+*/
 
 $(document).ready(function () {
 
@@ -54,14 +63,15 @@ $(document).ready(function () {
 
 	var jsonObj = $.getJSON(content)
 
+	cardsCreator()
+
 	jsonObj.always(function (data) {
 		console.log(data)
-		cardsCreator(
+		cardsElements(
 			data.cards.cover,
 			data.cards.title,
 			data.cards.description
 		)
-
 	})
 
 })
