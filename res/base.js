@@ -3,13 +3,15 @@
 */
 var content = "https://xipspace.github.io/content.json"
 
-function cardsCreator(x){
-	$(".cards").html(x)
+function cardsCreator(x, y, z) {
+	$(".cover").attr("src", x)
+	$(".title").text(y)
+	$(".description").text(z)
 }
 
 $(document).ready(function () {
 
-	$(".item").each(function(index){
+	$(".item").each(function (index) {
 		console.log(index + ": " + $(this).text())
 	})
 
@@ -51,21 +53,15 @@ $(document).ready(function () {
 	*/
 
 	var jsonObj = $.getJSON(content)
-		.done(function () {
-			console.log("success")
-		})
-		.fail(function () {
-			console.log("error")
-		})
-		.always(function () {
-			console.log("complete")
-		})
 
 	jsonObj.always(function (data) {
 		console.log(data)
-		// $(".cover").attr("src", data.cards.cover)
-		$(".title").text(data.cards.title)
-		$(".description").text(data.cards.description)
+		cardsCreator(
+			data.cards.cover,
+			data.cards.title,
+			data.cards.description
+		)
+
 	})
 
 })
