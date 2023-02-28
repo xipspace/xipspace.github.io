@@ -4,14 +4,11 @@
 var content = "https://xipspace.github.io/content.json"
 var cardsView = "<div class='cards'><div class='cover'><img /></div><p class='title'></p><p class='description'></p></div>"
 
-function cardsCreator(){
-	$(".container").html(cardsView)
-}
-
-function cardsElements(x, y, z) {
-	$(".cover img").attr("src", x)
-	$(".title").text(y)
-	$(".description").text(z)
+function cardsCreator(x, y, z){
+	$(".showcase .container").append(cardsView)
+	$(".cover img").last().attr("src", x)
+	$(".title").last().text(y)
+	$(".description").last().text(z)
 }
 
 /*
@@ -20,9 +17,11 @@ function cardsElements(x, y, z) {
 
 $(document).ready(function () {
 
+	/*
 	$(".item").each(function (index) {
 		console.log(index + ": " + $(this).text())
 	})
+	*/
 
 	$(".item").click(function () {
 
@@ -63,15 +62,19 @@ $(document).ready(function () {
 
 	var jsonObj = $.getJSON(content)
 
-	cardsCreator()
+	// cardsCreator()
 
 	jsonObj.always(function (data) {
-		console.log(data)
-		cardsElements(
-			data.cards.element1.cover,
-			data.cards.element1.title,
-			data.cards.element1.description
-		)
+		// console.log(data)
+		$.each(data.cards, function (index, value) {
+			// console.log(value)
+			cardsCreator(
+				value.cover,
+				value.title,
+				value.description
+			)
+		})
+
 	})
 
 })
