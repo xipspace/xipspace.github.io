@@ -30,18 +30,18 @@ $(document).ready(function () {
 		var str = $(this).text()
 		// $("." + str).toggle()
 		switch (str) {
-			case "main":
-				$(".main").show()
+			case "home":
+				$(".home").show()
 				$(".showcase").hide()
 				$(".design").hide()
 				break
 			case "showcase":
-				$(".main").hide()
+				$(".home").hide()
 				$(".showcase").show()
 				$(".design").hide()
 				break
 			case "design":
-				$(".main").hide()
+				$(".home").hide()
 				$(".showcase").hide()
 				$(".design").show()
 				break
@@ -68,9 +68,9 @@ $(document).ready(function () {
 	jsonObj.always(function (data) {
 		console.log(data)
 		cardsElements(
-			data.cards.cover,
-			data.cards.title,
-			data.cards.description
+			data.cards.element1.cover,
+			data.cards.element1.title,
+			data.cards.element1.description
 		)
 	})
 

@@ -1,7 +1,19 @@
 {
 	"cards": {
-		"cover": "https://xipspace.github.io/android-chrome-192x192.png",
-		"title": "this is the title!",
-		"description": "describes the card content"
+		"element1": {
+			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"title": "this is the title 1!",
+			"description": "describes the card content"
+		},
+		"element2": {
+			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"title": "this is the title 2!",
+			"description": "describes the card content"
+		},
+		"element3": {
+			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"title": "this is the title 3!",
+			"description": "describes the card content"
+		}
 	}
 }

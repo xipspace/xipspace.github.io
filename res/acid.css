@@ -57,13 +57,13 @@ ul li {
 
 /* flex */
 
-article {
+main {
 	overflow-y: scroll;
 	scrollbar-width: none;
 	-ms-overflow-style: none;
 }
 
-article::-webkit-scrollbar {
+main::-webkit-scrollbar {
 	display: none;
 }
 
@@ -72,6 +72,7 @@ article::-webkit-scrollbar {
 	flex-wrap: wrap;
 	justify-content: center;
 	gap: 10px;
+	padding: 5px;
 }
 
 .cards {
@@ -82,6 +83,12 @@ article::-webkit-scrollbar {
 	height: 400px;
 	padding: 5px;
 	box-shadow: 2px 2px 3px #606060;
+}
+
+@media only screen and (max-width: 400px) {
+	.cards {
+		width: 100%;
+	}
 }
 
 .cover {
