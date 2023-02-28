@@ -60,6 +60,11 @@ ul li {
 article {
 	overflow-y: scroll;
 	scrollbar-width: none;
+	-ms-overflow-style: none;
+}
+
+article::-webkit-scrollbar {
+	display: none;
 }
 
 .container {
