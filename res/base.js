@@ -4,11 +4,11 @@
 var content = "https://xipspace.github.io/content.json"
 var cardsView = "<div class='cards'><div class='cover'><img /></div><p class='title'></p><p class='description'></p></div>"
 
-function cardsCreator(x, y, z) {
+function cardsCreator(a, b, c) {
 
-	$(".cover img").last().attr("src", x)
-	$(".title").last().text(y)
-	$(".description").last().text(z)
+	$(".cover img").last().attr("src", a)
+	$(".title").last().text(b)
+	$(".description").last().text(c)
 
 }
 

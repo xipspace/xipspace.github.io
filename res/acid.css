@@ -82,7 +82,7 @@ main::-webkit-scrollbar {
 	width: 400px;
 	height: 400px;
 	padding: 5px;
-	box-shadow: 2px 2px 3px #606060;
+	box-shadow: 2px 2px 3px #0F0F0F;
 }
 
 @media only screen and (max-width: 400px) {
@@ -99,5 +99,9 @@ main::-webkit-scrollbar {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.title {
+	font-weight: bold;
 }
 
