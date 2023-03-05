@@ -1,34 +1,34 @@
 {
 	"showcase": {
 		"element1": {
-			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"cover": "https://xipspace.github.io/img/merry_frameless_500.png",
 			"title": "title 1",
 			"description": "describes the card content 1"
 		},
 		"element2": {
-			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"cover": "https://xipspace.github.io/img/merry_frameless_500.png",
 			"title": "title 2",
 			"description": "describes the card content 2"
+		},
+		"element3": {
+			"cover": "https://xipspace.github.io/img/merry_frameless_500.png",
+			"title": "title 3",
+			"description": "describes the card content 3"
 		}
 	},
 	"design": {
-		"element3": {
-			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
-			"title": "title 3",
-			"description": "describes the card content 4"
-		},
 		"element4": {
-			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"cover": "https://xipspace.github.io/img/merry_frameless_500.png",
 			"title": "title 4",
 			"description": "describes the card content 4"
 		},
 		"element5": {
-			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"cover": "https://xipspace.github.io/img/merry_frameless_500.png",
 			"title": "title 5",
 			"description": "describes the card content 5"
 		},
 		"element6": {
-			"cover": "https://xipspace.github.io/android-chrome-192x192.png",
+			"cover": "https://xipspace.github.io/img/merry_frameless_500.png",
 			"title": "title 6",
 			"description": "describes the card content 6"
 		}

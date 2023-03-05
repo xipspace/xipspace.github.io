@@ -105,3 +105,7 @@ main::-webkit-scrollbar {
 	font-weight: bold;
 }
 
+.colors {
+	border-radius: 50%;
+}
+
