@@ -80,7 +80,7 @@ main::-webkit-scrollbar {
 	background-color: #FFFFFF;
 	border-radius: 10px;
 	width: 400px;
-	height: 400px;
+	height: 500px;
 	padding: 5px;
 	box-shadow: 2px 2px 3px #0F0F0F;
 }
@@ -95,7 +95,7 @@ main::-webkit-scrollbar {
 	background-color: #606060;
 	border-radius: 10px;
 	width: 100%;
-	height: 65%;
+	height: 60%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -105,7 +105,36 @@ main::-webkit-scrollbar {
 	font-weight: bold;
 }
 
+.cover img {
+	max-width: 100%;
+	max-height: 100%;
+}
 .colors {
-	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	gap: 10px;
 }
 
+.c1 {
+	background-color: #A5F1C6;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+}
+.c2 {
+	background-color: #DE686B;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+}
+.c3 {
+	background-color: #FDA8A7;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+}
+
+.hit {
+	min-width: 30%;
+	min-height: 6%;
+}

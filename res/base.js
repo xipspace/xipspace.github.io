@@ -2,7 +2,7 @@
 	content setup
 */
 var content = "https://xipspace.github.io/content.json"
-var cardsView = "<div class='cards'><div class='cover'><img /></div><p class='title'></p><p class='description'></p></div>"
+var cardsView = "<div class='cards'><div class='cover'><img /></div><p class='title'></p><p class='description'></p><br><div class='colors'><div class='c1'></div><div class='c2'></div><div class='c3'></div></div><br><button class='hit'>hit me</button></div>"
 
 function cardsCreator(a, b, c) {
 
