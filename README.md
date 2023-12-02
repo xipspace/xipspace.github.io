@@ -1,5 +1,10 @@
 
-# Hello World
+## [WIP] Landing Page
 
-Responsive Template
+<br>
 
+|		| mark
+| :---:	| :-
+|	o	| responsive template
+|	o	| cards
+|	x	| hero
