@@ -1,6 +1,6 @@
 {
-    "name": "hero_app_x",
-    "short_name": "hero_app_x",
+    "name": "hero_app",
+    "short_name": "hero_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
