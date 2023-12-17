@@ -7,4 +7,4 @@
 | :---:	| :-
 |	o	| responsive template
 |	o	| cards
-|	x	| hero
+|	o	| hero
