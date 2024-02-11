@@ -1,0 +1,6392 @@
+{
+  "00ca0032001003": {
+    "code": "00 CA0032 00 10 03",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "00ca0070000906": {
+    "code": "00 CA0070 00 09 06",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured Endorsement",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "00ca0070001013": {
+    "code": "00 CA0070 00 10 13",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "00ca0115001013": {
+    "code": "00 CA0115 00 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "00ca0116000410": {
+    "code": "00 CA0116 00 04 10",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary And Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "00ca0150000914": {
+    "code": "00 CA0150 00 09 14",
+    "category": "AL",
+    "label": "Auto - Primary  & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "0141080418": {
+    "code": "014108 04/18",
+    "category": "AL",
+    "label": "Motor Carrier - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "0205708012008": {
+    "code": "02057 (08012008)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "0360020121": {
+    "code": "03 6002 01 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "033300312": {
+    "code": "03-330 (03/12)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "033300312d2": {
+    "code": "03-330 (03/12)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "11980104": {
+    "code": "1198 (01/04)",
+    "category": "AL",
+    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "11980716": {
+    "code": "1198 (07-16)",
+    "category": "AL",
+    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "15084515": {
+    "code": "15084(5-15)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary & Non-contributoy",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "16020292": {
+    "code": "16-02-0292",
+    "category": "AL",
+    "label": "Commercial Automobile - Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "16020292rev1116": {
+    "code": "16-02-0292 (Rev. 11-16) ",
+    "category": "AL",
+    "label": "Commercial Automobile - Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "16020292rev411": {
+    "code": "16-02-0292 (Rev. 4-11)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "16020316ed1014": {
+    "code": "16-02-0316 Ed 10 14",
+    "category": "AL",
+    "label": "Auto  Primary  & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "193480822": {
+    "code": "19348 08 22",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "193600822": {
+    "code": "19360 08 22",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "19580909": {
+    "code": "1958 09 09",
+    "category": "AL",
+    "label": "Auto - Primary & Non-contributory & Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "23660211": {
+    "code": "2366 (02/11)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "23670610": {
+    "code": "2367 (06/10)",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "26ap10340822": {
+    "code": "26AP1034 08 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "26ap10341119": {
+    "code": "26AP1034 11 19",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "290190908": {
+    "code": "29-019 (09-08)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "325460315": {
+    "code": "3-2546 03 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket AI - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "325461120": {
+    "code": "3-2546 11 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "326820918": {
+    "code": "3-2682 09 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "327811120": {
+    "code": "3-2781 11 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "328050315": {
+    "code": "3-2805 03 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "4610155997": {
+    "code": "461-0155 (9-97) ",
+    "category": "AL",
+    "label": "Auto - Blanket Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "4610156198": {
+    "code": "461-0156 (1/98)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "46101570507": {
+    "code": "461-0157  (05/07)",
+    "category": "AL",
+    "label": "Business Auto Coverage Broadening Endorsement - New York",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "4610162998": {
+    "code": "461-0162 (9-98)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "46104781212": {
+    "code": "461-0478 12 12 ",
+    "category": "AL",
+    "label": "Business Auto Blanket Additional Insured - Primary & Non-contributoy",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "46104801212": {
+    "code": "461-0480 12 12",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributoy",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "46104901212": {
+    "code": "461-0490 12 12",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "46105001113": {
+    "code": "461-0500 11 13",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "50982aie01": {
+    "code": "50982AIE01",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "58503115": {
+    "code": "58503 (1-15)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "58504115": {
+    "code": "58504 (1-15)",
+    "category": "AL",
+    "label": "Designated Insured for Covered Autos - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "58540415": {
+    "code": "58540 (4-15)",
+    "category": "AL",
+    "label": "Commercial Auto - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "58553112": {
+    "code": "58553 (1-12)",
+    "category": "AL",
+    "label": "Automobile Liability - Waiver of Subrogation, Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "58553122": {
+    "code": "58553 (1-22)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "58583115": {
+    "code": "58583 (1-15)",
+    "category": "AL",
+    "label": "Commercial Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "6028bj": {
+    "code": "6028BJ",
+    "category": "AL",
+    "label": "Automobile Liability - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "6196ab": {
+    "code": "6196AB",
+    "category": "AL",
+    "label": "Automobile Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "62897695": {
+    "code": "62897 (6/95)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "6487220418": {
+    "code": "64 8722 0418",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "64k2900418": {
+    "code": "64 K290 0418",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "64k2901012": {
+    "code": "64 K290 1012",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "64k290fl1018": {
+    "code": "64 K290 FL 1018",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "64k4031218": {
+    "code": "64 K403 1218",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "6487231112": {
+    "code": "64-8723 1112",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "64k2910518": {
+    "code": "64-K291 0518",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "7112680920": {
+    "code": "71 1268 0920",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "7112810120": {
+    "code": "71 1281 0120",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "7112810511": {
+    "code": "71 1281 0511",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "7112810713": {
+    "code": "71 1281 0713",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "7115230713": {
+    "code": "71 1523 0713",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "7117820520": {
+    "code": "71 1782 0520",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "7117830520": {
+    "code": "71 1783 0520",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "7120251118": {
+    "code": "71 2025 1118",
+    "category": "AL",
+    "label": "Business Auto - Primary & Non-contributoy",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "744451099": {
+    "code": "74445 (10/99)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Primary & Non-contributoy",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "8e2419ed042017": {
+    "code": "8-E-2419 Ed. 04-2017",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "8e2419ed072011": {
+    "code": "8-E-2419 Ed. 07-2011",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "8e2419sced042017": {
+    "code": "8-E-2419(SC) Ed. 04-2017",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "8e2419vaed062017": {
+    "code": "8-E-2419(VA) Ed. 06-2017",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "8e2676ed042017": {
+    "code": "8-E-2676 Ed. 04-2017",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "86100509mcl": {
+    "code": "8610 (05/09) M-CL",
+    "category": "AL",
+    "label": "Commercial Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "879501005": {
+    "code": "87950 (10-05)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "87950914": {
+    "code": "87950 (9-14)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "89303610": {
+    "code": "89303 (6-10)",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "89317114": {
+    "code": "89317 (1-14)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "893221010": {
+    "code": "89322 (10-10)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "9371201stedition915": {
+    "code": "93-7120 1STEDITION 9-15",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "94160295": {
+    "code": "94160(2-95)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "97240510": {
+    "code": "97240(5-10)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "aa1010306": {
+    "code": "AA 101 03 06",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary And Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa2650116": {
+    "code": "AA 265 01 16",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "aa2650409": {
+    "code": "AA 265 04 09",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "aa2880116": {
+    "code": "AA 288 01 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "aa2880620": {
+    "code": "AA 288 06 20",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory & Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "aa288fl0620": {
+    "code": "AA 288 FL 06 20",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver Of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa288md0116": {
+    "code": "AA 288 MD 01 16",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation, Prumary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa288md0620": {
+    "code": "AA 288 MD 06 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa288nh0620": {
+    "code": "AA 288 NH 06 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa288ny0620": {
+    "code": "AA 288 NY 06 20",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa288va0116": {
+    "code": "AA 288 VA 01 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aa2920620": {
+    "code": "AA 292 06 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "aa41710620": {
+    "code": "AA 4171 06 20",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "aa41711105": {
+    "code": "AA 4171 11 05",
+    "category": "AL",
+    "label": "Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "aa41720909": {
+    "code": "AA 4172 09 09",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "aa41741105": {
+    "code": "AA 4174 11 05",
+    "category": "AL",
+    "label": "Business Auto - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aacw201011": {
+    "code": "AA CW 20 10 11",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "aafl201117": {
+    "code": "AA FL 20 11 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ab207tx1220": {
+    "code": "AB 207 TX 12 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "abca680517": {
+    "code": "AB CA 68 05 17",
+    "category": "AL",
+    "label": "Businessowners - California - Hired Auto and Non-Owned Auto liability UNACCEPTABLE IF \"OWNED AUTOS\" IS REQUIRED",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "abaz10ed611uf5072": {
+    "code": "ABAZ10(Ed. 6/11) UF-5072",
+    "category": "AL",
+    "label": "Commercial Garage Auto - Additional Insured, Ongoing & Completed, Waiver of Subrogation - 30 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "abiil002ed721": {
+    "code": "ABI IL 002 (ed. 7/21)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ac00330320": {
+    "code": "AC 00 33 03 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ac00331021": {
+    "code": "AC 00 33 10 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac0101a0308": {
+    "code": "AC 01 01A 03 08",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ac0102fl0308": {
+    "code": "AC 01 02-FL 03 08",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ac20410316": {
+    "code": "AC 20 41 03 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac20410711": {
+    "code": "AC 20 41 07 11",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac2404b0504": {
+    "code": "AC 2404B 0504",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ac70040316": {
+    "code": "AC 70 04 03 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured  - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ac70050316": {
+    "code": "AC 70 05 03 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory - 30 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ac70051316": {
+    "code": "AC 70 05 13 16",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ac7005nh0917": {
+    "code": "AC 70 05 NH 09 17",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Primary & Non-contributor, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac70060316": {
+    "code": "AC 70 06 03 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory - 60 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac84070713": {
+    "code": "AC 84 07 07 13",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ac84071117": {
+    "code": "AC 84 07 11 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - 60 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ac84230811": {
+    "code": "AC 84 23 08 11",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ac85010618": {
+    "code": "AC 85 01 06 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ac85020618": {
+    "code": "AC 85 02 06 18",
+    "category": "AL",
+    "label": "Business Auto - New York - Business Auto Coverage Enhancement Endorsement",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ac85050618": {
+    "code": "AC 85 05 06 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac85340618": {
+    "code": "AC 85 34 06 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac85430618": {
+    "code": "AC 85 43 06 18",
+    "category": "AL",
+    "label": "Auto -  Ongoing and Compleetd operations, Primary & Non-contributory & Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ac85430821": {
+    "code": "AC 85 43 08 21",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aca00220508": {
+    "code": "ACA00220508",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "acle02ed519ufb979": {
+    "code": "ACLE02 (Ed. 5/19) UF-B979",
+    "category": "AL",
+    "label": "Auto - Additional Insured - Ongoing & Completed, Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acle02ed722ufb979": {
+    "code": "ACLE02 (Ed. 7/22) UF-B979",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory, Waiver of Subrogation ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acme01ed519ufb982": {
+    "code": "ACME01 (Ed. 5/19) UF-B982",
+    "category": "AL",
+    "label": "Auto - Additional Insured - Ongoing & Completed, Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acme01ed822ufb982": {
+    "code": "ACME01 (Ed. 8-22) UF-B982",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "acme01ed921ufb982": {
+    "code": "ACME01 (Ed. 9-21) UF-B982",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "acne01ed822ufb983": {
+    "code": "ACNE01 (Ed. 8/22) UF-B983",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "acpe01ed921ufb985": {
+    "code": "ACPE01 (Ed. 9/21) UF-B985",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acte01ed622ufb986": {
+    "code": "ACTE01 (Ed. 6/22) UF-B986",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acte01ed921ufb986": {
+    "code": "ACTE01 (Ed. 9/21) UF-B986",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acve01ed1018ufc803": {
+    "code": "ACVE01 (Ed. 10/18) UF-C803",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "acve01ed619ufc803": {
+    "code": "ACVE01 (Ed. 6-19) UF-C803",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "acve01ed921ufc803": {
+    "code": "ACVE01 (Ed. 9/21) UF-C803",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "adva01ed316uf6317": {
+    "code": "ADVA01 (Ed. 3/16) UF-6317",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ag10090713": {
+    "code": "AG 1009 0713",
+    "category": "AL",
+    "label": "Commercial Auto - Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ag16001219": {
+    "code": "AG 1600 (12-19)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ag10090714": {
+    "code": "AG1009-0714",
+    "category": "AL",
+    "label": "Auto Liability - Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ahca85900917": {
+    "code": "AH CA 85 90 09 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ahca85970917": {
+    "code": "AH CA 85 97 09 17",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ahca85990917": {
+    "code": "AH CA 85 99 09 17",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ahca87860917": {
+    "code": "AH CA 87 86 09 17",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "aica590215": {
+    "code": "AI CA 59 02 15",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "aica590721": {
+    "code": "AI CA 59 07 21",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "aica591222": {
+    "code": "AI CA 59 12 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "akk376102016": {
+    "code": "AKK376 (10-2016)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "alca590721": {
+    "code": "Al CA 59 07 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "anicca11501013": {
+    "code": "ANIC CA 1150 10 13 ",
+    "category": "AL",
+    "label": "AUTO COVERAGE ENHANCEMENT ENDORSEMENT - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "anicca12640221": {
+    "code": "ANIC CA 1264 02 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ap04011017": {
+    "code": "AP-0401 (10-17)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ap04021017": {
+    "code": "AP-0402 (10-17)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ap2ed908": {
+    "code": "AP-2 (Ed. 9/08)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "au01030714": {
+    "code": "AU 0103 0714",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "au01131114": {
+    "code": "AU 0113 1114",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "au0113114": {
+    "code": "AU 0113 114",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "au102ed591rev": {
+    "code": "AU-102 Ed. 5/91 Rev",
+    "category": "AL",
+    "label": "Business Auto / Garage Coverage - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "au20150120": {
+    "code": "AU2015 (01-20)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Ongoing & Completed - 30 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "au20330120": {
+    "code": "AU2033 (01-20)",
+    "category": "AL",
+    "label": "Business Auto - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ba10281013": {
+    "code": "BA 10 28 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ba10341013": {
+    "code": "BA 10 34 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ba20041010": {
+    "code": "BA 20 04 10 10",
+    "category": "AL",
+    "label": "Business Auto / Garage Coverage - Additional Insured - Ongoing",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ba20600411": {
+    "code": "BA 20 60 04 11",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ba30001215": {
+    "code": "BA 30 00 12 15",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ba30020618": {
+    "code": "BA 30 02 06 18",
+    "category": "AL",
+    "label": "Business Auto - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ba99020716": {
+    "code": "BA 99 02 07 16",
+    "category": "AL",
+    "label": "Business Auto  - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ba99020908": {
+    "code": "BA 99 02 09 08",
+    "category": "AL",
+    "label": "Business Auto  - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ba99040416": {
+    "code": "BA 99 04 04 16",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ba99040618": {
+    "code": "BA 99 04 06 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ba9904ny0618": {
+    "code": "BA 99 04 NY 06 18",
+    "category": "AL",
+    "label": "Business Auto Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ba99090317": {
+    "code": "BA 99 09 03 17",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "bca04440814": {
+    "code": "BCA 04 44 08 14",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "benvca060917": {
+    "code": "BENV CA 06 09 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "bhal001122021": {
+    "code": "BH-AL-001-12/2021",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "bp04040110": {
+    "code": "BP 04 04 01 10",
+    "category": "AL",
+    "label": "Businessowners specifically for Automobile Liability - Hired & Non-owned Autos - Additional Insured UNACCEPTABLE IF \"OWNED AUTOS\" IS REQUIRED",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "c1330215": {
+    "code": "C 133 (02-15)",
+    "category": "AL",
+    "label": "Commercial Automobile -  Primary & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "c1330721": {
+    "code": "C 133 07 21",
+    "category": "AL",
+    "label": "Commercial Auto - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca00010310": {
+    "code": "CA 00 01 03 10",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca00011001": {
+    "code": "CA 00 01 10 01",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary & Non-contributoy",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca00011013": {
+    "code": "CA 00 01 10 13",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca00011120": {
+    "code": "CA 00 01 11 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca00044000517": {
+    "code": "CA 00044 00 (05/17)",
+    "category": "AL",
+    "label": "Commercial Automobile - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca01070511": {
+    "code": "CA 01 07 05 11",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca01070716": {
+    "code": "CA 01 07 07 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca04030604": {
+    "code": "CA 04 03 06 04",
+    "category": "AL",
+    "label": "Auto - Additional Insured ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca04431120": {
+    "code": "CA 04 43 11 20",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca04440310": {
+    "code": "CA 04 44 03 10",
+    "category": "AL",
+    "label": "Business Auto / Garage Coverage - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca04441013": {
+    "code": "CA 04 44 10 13",
+    "category": "AL",
+    "label": "Commercial Auto - Waiver of subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca04491116": {
+    "code": "CA 04 49 11 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary  & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca04501116": {
+    "code": "CA 04 50 11 16",
+    "category": "AL",
+    "label": "Auto Liability -  Primary  & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca20010306": {
+    "code": "CA 20 01 03 06",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca20011013": {
+    "code": "CA 20 01 10 13",
+    "category": "AL",
+    "label": "Business Auto - Lessor - Additional Insured And Loss Payee",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca20011120": {
+    "code": "CA 20 01 11 20",
+    "category": "AL",
+    "label": "Business Auto - Lessor - Additional Insured And Loss Payee - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca20051116": {
+    "code": "CA 20 05 11 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca20391120": {
+    "code": "CA 20 39 11 20",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca20480299": {
+    "code": "CA 20 48 02 99",
+    "category": "AL",
+    "label": "Business Auto Coverage Form ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca20480797": {
+    "code": "CA 20 48 07 97",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca20481013": {
+    "code": "CA 20 48 10 13",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured Endorsement - Ongoing and Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca2048z1013": {
+    "code": "CA 20 48 Z 10 13",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca30000714": {
+    "code": "CA 30 00 07 14",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca30000817va": {
+    "code": "CA 30 00 08 17 VA",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributoy",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca30001218": {
+    "code": "CA 30 00 12 18",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Primary & Non-contributory - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca30001218sc": {
+    "code": "CA 30 00 12 18 SC",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca31341018": {
+    "code": "CA 31 34 10 18",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca31351018": {
+    "code": "CA 31 35 10 18",
+    "category": "AL",
+    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca50570109": {
+    "code": "CA 50 57 01 09",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca52221015": {
+    "code": "CA 52 22 10 15",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca5600021213": {
+    "code": "CA 560 002 1213",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca60000120": {
+    "code": "CA 60 00 01 20",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca60000715": {
+    "code": "CA 60 00 07 15",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca6720010615": {
+    "code": "CA 672 001 0615",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca6720090615": {
+    "code": "CA 672 009 0615",
+    "category": "AL",
+    "label": "Business Auto - Primary & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca70181014": {
+    "code": "CA 70 18 10 14",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca70570622": {
+    "code": "CA 70 57 06 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca70751013": {
+    "code": "CA 70 75 10 13",
+    "category": "AL",
+    "label": "Business Auto - Primary & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca70771013": {
+    "code": "CA 70 77 10 13",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca7077fl0917": {
+    "code": "CA 70 77 FL 09 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca70780518": {
+    "code": "CA 70 78 05 18",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca70781013": {
+    "code": "CA 70 78 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca71090117": {
+    "code": "CA 71 09 01 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Operations - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca71150508": {
+    "code": "CA 71 15 05 08",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca71151109": {
+    "code": "CA 71 15 11 09",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver Of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca71181109": {
+    "code": "CA 71 18 11 09",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca71331109": {
+    "code": "CA 71 33 11 09",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca71650911": {
+    "code": "CA 71 65 09 11",
+    "category": "AL",
+    "label": "Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca71710508": {
+    "code": "CA 71 71 05 08",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca71860213": {
+    "code": "CA 71 86 02 13",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca74501115": {
+    "code": "CA 7450 (11-15)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca75000317": {
+    "code": "CA 75 00 03 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca75080617": {
+    "code": "CA 75 08 06 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca76010615": {
+    "code": "CA 76 01 06 15",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca76150618": {
+    "code": "CA 76 15 06 18",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca76160618": {
+    "code": "CA 76 16 06 18",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca77350210": {
+    "code": "CA 77 35 02 10",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Waiver Of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca77731205": {
+    "code": "CA 77 73 12 05",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca78090116": {
+    "code": "CA 78 09 01 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Waiver of Subrogation - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca78090423": {
+    "code": "CA 78 09 04 23",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca78091117": {
+    "code": "CA 78 09 11 17",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured, Primary & Non-Contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7809nc1117": {
+    "code": "CA 78 09NC 11 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca7809nh0717": {
+    "code": "CA 78 09NH 07 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca7809ny0423": {
+    "code": "CA 78 09NY 04 23",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca7809ny1117": {
+    "code": "CA 78 09NY 11 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7809va0423": {
+    "code": "CA 78 09VA 04 23",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured -  Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7809va1117": {
+    "code": "CA 78 09VA 11 17",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca79100110": {
+    "code": "CA 79 10 01 10",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca79180519": {
+    "code": "CA 79 18 05 19",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca80070618": {
+    "code": "CA 80 07 06 18",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca83090915": {
+    "code": "CA 83 09 09 15",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca83630418": {
+    "code": "CA 83 63 04 18",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca8376ed1013": {
+    "code": "CA 83 76 (Ed. 10/13)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca88100110": {
+    "code": "CA 88 10 01 10",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca88100113": {
+    "code": "CA 88 10 01 13",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca88271011": {
+    "code": "CA 88 27 10 11",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca88660513": {
+    "code": "CA 88 66 05 13",
+    "category": "AL",
+    "label": "Business Auto - Designated Insured - Noncontributing",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cacwmg00060417": {
+    "code": "CA CW MG0006 0417",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cacwmg00070417": {
+    "code": "CA CW MG0007 0417",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cacwmg00150417": {
+    "code": "CA CW MG0015 0417",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cacwmg00220219": {
+    "code": "CA CW MG0022 0219",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing, Completed, Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cacwmg00220621": {
+    "code": "CA CW MG0022 0621",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "caengn00190906": {
+    "code": "CA EN GN 0019 09 06",
+    "category": "AL",
+    "label": "Business Auto Coverage Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "caf0790321": {
+    "code": "CA F0 79 03 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "caf0790817": {
+    "code": "CA F0 79 08 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "caf0820816": {
+    "code": "CA F0 82 08 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "caf1290321": {
+    "code": "CA F1 29 03 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "caf1290810": {
+    "code": "CA F1 29 08 10",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "caf1350215": {
+    "code": "CA F1 35 02 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "caf2190321": {
+    "code": "CA F2 19 03 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "caf2190817": {
+    "code": "CA F2 19 08 17",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "caf2270321": {
+    "code": "CA F2 27 03 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "caf2270817": {
+    "code": "CA F2 27 08 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cafm351013": {
+    "code": "CA FM 35 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cagm0011018": {
+    "code": "CA GM 001 10 18",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cagm0021018": {
+    "code": "CA GM 002 10 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cat3400215": {
+    "code": "CA T3 40 02 15",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cat3530215": {
+    "code": "CA T3 53 02 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cat3530310": {
+    "code": "CA T3 53 03 10",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cat3530609": {
+    "code": "CA T3 53 06 09",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cat3530817": {
+    "code": "CA T3 53 08 17",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cat4200215": {
+    "code": "CA T4 20 02 15",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cat4200710": {
+    "code": "CA T4 20 07 10",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cat4370216": {
+    "code": "CA T4 37 02 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cat4420216": {
+    "code": "CA T4 42 02 16",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cat4740216": {
+    "code": "CA T4 74 02 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cat4740817": {
+    "code": "CA T4 74 08 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cat4990216": {
+    "code": "CA T4 99 02 16",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cat4991215": {
+    "code": "CA T4 99 12 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cat8120123": {
+    "code": "CA T8 12 01 23",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured -  Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cat9600215": {
+    "code": "CA T9 60 02 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca0444f310": {
+    "code": "CA-0444F(3-10)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca500709": {
+    "code": "CA-500 (7-09)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7200ed1214": {
+    "code": "CA-7200 (Ed. 12-14)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca7200ed217": {
+    "code": "CA-7200 (Ed. 2-17)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca72101098": {
+    "code": "CA-7210(10-98)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured -  Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca72111098": {
+    "code": "CA-7211 (10-98)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca72121098": {
+    "code": "CA-7212(10-98)",
+    "category": "AL",
+    "label": "Business Auto/ Garage Coverage - Blanket Additional Insured - Ongoing & Completed - Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca72131098": {
+    "code": "CA-7213(10-98)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form/ Garage Coverage Form - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca72141098": {
+    "code": "CA-7214(10-98)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form/ Garage Coverage Form - Blanket Additional Insured - Ongoing & Completed - Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca7241303": {
+    "code": "CA-7241(3-03)",
+    "category": "AL",
+    "label": "Business Auto/ Garage Coverage - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca72471016": {
+    "code": "CA-7247(10-16)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca7276ed417": {
+    "code": "CA-7276 (Ed. 4-17)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "caba20031220": {
+    "code": "CA-BA-2003 (12-20)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "caf1270303": {
+    "code": "CA-F-127 (03-03)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "caf1280303": {
+    "code": "CA-F-128 (03-03)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca10003008301": {
+    "code": "CA10003008301",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca50570611": {
+    "code": "CA5057 0611",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca72701117": {
+    "code": "CA7270 (11-17)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7270222": {
+    "code": "CA7270 (2-22)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca72701115": {
+    "code": "CA7270(11-15)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca73921115": {
+    "code": "CA7392(11-15)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca74501818": {
+    "code": "CA7450.1(8-18)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca74501117": {
+    "code": "CA7450(11-17)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7450214": {
+    "code": "CA7450(2-14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "ca7450222": {
+    "code": "CA7450(2-22)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7450714": {
+    "code": "CA7450(7-14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7475319": {
+    "code": "CA7475(3-19)",
+    "category": "AL",
+    "label": "Auto Dealers (AL) - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca7479222": {
+    "code": "CA7479 (2-22)",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca74791117": {
+    "code": "CA7479(11-17)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca7479m1216": {
+    "code": "CA7479M(12-16)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca9040041006": {
+    "code": "CA9 04 004 10 06",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ca9901870715": {
+    "code": "CA990187 0715",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ca990187va0715": {
+    "code": "CA990187VA 0715",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ca9903120514": {
+    "code": "CA990312 0514",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cad09040122": {
+    "code": "CAD 09 04 01 22",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cad09040716": {
+    "code": "CAD 09 04 07 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Enhancement Endorsement",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cad09041017": {
+    "code": "CAD 09 04 10 17",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cad09080417": {
+    "code": "CAD 09 08 04 17",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cad09310122": {
+    "code": "CAD 09 31 01 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cad09311017": {
+    "code": "CAD 09 31 10 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cae01310810": {
+    "code": "CAE 0131 0810",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cae01311508": {
+    "code": "CAE 0131 1508",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cahg00171222": {
+    "code": "CAHG0017 1222",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cahg00270720": {
+    "code": "CAHG0027 0720",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cau0030115": {
+    "code": "CAU 003 (01 15)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cau0420115": {
+    "code": "CAU 042 (01 15)",
+    "category": "AL",
+    "label": "Auto Liability - Additional Insured - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cau0580115": {
+    "code": "CAU 058 (01-15)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cau0580519": {
+    "code": "CAU 058 (05 19)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cau0581022": {
+    "code": "CAU 058 (10 22)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cau0691022": {
+    "code": "CAU 069 (10 22)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cau0690519": {
+    "code": "CAU 069 05 19",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cau0820115": {
+    "code": "CAU 082 (01 15)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "cau0850115": {
+    "code": "CAU 085 (01 15)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cba50040819": {
+    "code": "CBA 5 004 08 19",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cc99070208": {
+    "code": "CC 99 07 02 08",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cca0010822": {
+    "code": "CCA 001 08 22",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ccab1911013": {
+    "code": "CCAB191 1013",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cgd90490514": {
+    "code": "CGD 90 49 05 14",
+    "category": "AL",
+    "label": "Businessowners specifically for Automobile Liability - Hired & Non-owned Autos - Blanket Additional Insured, Primary and Non-contributory. UNACCEPTABLE IF \"OWNED AUTOS\" IS REQUIRED",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cgl1102cw0222": {
+    "code": "CGL 11 02 CW 02 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured (UNACCEPTABLE IF 'ALL OWNED' OR 'ANY AUTO' IS REQUIRED)",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "cic9571006": {
+    "code": "CIC-957 (10/06)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ckk104102016": {
+    "code": "CKK104 (10-2016)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca01490215": {
+    "code": "CL CA 01 49 02 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca01490617": {
+    "code": "CL CA 01 49 06 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "clca01490721": {
+    "code": "CL CA 01 49 07 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "clca01491222": {
+    "code": "CL CA 01 49 12 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "clca20140222": {
+    "code": "CL CA 20 14 02 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "clca20141013": {
+    "code": "CL CA 20 14 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "clca20820721": {
+    "code": "CL CA 20 82 07 21",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "clca20821222": {
+    "code": "CL CA 20 82 12 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca20830721": {
+    "code": "CL CA 20 83 07 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca20830918": {
+    "code": "CL CA 20 83 09 18",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca20920319": {
+    "code": "CL CA 20 92 03 19",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca20921222": {
+    "code": "CL CA 20 92 12 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca20930319": {
+    "code": "CL CA 20 93 03 19",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "clca20930721": {
+    "code": "CL CA 20 93 07 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "clca20931222": {
+    "code": "CL CA 20 93 12 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cna63359ga052012": {
+    "code": "CNA63359GA (05-2012)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cna63359xx042012": {
+    "code": "CNA63359XX (04-2012)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributoy, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cna63359xxed0412": {
+    "code": "CNA63359XX (Ed. 04-12)\n",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cna71527xx102012": {
+    "code": "CNA71527XX (10-2012)",
+    "category": "AL",
+    "label": "Auto Liability - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "cna71527xx1012": {
+    "code": "CNA71527XX (10/12)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cna83700xx102015": {
+    "code": "CNA83700XX (10-2015)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "cna89210xx617": {
+    "code": "CNA89210XX (6-17)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "da13115a0614": {
+    "code": "DA-13115a (06/14)",
+    "category": "AL",
+    "label": "Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "da13118a0614": {
+    "code": "DA-13118a (06/14)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "da21886b0614": {
+    "code": "DA-21886b (06/14)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "da6z04a0614": {
+    "code": "DA-6Z04a (06-14)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "da9u74": {
+    "code": "DA-9U74",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Designated Persons or Organizations",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "da9u74c0316": {
+    "code": "DA-9U74c (03/16)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "e3153edl606913153": {
+    "code": "E3153-EDl 6-06 91-3153",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ea99101113": {
+    "code": "EA 99 10 11 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ea99110318": {
+    "code": "EA 99 11 03 18",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "eca045060214": {
+    "code": "ECA 04 506 02 14",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "eca045060609": {
+    "code": "ECA 04 506 06 09",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "eca245030214": {
+    "code": "ECA 24 503 02 14",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "eca245090414": {
+    "code": "ECA 24 509 04 14",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "fa20480797": {
+    "code": "FA 20 48 07 97",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "fm114013691209": {
+    "code": "FM 114.0.1369 12 09",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "fm114013781013": {
+    "code": "FM 114.0.1378 10 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "fm114013781111": {
+    "code": "FM 114.0.1378 11 11",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "g56015bed1191": {
+    "code": "G-56015-B (ED. 11/91)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "gic00290498": {
+    "code": "GIC 00 29 04-98",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ha99130187": {
+    "code": "HA 99 13 01 87",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ha99160121": {
+    "code": "HA 99 16 01 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ha99160312": {
+    "code": "HA 99 16 03 12",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory, 60 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ha99161221": {
+    "code": "HA 99 16 12 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ha99170614": {
+    "code": "HA 99 17 06 14",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ha99171221": {
+    "code": "HA 99 17 12 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ha99191221": {
+    "code": "HA 99 19 12 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ha99240420": {
+    "code": "HA 99 24 04 20",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ha99241221": {
+    "code": "HA 99 24 12 21",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ha99871221": {
+    "code": "HA 99 87 12 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "hd99020912": {
+    "code": "HD 99 02 09 12",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "hiigcaes20050319": {
+    "code": "HIIG CA ES 20 05 03 19",
+    "category": "AL",
+    "label": "Blanket Additional Insured - Ongoing & Completed - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ihcaxai0418": {
+    "code": "IH-CAX-AI 0418",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "iic20101020": {
+    "code": "IIC 20 10 10 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "iicca33010413": {
+    "code": "IIC CA 33 01 04 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "ikk376072013": {
+    "code": "IKK376 (07-2013)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ilfm300314": {
+    "code": "IL FM 30 03 14",
+    "category": "AL",
+    "label": "Business Auto / Garage Coverage - Blanket Additional Insured - Ongoing & Completed - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "j7120ed2621": {
+    "code": "J7120-ED2 6-21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ja5204us1014": {
+    "code": "JA5204US 10-14",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Primary & Non Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "liirrg0100621": {
+    "code": "LIIRRG-010 06 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "lim99010511": {
+    "code": "LIM 99 01 05 11",
+    "category": "AL",
+    "label": "Business Auto Coverage Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "m5144a062007": {
+    "code": "M-5144a (06/2007)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "m5876052016": {
+    "code": "M-5876 (05-2016)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "m5876052016d2": {
+    "code": "M-5876 (05/2016)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "m2855a819": {
+    "code": "M2855A (8-19)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation, Primary & Non-Contributory ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ma040080118": {
+    "code": "MA 04 008 01 18",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured -  Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ma040100118": {
+    "code": "MA 04 010 01 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ma040130518": {
+    "code": "MA 04 013 05 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "mca20480711": {
+    "code": "MCA20480711",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "mca85100817ca": {
+    "code": "MCA85100817-CA",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "mca85101213ca": {
+    "code": "MCA85101213-CA",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "mfmca0050520": {
+    "code": "MFMCA005 05-20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "mfmca006082020": {
+    "code": "MFMCA006 08-2020",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "mm0340616": {
+    "code": "MM 034 (06/16)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "mm20261013": {
+    "code": "MM 20 26 10 13",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "mmca4890219": {
+    "code": "MM CA 489 02 19",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Operations - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ms14150514": {
+    "code": "MS 1415 05 14",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ms14400611": {
+    "code": "MS 1440 06 11",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ms14501015": {
+    "code": "MS 1450 10 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "mu76250523": {
+    "code": "MU 76 25 05 23",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "mu76250718": {
+    "code": "MU 76 25 07 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "mu82690718": {
+    "code": "MU 82 69 07 18",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "mu83890718": {
+    "code": "MU 83 89 07 18",
+    "category": "AL",
+    "label": "Commercial Auto - Blanket Additional Insured - Ongoing & Completed - Primary & Non-contributory - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "naca090121": {
+    "code": "NA CA 09 01 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "naca09ks0121": {
+    "code": "NA CA 09KS 01 21",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "nca70040118": {
+    "code": "NCA 70 04 01 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "nica50570614": {
+    "code": "NI CA 50 57 06 14",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "nsicgmiba001ed0819": {
+    "code": "NSIC-GMI-BA-001 (Ed. 08/19)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "nsicgmiba001fled0520": {
+    "code": "NSIC-GMI-BA-001 FL (Ed. 05-20)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "pca0011013": {
+    "code": "PCA 001 10 13",
+    "category": "AL",
+    "label": "Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "pca0241013": {
+    "code": "PCA 024 10 13",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "pca0480919": {
+    "code": "PCA 048 09 19 ",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Ongoing & Completed - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "pca0481013": {
+    "code": "PCA 048 10 13 ",
+    "category": "AL",
+    "label": "Auto - Additional Insured - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "pd01731114": {
+    "code": "PD 01 73 11 14",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "pd01930410": {
+    "code": "PD 01 93 04 10",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "pgc0010915": {
+    "code": "PGC 001 09 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, 60 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "pica0010915": {
+    "code": "PI-CA-001 (09/15)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "pica0030414": {
+    "code": "PI-CA-003 (04/14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "pica0230719": {
+    "code": "PI-CA-023 (07/19)",
+    "category": "AL",
+    "label": "Business Auto - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "ppa3000313": {
+    "code": "PPA 300 03 13",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "rau3000117": {
+    "code": "RAU 300 01 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sa00039000118": {
+    "code": "SA 00039 00 (01/18)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "sa30020608": {
+    "code": "SA 30 02 06 08",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "sa30000608": {
+    "code": "SA 3000 (06-08)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "sa30051110": {
+    "code": "SA3005 (11/10)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sb146902g31ed616": {
+    "code": "SB146902G31 (Ed. 6-16)",
+    "category": "AL",
+    "label": "Business Auto - Hired and Non-Owned - Blanket Additional Insured. UNACCEPTABLE IF \"ALL OWNED\" OR \"ANY AUTO\" IS REQUIRED",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sbfae0218": {
+    "code": "SBFAE 02 18",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sbfaetx0618": {
+    "code": "SBFAE TX 06 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sca0020417": {
+    "code": "SCA 002 04 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sca0050417": {
+    "code": "SCA 005 04 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sca0050522": {
+    "code": "SCA 005 05 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sca01002032010ed": {
+    "code": "SCA 01 002 (03-2010 ed.)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sca010020718": {
+    "code": "SCA 01 002 (0718)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sca010021013": {
+    "code": "SCA 01 002 1013",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sca0160318": {
+    "code": "SCA 016 03 18",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Primary & Non-Contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sca0160922": {
+    "code": "SCA 016 09 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sca23500d102011": {
+    "code": "SCA 23 500 D (10-2011)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "sca23500d09ed1011": {
+    "code": "SCA 23 500D09 (Ed. 10/11)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sica10160919": {
+    "code": "SICA-1016 (0919)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sica10160621": {
+    "code": "SICA-1016 06 21",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sica10170919": {
+    "code": "SICA-1017 (0919)",
+    "category": "AL",
+    "label": "Business Auto - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "sica10200919": {
+    "code": "SICA-1020 (0919)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "sica10240621": {
+    "code": "SICA-1024 06 21",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "snca0261013": {
+    "code": "SNCA 026 10 13",
+    "category": "AL",
+    "label": "Commercial Automobile - Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "snca0271013": {
+    "code": "SNCA 027 10 13",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "snca0271111": {
+    "code": "SNCA 027 1111",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "st17180617": {
+    "code": "ST 17 18 06 17",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "trs7000120": {
+    "code": "TRS 700 (01/20)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "uca424ecw0411": {
+    "code": "U-CA-424-E CW (04-11)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca424fcw0414": {
+    "code": "U-CA-424-F CW (04-14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "uca424ffl0818": {
+    "code": "U-CA-424-F FL (08-18)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "uca424fma1014": {
+    "code": "U-CA-424-F MA (10/14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca424fmi0214": {
+    "code": "U-CA-424-F MI (02-14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca424gny0917": {
+    "code": "U-CA-424-G NY (09-17)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca424hcw1021": {
+    "code": "U-CA-424-H CW (10-21)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "uca424hfl1021": {
+    "code": "U-CA-424-H FL (10-21)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Waiver of Subrogation, Primary & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca424hny1021": {
+    "code": "U-CA-424-H NY (10-21)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "uca428aak0714": {
+    "code": "U-CA-428-A AK (07/14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca428acw0214": {
+    "code": "U-CA-428-A CW (02-14)",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca428ccw1021": {
+    "code": "U-CA-428-C CW (10/21)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca428cva1021": {
+    "code": "U-CA-428-C VA (10-21)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca474fcw0414": {
+    "code": "U-CA-474-F CW (04/14)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "uca832acw0113": {
+    "code": "U-CA-832-A CW (01/13)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "ugca35990107": {
+    "code": "UGCA 35 99 01 07",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "vca2010618": {
+    "code": "VCA 201 06 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "vca2190316": {
+    "code": "VCA 219 03 16",
+    "category": "AL",
+    "label": "Business Auto - Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "vca627tx0109": {
+    "code": "VCA 627 TX 01 09",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "vlca20530611": {
+    "code": "VL CA 20 53 0611",
+    "category": "AL",
+    "label": "Auto - Additional Insured - Primary  & Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "vlca50570611": {
+    "code": "VLCA 50 57 06 11",
+    "category": "AL",
+    "label": "Auto - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "wb11351122": {
+    "code": "WB 1135 11 22",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "wnca270616": {
+    "code": "WN CA 27 06 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "wnca710616": {
+    "code": "WN CA 71 06 16",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Primary  & Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "wnca800619": {
+    "code": "WN CA 80 06 19",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "xic4111013": {
+    "code": "XIC 411 1013",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured -  Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "acceptable"
+    }
+  },
+  "xic4141013": {
+    "code": "XIC 414 1013",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "xic4211013": {
+    "code": "XIC 421 1013",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory - 60 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
+  },
+  "yacobed711uf8394": {
+    "code": "YACOB (Ed. 7/11) UF-8394",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  }
+}

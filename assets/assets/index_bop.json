@@ -12,7 +12,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "0120101219": {
     "code": "01 2010 12 19",
@@ -27,7 +29,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "0120370413": {
     "code": "01 2037 04 13",
@@ -42,7 +46,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "0120381219": {
     "code": "01 2038 12 19",
@@ -57,7 +63,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "0120401219": {
     "code": "01 2040 12 19",
@@ -72,7 +80,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "0160890721": {
     "code": "01 6089 07 21",
@@ -102,7 +112,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "031510214": {
     "code": "03-151 02-14",
@@ -192,7 +204,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "2601150511": {
     "code": "26-0115 05 11",
@@ -282,7 +296,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "39114480816": {
     "code": "391-1448 08 16",
@@ -372,7 +388,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "39119440816": {
     "code": "391-1944 08 16",
@@ -644,7 +662,7 @@
     },
     "restrictions": {}
   },
-  "all326870111_2": {
+  "all326870111d2": {
     "code": "ALL-32687 (01/11)",
     "category": "BOP",
     "label": "30 Days' Notice of Cancellation",
@@ -717,7 +735,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "b1170420": {
     "code": "B117 04 20",
@@ -957,7 +977,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bop501460218": {
     "code": "BOP-50146 (02/18)",
@@ -972,7 +994,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bop502350318": {
     "code": "BOP-50235 (03/18)",
@@ -1422,7 +1446,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp04500197": {
     "code": "BP 04 50 01 97",
@@ -1467,7 +1493,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp04510106": {
     "code": "BP 04 51 01 06",
@@ -1482,7 +1510,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "bp04510197": {
     "code": "BP 04 51 01 97",
@@ -1512,7 +1542,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "bp04970106": {
     "code": "BP 04 97 01 06",
@@ -1602,7 +1634,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp14870713": {
     "code": "BP 14 87 07 13",
@@ -1677,7 +1711,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp71911117": {
     "code": "BP 71 91 11 17",
@@ -1692,7 +1728,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp71940410": {
     "code": "BP 71 94 04 10",
@@ -1887,7 +1925,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp89460418": {
     "code": "BP 89 46 04 18",
@@ -1902,7 +1942,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp89470418": {
     "code": "BP 89 47 04 18",
@@ -1917,7 +1959,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bp90071114": {
     "code": "BP 90 07 11 14",
@@ -2097,7 +2141,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "bpf1150709": {
     "code": "BP-F-115 (07-09)",
@@ -2307,7 +2353,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "bpm3100fl0316": {
     "code": "BPM 3100FL 03 16",
@@ -2337,7 +2385,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "bpm31051207": {
     "code": "BPM 3105 1207",
@@ -2352,7 +2402,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "bpm3105a0515": {
     "code": "BPM 3105A 05 15",
@@ -2397,7 +2449,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "bpm31480515": {
     "code": "BPM 3148 05 15",
@@ -2502,7 +2556,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "cb7245713": {
     "code": "CB-7245(7-13)",
@@ -2517,7 +2573,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "cb7252410": {
     "code": "CB-7252(4-10)",
@@ -2637,7 +2695,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "cb7456820": {
     "code": "CB-7456(8-20)",
@@ -2952,7 +3012,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "cmp47861": {
     "code": "CMP-4786.1 ",
@@ -3087,7 +3149,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "cmp4943": {
     "code": "CMP-4943",
@@ -3582,7 +3646,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "j7100ed20518937100": {
     "code": "J7100-ED2 05-18 93-7100",
@@ -3642,7 +3708,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "j7240ed10219": {
     "code": "J7240-ED1 02 19",
@@ -3657,7 +3725,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "m1333mgle0310314": {
     "code": "M-1333-MGL-E031 (03-14)",
@@ -3777,7 +3847,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "mfmbp0360918": {
     "code": "MFMBP036 09-18",
@@ -3792,7 +3864,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "mm0540111": {
     "code": "MM 054 01 11",
@@ -3809,7 +3883,7 @@
     },
     "restrictions": {}
   },
-  "mm0540111_2": {
+  "mm0540111d2": {
     "code": "MM054 01 11",
     "category": "BOP",
     "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
@@ -3837,9 +3911,11 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
-  "mu82771019_2": {
+  "mu82771019d2": {
     "code": "MU 82 77 10 19",
     "category": "BOP",
     "label": "Businessowners - Blanket Additional Insured - Ongoing, Primary & Non-contributory",
@@ -4167,7 +4243,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "ppb3130212": {
     "code": "PPB 313 02 12",
@@ -4197,7 +4275,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "s2554ed20122": {
     "code": "S2554-ED2 01-22",
@@ -4302,7 +4382,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sb04360117": {
     "code": "SB 04 36 01 17",
@@ -4332,7 +4414,9 @@
       "pnc": true,
       "noc": true
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sb04481017": {
     "code": "SB 04 48 10 17",
@@ -4362,7 +4446,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "sb13070416": {
     "code": "SB 13 07 04 16",
@@ -4422,7 +4508,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "sb146932eed0611": {
     "code": "SB-146932-E (Ed. 06/11)",
@@ -4542,7 +4630,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sb146932g17ed1019": {
     "code": "SB146932G17 (Ed. 10-19)",
@@ -4602,7 +4692,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sb146935e31222": {
     "code": "SB146935E31 (2-22)",
@@ -4647,7 +4739,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sb146968ced1019": {
     "code": "SB146968C (Ed. 10-19)",
@@ -4662,7 +4756,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sb146968c310222": {
     "code": "SB146968C31 (02-22)",
@@ -4887,7 +4983,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sl30321018": {
     "code": "SL 30 32 10 18",
@@ -4902,7 +5000,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "sl30431018": {
     "code": "SL 30 43 10 18",
@@ -4992,7 +5092,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "ss01210614": {
     "code": "SS 01 21 06 14",
@@ -5082,7 +5184,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "ss41710611": {
     "code": "SS 41 71 06 11",
@@ -5112,7 +5216,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "acceptable"
+    }
   },
   "ss41750314": {
     "code": "SS 41 75 03 14",
@@ -5187,7 +5293,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": "unacceptable"
+    }
   },
   "ve06000614": {
     "code": "VE 06 00 06 14",
@@ -5247,6 +5355,13 @@
       "pnc": false,
       "noc": true
     },
+    "restrictions": {}
+  },
+  "ss00080405d2": {
+    "code": "SS 00 08 04 05",
+    "category": "BOP",
+    "label": "SECOND TEST",
+    "properties": {},
     "restrictions": {}
   }
 }
