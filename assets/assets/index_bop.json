@@ -1,4 +1,102 @@
 {
+  "21710718": {
+    "code": "2171 (07-18)",
+    "category": "BOP",
+    "label": "Business Liability - Blanket Additional Insured - Ongoing",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "ongoing",
+      "wos": false,
+      "pnc": false,
+      "noc": false
+    },
+    "restrictions": {}
+  },
+  "22860718": {
+    "code": "2286 (07-18)",
+    "category": "BOP",
+    "label": "Business Liability - Blanket Additional Insured - Completed",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "completed",
+      "wos": false,
+      "pnc": false,
+      "noc": false
+    },
+    "restrictions": {}
+  },
+  "54619894": {
+    "code": "54619 (8-94)",
+    "category": "BOP",
+    "label": "Businessowners - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "operations": "none",
+      "wos": false,
+      "pnc": false,
+      "noc": false
+    },
+    "restrictions": {}
+  },
+  "182031118": {
+    "code": "18203 11 18",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "wos": false,
+      "pnc": false,
+      "noc": false
+    },
+    "restrictions": {}
+  },
+  "543601008": {
+    "code": "54360 (10-08)",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "wos": true,
+      "pnc": false,
+      "noc": false
+    },
+    "restrictions": {}
+  },
+  "2601150511": {
+    "code": "26-0115 05 11",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "wos": true,
+      "pnc": false,
+      "noc": false
+    },
+    "restrictions": {}
+  },
+  "3911006702": {
+    "code": "391-1006 (7/02)",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "wos": false,
+      "pnc": true,
+      "noc": false
+    },
+    "restrictions": {}
+  },
   "0120100413": {
     "code": "01 2010 04 13",
     "category": "BOP",
@@ -6,8 +104,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -23,8 +120,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -40,8 +136,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -57,8 +152,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -74,8 +168,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -91,8 +184,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -106,8 +198,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -123,8 +214,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -138,54 +228,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
-      "pnc": false,
-      "noc": false
-    },
-    "restrictions": {}
-  },
-  "182031118": {
-    "code": "18203 11 18",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "ongoing": true,
-      "completed": true,
-      "wos": false,
-      "pnc": false,
-      "noc": false
-    },
-    "restrictions": {}
-  },
-  "21710718": {
-    "code": "2171 (07-18)",
-    "category": "BOP",
-    "label": "Business Liability - Blanket Additional Insured - Ongoing",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "ongoing": true,
-      "completed": false,
-      "wos": false,
-      "pnc": false,
-      "noc": false
-    },
-    "restrictions": {}
-  },
-  "22860718": {
-    "code": "2286 (07-18)",
-    "category": "BOP",
-    "label": "Business Liability - Blanket Additional Insured - Completed",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "ongoing": false,
-      "completed": true,
-      "wos": false,
       "pnc": false,
       "noc": false
     },
@@ -198,8 +242,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -208,21 +251,6 @@
       "cpl": "acceptable"
     }
   },
-  "2601150511": {
-    "code": "26-0115 05 11",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "ongoing": true,
-      "completed": true,
-      "wos": true,
-      "pnc": false,
-      "noc": false
-    },
-    "restrictions": {}
-  },
   "30ap21430318": {
     "code": "30AP2143 03 18",
     "category": "BOP",
@@ -230,8 +258,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -245,26 +272,10 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": true
-    },
-    "restrictions": {}
-  },
-  "3911006702": {
-    "code": "391-1006 (7/02)",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "ongoing": true,
-      "completed": true,
-      "wos": false,
-      "pnc": true,
-      "noc": false
     },
     "restrictions": {}
   },
@@ -275,8 +286,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -290,8 +300,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -307,8 +316,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -322,8 +330,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -337,8 +344,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -352,8 +358,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -367,8 +372,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -382,8 +386,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -399,8 +402,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -414,40 +416,9 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
-    },
-    "restrictions": {}
-  },
-  "543601008": {
-    "code": "54360 (10-08)",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "ongoing": true,
-      "completed": true,
-      "wos": true,
-      "pnc": false,
-      "noc": false
-    },
-    "restrictions": {}
-  },
-  "54619894": {
-    "code": "54619 (8-94)",
-    "category": "BOP",
-    "label": "Businessowners - Additional Insured",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "ongoing": false,
-      "completed": false,
-      "wos": false,
-      "pnc": false,
       "noc": false
     },
     "restrictions": {}
@@ -459,8 +430,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -474,8 +444,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -489,8 +458,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -504,8 +472,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -519,8 +486,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -534,8 +500,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -549,8 +514,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -564,8 +528,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -579,8 +542,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -594,8 +556,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -609,8 +570,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -624,8 +584,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -639,8 +598,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -654,8 +612,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -669,8 +626,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -684,8 +640,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -699,8 +654,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -714,8 +668,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -729,8 +682,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -746,8 +698,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -761,8 +712,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -776,8 +726,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -791,8 +740,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -806,8 +754,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -821,8 +768,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -836,8 +782,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -851,8 +796,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -866,8 +810,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -881,8 +824,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -896,8 +838,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -911,8 +852,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -926,8 +866,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -941,8 +880,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -956,8 +894,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -971,8 +908,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -988,8 +924,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1005,8 +940,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1020,8 +954,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -1035,8 +968,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -1050,8 +982,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1065,8 +996,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1080,8 +1010,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1095,8 +1024,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1110,8 +1038,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1125,8 +1052,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1140,8 +1066,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1155,8 +1080,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": true
@@ -1170,8 +1094,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1185,8 +1108,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1200,8 +1122,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": true
@@ -1215,8 +1136,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": true
@@ -1230,8 +1150,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": true
@@ -1245,8 +1164,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1260,8 +1178,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1275,8 +1192,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1290,8 +1206,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1305,8 +1220,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -1320,8 +1234,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1335,8 +1248,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1350,8 +1262,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1365,8 +1276,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1380,8 +1290,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1395,8 +1304,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1410,8 +1318,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1425,8 +1332,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1440,8 +1346,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1457,8 +1362,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1472,8 +1376,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1487,8 +1390,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1504,8 +1406,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1521,8 +1422,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1536,8 +1436,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1553,8 +1452,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -1568,8 +1466,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -1583,8 +1480,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1598,8 +1494,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -1613,8 +1508,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1628,8 +1522,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1645,8 +1538,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1660,8 +1552,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1675,8 +1566,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1690,8 +1580,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1705,8 +1594,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -1722,8 +1610,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1739,8 +1626,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1754,8 +1640,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1769,8 +1654,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1784,8 +1668,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1799,8 +1682,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1814,8 +1696,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1829,8 +1710,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -1844,8 +1724,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1859,8 +1738,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1874,8 +1752,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1889,8 +1766,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": true
@@ -1904,8 +1780,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": true
@@ -1919,8 +1794,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1936,8 +1810,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1953,8 +1826,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -1970,8 +1842,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -1985,8 +1856,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -2000,8 +1870,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2015,8 +1884,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2030,8 +1898,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2045,8 +1912,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2060,8 +1926,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2075,8 +1940,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2090,8 +1954,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -2105,8 +1968,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2120,8 +1982,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2135,8 +1996,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -2152,8 +2012,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2167,8 +2026,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2182,8 +2040,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2197,8 +2054,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2212,8 +2068,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2227,8 +2082,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2242,8 +2096,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2257,8 +2110,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -2272,8 +2124,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2287,8 +2138,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2302,8 +2152,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2317,8 +2166,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2332,8 +2180,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2347,8 +2194,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2364,8 +2210,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2379,8 +2224,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2396,8 +2240,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2413,8 +2256,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2428,8 +2270,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2443,8 +2284,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2460,8 +2300,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2475,8 +2314,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2490,8 +2328,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2505,8 +2342,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2516,12 +2352,11 @@
   "cb1488713": {
     "code": "CB-1488(7-13)",
     "category": "BOP",
-    "label": "Bis-Pak\u00ae Business Liability - Primary & Non-contributory",
+    "label": "Bis-Pak® Business Liability - Primary & Non-contributory",
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2531,12 +2366,11 @@
   "cb7245308": {
     "code": "CB-7245(3-08)",
     "category": "BOP",
-    "label": "Bis-Pak\u00ae Business Liability - Blanket Additional Insured - Completed",
+    "label": "Bis-Pak® Business Liability - Blanket Additional Insured - Completed",
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2550,8 +2384,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2567,8 +2400,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2580,12 +2412,11 @@
   "cb7252410": {
     "code": "CB-7252(4-10)",
     "category": "BOP",
-    "label": "Bis-Pak\u00ae Business Liability - Waiver of Subrogation",
+    "label": "Bis-Pak® Business Liability - Waiver of Subrogation",
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2599,8 +2430,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2614,8 +2444,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2629,8 +2458,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2644,8 +2472,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2659,8 +2486,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2670,12 +2496,11 @@
   "cb74331001": {
     "code": "CB-7433(10-01)",
     "category": "BOP",
-    "label": "Bis-Pak\u00ae Business Liability - Blanket Additional Insured - Ongoing",
+    "label": "Bis-Pak® Business Liability - Blanket Additional Insured - Ongoing",
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2689,8 +2514,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2706,8 +2530,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2721,8 +2544,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2736,8 +2558,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": true
@@ -2751,8 +2572,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2766,8 +2586,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -2781,8 +2600,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -2796,8 +2614,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -2811,8 +2628,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2826,8 +2642,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2841,8 +2656,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2856,8 +2670,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2871,8 +2684,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2886,8 +2698,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2901,8 +2712,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2916,8 +2726,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -2931,8 +2740,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2946,8 +2754,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2961,8 +2768,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2976,8 +2782,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -2991,8 +2796,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3006,8 +2810,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3023,8 +2826,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3038,8 +2840,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3053,8 +2854,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3068,8 +2868,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3083,8 +2882,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3098,8 +2896,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3113,8 +2910,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3128,8 +2924,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3143,8 +2938,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3160,8 +2954,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3175,8 +2968,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3190,8 +2982,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3205,8 +2996,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3220,8 +3010,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3235,8 +3024,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3250,8 +3038,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3265,8 +3052,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": true
@@ -3280,8 +3066,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3295,8 +3080,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3310,8 +3094,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3325,8 +3108,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3340,8 +3122,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3355,8 +3136,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3370,8 +3150,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3385,8 +3164,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3400,8 +3178,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3415,8 +3192,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3430,8 +3206,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3445,8 +3220,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3460,8 +3234,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3475,8 +3248,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3490,8 +3262,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3505,8 +3276,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3520,8 +3290,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3535,8 +3304,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3550,8 +3318,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3565,8 +3332,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3580,8 +3346,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3595,8 +3360,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -3610,8 +3374,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -3625,8 +3388,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -3640,8 +3402,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3657,8 +3418,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3672,8 +3432,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3687,8 +3446,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3702,8 +3460,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3719,8 +3476,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3736,8 +3492,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3751,8 +3506,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3766,8 +3520,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3781,8 +3534,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3796,8 +3548,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3811,8 +3562,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3826,8 +3576,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -3841,8 +3590,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3858,8 +3606,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -3875,8 +3622,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3890,8 +3636,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3905,8 +3650,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3922,8 +3666,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3937,8 +3680,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3952,8 +3694,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -3967,8 +3708,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -3982,8 +3722,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -3997,8 +3736,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4012,8 +3750,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4027,8 +3764,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4042,8 +3778,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4057,8 +3792,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4072,8 +3806,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4087,8 +3820,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4102,8 +3834,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4117,8 +3848,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4132,8 +3862,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4147,8 +3876,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4162,8 +3890,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4177,8 +3904,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4192,8 +3918,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4207,8 +3932,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4222,8 +3946,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4237,8 +3960,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4254,8 +3976,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4269,8 +3990,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4286,8 +4006,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4301,8 +4020,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4316,8 +4034,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4331,8 +4048,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -4346,8 +4062,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4361,8 +4076,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4376,8 +4090,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4393,8 +4106,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": true
@@ -4408,8 +4120,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": true
@@ -4425,8 +4136,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": true
@@ -4440,8 +4150,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4457,8 +4166,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4472,8 +4180,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4487,8 +4194,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -4502,8 +4208,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4519,8 +4224,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4534,8 +4238,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4549,8 +4252,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4564,8 +4266,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -4579,8 +4280,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4594,8 +4294,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4609,8 +4308,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4624,8 +4322,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4641,8 +4338,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4656,8 +4352,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4671,8 +4366,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4686,8 +4380,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4703,8 +4396,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4718,8 +4410,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4733,8 +4424,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4750,8 +4440,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4767,8 +4456,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4782,8 +4470,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4797,8 +4484,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4812,8 +4498,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -4827,8 +4512,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4842,8 +4526,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4853,12 +4536,11 @@
   "sb300176eed1019": {
     "code": "SB300176E (Ed. 10-19)",
     "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory - Gen. Aggregate Limit \u2013 Per Project",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory - Gen. Aggregate Limit – Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4872,8 +4554,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4887,8 +4568,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4902,8 +4582,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4917,8 +4596,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -4932,8 +4610,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4947,8 +4624,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -4962,8 +4638,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -4977,8 +4652,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -4994,8 +4668,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5011,8 +4684,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5026,8 +4698,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5041,8 +4712,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": true
@@ -5056,8 +4726,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5071,8 +4740,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": true,
       "noc": false
@@ -5082,12 +4750,11 @@
   "ss00080405": {
     "code": "SS 00 08 04 05",
     "category": "BOP",
-    "label": "BOP  - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation & Primary & Non-contributory - Cross Liability; Gen. Aggregate Limit \u2013 Per Location",
+    "label": "BOP  - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation & Primary & Non-contributory - Cross Liability; Gen. Aggregate Limit – Per Location",
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -5103,8 +4770,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5118,8 +4784,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5133,8 +4798,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": true,
       "pnc": false,
       "noc": false
@@ -5148,8 +4812,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5163,8 +4826,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5178,8 +4840,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5195,8 +4856,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5210,8 +4870,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5227,8 +4886,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5242,8 +4900,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5257,8 +4914,7 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "ongoing": true,
-      "completed": false,
+      "operations": "ongoing",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5272,8 +4928,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5287,8 +4942,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": false,
-      "completed": true,
+      "operations": "completed",
       "wos": false,
       "pnc": false,
       "noc": false
@@ -5304,8 +4958,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5319,8 +4972,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
@@ -5334,8 +4986,7 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "ongoing": true,
-      "completed": true,
+      "operations": "both",
       "wos": true,
       "pnc": true,
       "noc": false
@@ -5349,8 +5000,7 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "ongoing": false,
-      "completed": false,
+      "operations": "none",
       "wos": false,
       "pnc": false,
       "noc": true
