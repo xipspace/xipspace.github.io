@@ -110,7 +110,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "0120101219": {
@@ -126,7 +126,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "0120370413": {
@@ -142,7 +142,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "0120381219": {
@@ -158,7 +158,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "0120401219": {
@@ -174,7 +174,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "0160890721": {
@@ -204,7 +204,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "031510214": {
@@ -248,7 +248,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "30ap21430318": {
@@ -277,7 +277,9 @@
       "pnc": true,
       "noc": true
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "39110060609": {
     "code": "391-1006 06 09",
@@ -291,7 +293,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "39110060816": {
     "code": "391-1006 08 16",
@@ -306,7 +310,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true,
+      "harvey": {}
     }
   },
   "39114480816": {
@@ -363,7 +368,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "39119370816": {
     "code": "391-1937 08 16",
@@ -377,7 +384,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "39119410816": {
     "code": "391-1941 08 16",
@@ -392,7 +401,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "39119440816": {
@@ -463,7 +472,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "8e3560ed062020": {
     "code": "8-E-3560 Ed. 06-2020",
@@ -688,7 +699,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "b1170420": {
@@ -773,7 +784,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bope9003ca1119": {
     "code": "BOP E9003 CA (11/19)",
@@ -843,7 +856,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bop476750316": {
     "code": "BOP-47675 (03/16)",
@@ -857,7 +872,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bop47675a0716": {
     "code": "BOP-47675a (07/16)",
@@ -914,7 +931,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bop501460218": {
@@ -930,7 +948,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "bop502350318": {
@@ -1309,7 +1327,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp04480197": {
     "code": "BP 04 48 01 97",
@@ -1323,7 +1343,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp04480713": {
     "code": "BP 04 48 07 13",
@@ -1337,7 +1359,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp04500106": {
     "code": "BP 04 50 01 06",
@@ -1352,7 +1376,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bp04500197": {
@@ -1367,7 +1392,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp04500400": {
     "code": "BP 04 50 04 00",
@@ -1396,7 +1423,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bp04510106": {
@@ -1412,7 +1440,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true,
+      "harvey": {}
     }
   },
   "bp04510197": {
@@ -1427,7 +1456,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp04510713": {
     "code": "BP 04 51 07 13",
@@ -1442,7 +1473,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true,
+      "harvey": {}
     }
   },
   "bp04970106": {
@@ -1513,7 +1545,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp14020713": {
     "code": "BP 14 02 07 13",
@@ -1528,7 +1562,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bp14870713": {
@@ -1543,7 +1578,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp14880713": {
     "code": "BP 14 88 07 13",
@@ -1600,7 +1637,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "bp71911117": {
@@ -1616,7 +1653,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "bp71940410": {
@@ -1659,7 +1696,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp7247ny0919": {
     "code": "BP 72 47NY 09 19",
@@ -1715,7 +1754,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp79960713": {
     "code": "BP 79 96 07 13",
@@ -1743,7 +1784,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp8641ed1106": {
     "code": "BP 86 41 (Ed. 11/06)",
@@ -1800,7 +1843,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bp89460418": {
@@ -1816,7 +1860,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bp89470418": {
@@ -1832,7 +1877,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "bp90071114": {
@@ -1903,7 +1949,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp992130217": {
     "code": "BP 99 213 02 17",
@@ -2002,7 +2050,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "bpf1150709": {
@@ -2017,7 +2065,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bpf1190704": {
     "code": "BP-F-119 (07-04)",
@@ -2073,7 +2123,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bpf252ca0111": {
     "code": "BP-F-252 (CA) (01-11)",
@@ -2101,7 +2153,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bp7200119": {
     "code": "BP7200(1-19)",
@@ -2185,7 +2239,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bpm31001207": {
     "code": "BPM 3100 1207",
@@ -2200,7 +2256,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "bpm3100fl0316": {
@@ -2215,7 +2271,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "bpm31021207": {
     "code": "BPM 3102 1207",
@@ -2230,7 +2288,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "bpm31051207": {
@@ -2246,7 +2304,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true,
+      "harvey": {}
     }
   },
   "bpm3105a0515": {
@@ -2290,7 +2349,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "bpm31480515": {
@@ -2390,7 +2449,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "cb7245713": {
@@ -2406,7 +2466,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "cb7252410": {
@@ -2505,7 +2566,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "cb7433713": {
     "code": "CB-7433(7-13)",
@@ -2520,7 +2583,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "cb7456820": {
@@ -2816,7 +2880,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "cmp47861": {
@@ -2944,7 +3009,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "cmp4943": {
@@ -3408,7 +3474,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "j7100ed20518937100": {
@@ -3466,7 +3533,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "j7240ed10219": {
@@ -3482,7 +3550,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true,
+      "harvey": {}
     }
   },
   "m1333mgle0310314": {
@@ -3596,7 +3665,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "mfmbp0360918": {
@@ -3612,7 +3681,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "mm0540111": {
@@ -3627,7 +3697,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "mm0540111d2": {
     "code": "MM054 01 11",
@@ -3656,7 +3728,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "mu82771019d2": {
@@ -3825,7 +3897,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "pb60010411": {
     "code": "PB 60 01 04 11",
@@ -3853,7 +3927,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "pb60720711": {
     "code": "PB 60 72 07 11",
@@ -3966,7 +4042,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "ppb3130212": {
@@ -3981,7 +4058,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "ppb3161113": {
     "code": "PPB 316 11 13",
@@ -3996,7 +4075,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "s2554ed20122": {
@@ -4096,7 +4176,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sb04360117": {
@@ -4126,7 +4206,7 @@
       "noc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sb04481017": {
@@ -4156,7 +4236,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true,
+      "harvey": {}
     }
   },
   "sb13070416": {
@@ -4214,7 +4295,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "sb146932eed0611": {
@@ -4229,7 +4310,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "sb147082eed0414": {
     "code": "SB-147082-E (Ed. 04/14)",
@@ -4271,7 +4354,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "sb146916eed0720": {
     "code": "SB146916E (Ed. 07-20)",
@@ -4299,7 +4384,9 @@
       "pnc": true,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "sb146932f31ed616": {
     "code": "SB146932F31 (Ed. 6-16)",
@@ -4328,7 +4415,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sb146932g17ed1019": {
@@ -4386,7 +4473,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "sb146935e31222": {
@@ -4430,7 +4518,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sb146968ced1019": {
@@ -4446,7 +4534,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sb146968c310222": {
@@ -4658,7 +4746,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "sl30321018": {
@@ -4674,7 +4763,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "sl30431018": {
@@ -4760,7 +4850,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "ss01210614": {
@@ -4846,7 +4937,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "ss41710611": {
@@ -4861,7 +4953,9 @@
       "pnc": false,
       "noc": false
     },
-    "restrictions": {}
+    "restrictions": {
+      "harvey": {}
+    }
   },
   "ss41711219": {
     "code": "SS 41 71 12 19",
@@ -4876,7 +4970,8 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false,
+      "harvey": {}
     }
   },
   "ss41750314": {
@@ -4948,7 +5043,7 @@
       "noc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ve06000614": {
@@ -5005,13 +5100,6 @@
       "pnc": false,
       "noc": true
     },
-    "restrictions": {}
-  },
-  "ss00080405d2": {
-    "code": "SS 00 08 04 05",
-    "category": "BOP",
-    "label": "SECOND TEST",
-    "properties": {},
     "restrictions": {}
   }
 }

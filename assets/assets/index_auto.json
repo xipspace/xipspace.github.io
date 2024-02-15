@@ -1,4 +1,380 @@
 {
+  "11980104": {
+    "code": "1198 (01/04)",
+    "category": "AL",
+    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "11980716": {
+    "code": "1198 (07-16)",
+    "category": "AL",
+    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "15084515": {
+    "code": "15084(5-15)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Primary & Non-contributoy",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "16020292": {
+    "code": "16-02-0292",
+    "category": "AL",
+    "label": "Commercial Automobile - Additional Insured - Ongoing & Completed - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "19580909": {
+    "code": "1958 09 09",
+    "category": "AL",
+    "label": "Auto - Primary & Non-contributory & Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "23660211": {
+    "code": "2366 (02/11)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  },
+  "23670610": {
+    "code": "2367 (06/10)",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "58503115": {
+    "code": "58503 (1-15)",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "58504115": {
+    "code": "58504 (1-15)",
+    "category": "AL",
+    "label": "Designated Insured for Covered Autos - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "58540415": {
+    "code": "58540 (4-15)",
+    "category": "AL",
+    "label": "Commercial Auto - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "58553112": {
+    "code": "58553 (1-12)",
+    "category": "AL",
+    "label": "Automobile Liability - Waiver of Subrogation, Primary and Non-Contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "58553122": {
+    "code": "58553 (1-22)",
+    "category": "AL",
+    "label": "Business Auto - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "58583115": {
+    "code": "58583 (1-15)",
+    "category": "AL",
+    "label": "Commercial Auto - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "62897695": {
+    "code": "62897 (6/95)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "87950914": {
+    "code": "87950 (9-14)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "89303610": {
+    "code": "89303 (6-10)",
+    "category": "AL",
+    "label": "Auto Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "89317114": {
+    "code": "89317 (1-14)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured ",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "94160295": {
+    "code": "94160(2-95)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "97240510": {
+    "code": "97240(5-10)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
+  "193480822": {
+    "code": "19348 08 22",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "193600822": {
+    "code": "19360 08 22",
+    "category": "AL",
+    "label": "Business Auto - Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "290190908": {
+    "code": "29-019 (09-08)",
+    "category": "AL",
+    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "325460315": {
+    "code": "3-2546 03 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket AI - Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "325461120": {
+    "code": "3-2546 11 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "326820918": {
+    "code": "3-2682 09 18",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "327811120": {
+    "code": "3-2781 11 20",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "328050315": {
+    "code": "3-2805 03 15",
+    "category": "AL",
+    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary and Non-Contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": true,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "744451099": {
+    "code": "74445 (10/99)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Primary & Non-contributoy",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": true
+    },
+    "restrictions": {}
+  },
+  "879501005": {
+    "code": "87950 (10-05)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "wos": false,
+      "pnc": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "893221010": {
+    "code": "89322 (10-10)",
+    "category": "AL",
+    "label": "Business Auto Coverage Form - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "wos": true,
+      "pnc": false
+    },
+    "restrictions": {}
+  },
   "00ca0032001003": {
     "code": "00 CA0032 00 10 03",
     "category": "AL",
@@ -34,7 +410,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "00ca0115001013": {
@@ -48,7 +424,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "00ca0116000410": {
@@ -110,7 +486,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "033300312": {
@@ -137,58 +513,8 @@
     },
     "restrictions": {}
   },
-  "11980104": {
-    "code": "1198 (01/04)",
-    "category": "AL",
-    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "11980716": {
-    "code": "1198 (07-16)",
-    "category": "AL",
-    "label": "Commercial Auto - Additional Insured - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "15084515": {
-    "code": "15084(5-15)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Primary & Non-contributoy",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "16020292": {
-    "code": "16-02-0292",
-    "category": "AL",
-    "label": "Commercial Automobile - Additional Insured - Ongoing & Completed - Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
   "16020292rev1116": {
-    "code": "16-02-0292 (Rev. 11-16) ",
+    "code": "16-02-0292 (Rev. 11-16)",
     "category": "AL",
     "label": "Commercial Automobile - Additional Insured - Ongoing & Completed - Waiver of Subrogation",
     "properties": {
@@ -198,7 +524,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "16020292rev411": {
@@ -225,68 +551,6 @@
     },
     "restrictions": {}
   },
-  "193480822": {
-    "code": "19348 08 22",
-    "category": "AL",
-    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory, Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "193600822": {
-    "code": "19360 08 22",
-    "category": "AL",
-    "label": "Business Auto - Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "19580909": {
-    "code": "1958 09 09",
-    "category": "AL",
-    "label": "Auto - Primary & Non-contributory & Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "23660211": {
-    "code": "2366 (02/11)",
-    "category": "AL",
-    "label": "Auto Liability - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {
-      "cpl": "unacceptable"
-    }
-  },
-  "23670610": {
-    "code": "2367 (06/10)",
-    "category": "AL",
-    "label": "Auto Liability - Waiver of Subrogation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
   "26ap10340822": {
     "code": "26AP1034 08 22",
     "category": "AL",
@@ -303,82 +567,6 @@
     "code": "26AP1034 11 19",
     "category": "AL",
     "label": "Business Auto - Blanket Additional Insured - Ongoing & Completed - Waiver of Subrogation - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "290190908": {
-    "code": "29-019 (09-08)",
-    "category": "AL",
-    "label": "Auto Liability - Blanket Additional Insured - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "325460315": {
-    "code": "3-2546 03 15",
-    "category": "AL",
-    "label": "Business Auto - Blanket AI - Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "325461120": {
-    "code": "3-2546 11 20",
-    "category": "AL",
-    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "326820918": {
-    "code": "3-2682 09 18",
-    "category": "AL",
-    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "327811120": {
-    "code": "3-2781 11 20",
-    "category": "AL",
-    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation - Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "328050315": {
-    "code": "3-2805 03 15",
-    "category": "AL",
-    "label": "Business Auto - Blanket Additional Insured - Waiver of Subrogation, Primary and Non-Contributory",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -446,7 +634,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "46104801212": {
@@ -497,82 +685,6 @@
     },
     "restrictions": {}
   },
-  "58503115": {
-    "code": "58503 (1-15)",
-    "category": "AL",
-    "label": "Business Auto - Additional Insured",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": false
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "58504115": {
-    "code": "58504 (1-15)",
-    "category": "AL",
-    "label": "Designated Insured for Covered Autos - Blanket Additional Insured",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": false
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "58540415": {
-    "code": "58540 (4-15)",
-    "category": "AL",
-    "label": "Commercial Auto - Primary & Non-contributory",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "58553112": {
-    "code": "58553 (1-12)",
-    "category": "AL",
-    "label": "Automobile Liability - Waiver of Subrogation, Primary and Non-Contributory",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "58553122": {
-    "code": "58553 (1-22)",
-    "category": "AL",
-    "label": "Business Auto - Waiver of Subrogation, Primary & Non-contributory",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "58583115": {
-    "code": "58583 (1-15)",
-    "category": "AL",
-    "label": "Commercial Auto - Waiver of Subrogation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
   "6028bj": {
     "code": "6028BJ",
     "category": "AL",
@@ -597,18 +709,6 @@
     },
     "restrictions": {}
   },
-  "62897695": {
-    "code": "62897 (6/95)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Waiver of Subrogation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
   "6487220418": {
     "code": "64 8722 0418",
     "category": "AL",
@@ -620,7 +720,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "64k2900418": {
@@ -634,7 +734,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "64k2901012": {
@@ -660,7 +760,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "64k4031218": {
@@ -674,7 +774,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "6487231112": {
@@ -760,7 +860,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "7117820520": {
@@ -774,7 +874,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "7117830520": {
@@ -788,7 +888,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "7120251118": {
@@ -797,18 +897,6 @@
     "label": "Business Auto - Primary & Non-contributoy",
     "properties": {
       "ai": false,
-      "blanket": false,
-      "wos": false,
-      "pnc": true
-    },
-    "restrictions": {}
-  },
-  "744451099": {
-    "code": "74445 (10/99)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Additional Insured - Primary & Non-contributoy",
-    "properties": {
-      "ai": true,
       "blanket": false,
       "wos": false,
       "pnc": true
@@ -826,7 +914,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "8e2419ed072011": {
@@ -864,7 +952,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "8e2676ed042017": {
@@ -891,70 +979,6 @@
     },
     "restrictions": {}
   },
-  "879501005": {
-    "code": "87950 (10-05)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": false
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "87950914": {
-    "code": "87950 (9-14)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Additional Insured",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": false
-    },
-    "restrictions": {
-      "cpl": "acceptable"
-    }
-  },
-  "89303610": {
-    "code": "89303 (6-10)",
-    "category": "AL",
-    "label": "Auto Liability - Waiver of Subrogation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
-  "89317114": {
-    "code": "89317 (1-14)",
-    "category": "AL",
-    "label": "Auto Liability - Blanket Additional Insured ",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
-  "893221010": {
-    "code": "89322 (10-10)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Waiver of Subrogation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
   "9371201stedition915": {
     "code": "93-7120 1STEDITION 9-15",
     "category": "AL",
@@ -964,30 +988,6 @@
       "blanket": false,
       "wos": true,
       "pnc": true
-    },
-    "restrictions": {}
-  },
-  "94160295": {
-    "code": "94160(2-95)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Additional Insured - Ongoing & Completed",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "wos": false,
-      "pnc": false
-    },
-    "restrictions": {}
-  },
-  "97240510": {
-    "code": "97240(5-10)",
-    "category": "AL",
-    "label": "Business Auto Coverage Form - Waiver of Subrogation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "wos": true,
-      "pnc": false
     },
     "restrictions": {}
   },
@@ -1038,7 +1038,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "aa2880620": {
@@ -1052,7 +1052,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "aa288fl0620": {
@@ -1138,7 +1138,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "aa41710620": {
@@ -1152,7 +1152,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "aa41711105": {
@@ -1166,7 +1166,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "aa41720909": {
@@ -1204,7 +1204,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "aafl201117": {
@@ -1278,7 +1278,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ac00331021": {
@@ -1316,7 +1316,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ac20410316": {
@@ -1366,7 +1366,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ac70050316": {
@@ -1380,7 +1380,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ac70051316": {
@@ -1394,7 +1394,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ac7005nh0917": {
@@ -1456,7 +1456,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ac85010618": {
@@ -1470,7 +1470,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ac85020618": {
@@ -1592,7 +1592,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "acme01ed921ufb982": {
@@ -1606,7 +1606,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "acne01ed822ufb983": {
@@ -1620,7 +1620,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "acpe01ed921ufb985": {
@@ -1682,7 +1682,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "acve01ed921ufc803": {
@@ -1756,7 +1756,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ahca85970917": {
@@ -1818,7 +1818,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "aica591222": {
@@ -1832,7 +1832,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "akk376102016": {
@@ -1894,7 +1894,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ap04021017": {
@@ -1932,7 +1932,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "au01131114": {
@@ -2042,7 +2042,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ba30001215": {
@@ -2056,7 +2056,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ba30020618": {
@@ -2118,7 +2118,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ba9904ny0618": {
@@ -2168,7 +2168,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "bhal001122021": {
@@ -2230,7 +2230,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca00011001": {
@@ -2268,7 +2268,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca00044000517": {
@@ -2450,7 +2450,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca20480797": {
@@ -2476,7 +2476,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca2048z1013": {
@@ -2550,7 +2550,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca31351018": {
@@ -2564,7 +2564,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca50570109": {
@@ -2578,7 +2578,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca52221015": {
@@ -2640,7 +2640,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca6720090615": {
@@ -2678,7 +2678,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca70751013": {
@@ -2752,7 +2752,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca71150508": {
@@ -2778,7 +2778,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca71181109": {
@@ -2792,7 +2792,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca71331109": {
@@ -2806,7 +2806,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca71650911": {
@@ -2820,7 +2820,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca71710508": {
@@ -2834,7 +2834,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca71860213": {
@@ -2860,7 +2860,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca75000317": {
@@ -2886,7 +2886,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca76010615": {
@@ -2900,7 +2900,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca76150618": {
@@ -2962,7 +2962,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca78090423": {
@@ -2976,7 +2976,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca78091117": {
@@ -2990,7 +2990,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7809nc1117": {
@@ -3040,7 +3040,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7809va0423": {
@@ -3054,7 +3054,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7809va1117": {
@@ -3116,7 +3116,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca83630418": {
@@ -3274,7 +3274,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "caf0790817": {
@@ -3288,7 +3288,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "caf0820816": {
@@ -3314,7 +3314,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "caf1290810": {
@@ -3340,7 +3340,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "caf2190321": {
@@ -3354,7 +3354,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "caf2190817": {
@@ -3380,7 +3380,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "caf2270817": {
@@ -3454,7 +3454,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cat3530310": {
@@ -3492,7 +3492,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cat4200215": {
@@ -3506,7 +3506,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cat4200710": {
@@ -3532,7 +3532,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cat4420216": {
@@ -3558,7 +3558,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cat4740817": {
@@ -3572,7 +3572,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cat4990216": {
@@ -3586,7 +3586,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cat4991215": {
@@ -3624,7 +3624,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca0444f310": {
@@ -3650,7 +3650,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7200ed1214": {
@@ -3688,7 +3688,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca72111098": {
@@ -3702,7 +3702,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca72121098": {
@@ -3716,7 +3716,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca72131098": {
@@ -3730,7 +3730,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca72141098": {
@@ -3744,7 +3744,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca7241303": {
@@ -3806,7 +3806,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "caf1280303": {
@@ -3856,7 +3856,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7270222": {
@@ -3870,7 +3870,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca72701115": {
@@ -3920,7 +3920,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7450214": {
@@ -3934,7 +3934,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "ca7450222": {
@@ -3948,7 +3948,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7450714": {
@@ -3962,7 +3962,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7475319": {
@@ -3976,7 +3976,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca7479222": {
@@ -4014,7 +4014,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca9040041006": {
@@ -4040,7 +4040,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ca990187va0715": {
@@ -4126,7 +4126,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cad09311017": {
@@ -4140,7 +4140,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cae01310810": {
@@ -4166,7 +4166,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cahg00171222": {
@@ -4180,7 +4180,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cahg00270720": {
@@ -4218,7 +4218,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cau0580115": {
@@ -4232,7 +4232,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cau0580519": {
@@ -4246,7 +4246,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cau0581022": {
@@ -4260,7 +4260,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cau0691022": {
@@ -4286,7 +4286,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cau0820115": {
@@ -4300,7 +4300,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "cau0850115": {
@@ -4338,7 +4338,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cca0010822": {
@@ -4352,7 +4352,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ccab1911013": {
@@ -4438,7 +4438,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "clca01490721": {
@@ -4452,7 +4452,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "clca01491222": {
@@ -4466,7 +4466,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "clca20140222": {
@@ -4504,7 +4504,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "clca20821222": {
@@ -4590,7 +4590,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "clca20931222": {
@@ -4604,7 +4604,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cna63359ga052012": {
@@ -4630,7 +4630,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cna63359xxed0412": {
@@ -4644,7 +4644,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cna71527xx102012": {
@@ -4658,7 +4658,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "cna71527xx1012": {
@@ -4744,7 +4744,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "da9u74": {
@@ -4770,7 +4770,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "e3153edl606913153": {
@@ -4808,7 +4808,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "eca045060214": {
@@ -4930,7 +4930,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ha99130187": {
@@ -4956,7 +4956,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ha99160312": {
@@ -4970,7 +4970,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ha99161221": {
@@ -4984,7 +4984,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ha99170614": {
@@ -5118,7 +5118,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "ikk376072013": {
@@ -5216,7 +5216,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "m5876052016d2": {
@@ -5326,7 +5326,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "mfmca006082020": {
@@ -5412,7 +5412,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "mu76250523": {
@@ -5474,7 +5474,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "naca09ks0121": {
@@ -5500,7 +5500,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "nica50570614": {
@@ -5538,7 +5538,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "pca0011013": {
@@ -5672,7 +5672,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "rau3000117": {
@@ -5698,7 +5698,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "sa30020608": {
@@ -5712,7 +5712,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "sa30000608": {
@@ -5726,7 +5726,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sa30051110": {
@@ -5884,7 +5884,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "sca23500d09ed1011": {
@@ -5970,7 +5970,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "snca0271013": {
@@ -6008,7 +6008,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "trs7000120": {
@@ -6046,7 +6046,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "uca424ffl0818": {
@@ -6060,7 +6060,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "uca424fma1014": {
@@ -6110,7 +6110,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "uca424hfl1021": {
@@ -6136,7 +6136,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "uca428aak0714": {
@@ -6222,7 +6222,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "vca2010618": {
@@ -6308,7 +6308,7 @@
       "pnc": false
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "wnca710616": {
@@ -6334,7 +6334,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "xic4111013": {
@@ -6348,7 +6348,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "acceptable"
+      "cpl": false
     }
   },
   "xic4141013": {
@@ -6374,7 +6374,7 @@
       "pnc": true
     },
     "restrictions": {
-      "cpl": "unacceptable"
+      "cpl": true
     }
   },
   "yacobed711uf8394": {
