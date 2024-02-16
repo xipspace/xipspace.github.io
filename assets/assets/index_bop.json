@@ -9,7 +9,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -23,7 +23,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -37,7 +37,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -51,7 +51,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -65,7 +65,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -79,7 +79,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -93,7 +93,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -107,7 +107,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -123,7 +123,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -139,7 +139,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -155,7 +155,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -171,7 +171,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -187,7 +187,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -201,7 +201,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -217,7 +217,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -231,7 +231,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -245,7 +245,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -261,7 +261,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -275,10 +275,13 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "not and AI form"
+      }
     }
   },
   "39110060609": {
@@ -291,10 +294,12 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "39110060816": {
@@ -307,11 +312,13 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "39114480816": {
@@ -324,7 +331,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -338,7 +345,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -352,7 +359,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -366,10 +373,12 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "39119370816": {
@@ -382,10 +391,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "39119410816": {
@@ -398,7 +409,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -414,7 +425,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -428,7 +439,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "10"
     },
     "restrictions": {}
   },
@@ -442,7 +453,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -456,7 +467,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -470,10 +481,13 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing",
+        "comments": "page 4"
+      }
     }
   },
   "8e3560ed062020": {
@@ -486,7 +500,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -500,7 +514,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -514,7 +528,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -528,7 +542,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -542,7 +556,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -556,7 +570,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -570,7 +584,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -584,7 +598,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -598,7 +612,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -612,7 +626,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -626,7 +640,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -640,7 +654,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -654,7 +668,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -668,7 +682,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -682,7 +696,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -696,7 +710,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -712,7 +726,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -726,7 +740,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -740,7 +754,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -754,7 +768,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -768,7 +782,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -782,10 +796,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing",
+        "comments": "arising out of"
+      }
     }
   },
   "bope9003ca1119": {
@@ -798,7 +815,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -812,7 +829,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -826,7 +843,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -840,7 +857,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -854,10 +871,12 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "bop476750316": {
@@ -870,10 +889,13 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "Ok for suppliers"
+      }
     }
   },
   "bop47675a0716": {
@@ -886,7 +908,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -900,7 +922,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -914,7 +936,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -928,11 +950,14 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "page 5, h (2)."
+      }
     }
   },
   "bop501460218": {
@@ -945,7 +970,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -961,7 +986,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -975,7 +1000,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -989,7 +1014,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1003,7 +1028,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1017,7 +1042,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1031,7 +1056,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1045,7 +1070,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1059,7 +1084,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1073,7 +1098,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1087,7 +1112,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1101,7 +1126,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1115,7 +1140,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1129,7 +1154,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1143,7 +1168,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1157,7 +1182,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1171,7 +1196,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1185,7 +1210,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1199,7 +1224,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1213,7 +1238,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1227,7 +1252,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -1241,7 +1266,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1255,7 +1280,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -1269,7 +1294,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1283,7 +1308,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1297,7 +1322,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1311,7 +1336,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1325,10 +1350,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04480197": {
@@ -1341,10 +1368,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04480713": {
@@ -1357,10 +1386,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04500106": {
@@ -1373,11 +1404,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04500197": {
@@ -1390,10 +1423,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04500400": {
@@ -1406,7 +1441,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1420,11 +1455,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04510106": {
@@ -1437,11 +1474,14 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true,
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "same as CG2033"
+      }
     }
   },
   "bp04510197": {
@@ -1454,10 +1494,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04510713": {
@@ -1470,11 +1512,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp04970106": {
@@ -1487,7 +1531,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1501,7 +1545,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1515,7 +1559,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1529,7 +1573,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1543,10 +1587,12 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "bp14020713": {
@@ -1559,11 +1605,13 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "bp14870713": {
@@ -1576,10 +1624,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp14880713": {
@@ -1592,7 +1642,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1606,7 +1656,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1620,7 +1670,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1634,7 +1684,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1650,7 +1700,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1666,7 +1716,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1680,7 +1730,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1694,10 +1744,12 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp7247ny0919": {
@@ -1710,7 +1762,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1724,7 +1776,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1738,7 +1790,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1752,10 +1804,12 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp79960713": {
@@ -1768,7 +1822,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1782,10 +1836,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp8641ed1106": {
@@ -1798,7 +1854,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1812,7 +1868,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1826,7 +1882,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1840,11 +1896,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp89460418": {
@@ -1857,11 +1915,14 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "caused by"
+      }
     }
   },
   "bp89470418": {
@@ -1874,11 +1935,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bp90071114": {
@@ -1891,7 +1954,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1905,7 +1968,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1919,7 +1982,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1933,7 +1996,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1947,10 +2010,13 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "imputed liability"
+      }
     }
   },
   "bp992130217": {
@@ -1963,7 +2029,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1977,7 +2043,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -1991,7 +2057,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2005,7 +2071,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2019,7 +2085,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2033,7 +2099,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2047,7 +2113,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -2063,10 +2129,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bpf1190704": {
@@ -2079,7 +2147,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2093,7 +2161,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2107,7 +2175,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2121,10 +2189,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bpf252ca0111": {
@@ -2137,7 +2207,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2151,10 +2221,12 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "bp7200119": {
@@ -2167,7 +2239,7 @@
       "operations": "none",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2181,7 +2253,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2195,7 +2267,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2209,7 +2281,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2223,7 +2295,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2237,10 +2309,12 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "bpm31001207": {
@@ -2253,7 +2327,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -2269,10 +2343,12 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "bpm31021207": {
@@ -2285,7 +2361,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2301,11 +2377,14 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true,
-      "harvey": {}
+      "harvey": {
+        "operations": "both",
+        "comments": "2.b, must know their scope"
+      }
     }
   },
   "bpm3105a0515": {
@@ -2318,7 +2397,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2332,7 +2411,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2346,7 +2425,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -2362,7 +2441,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2376,7 +2455,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2390,7 +2469,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2404,35 +2483,35 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
   "cb1488713": {
     "code": "CB-1488(7-13)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Primary & Non-contributory",
+    "label": "Bis-PakÂ® Business Liability - Primary & Non-contributory",
     "properties": {
       "ai": false,
       "blanket": false,
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
   "cb7245308": {
     "code": "CB-7245(3-08)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Blanket Additional Insured - Completed",
+    "label": "Bis-PakÂ® Business Liability - Blanket Additional Insured - Completed",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2446,11 +2525,13 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "cb7245713": {
@@ -2463,24 +2544,26 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "cb7252410": {
     "code": "CB-7252(4-10)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Waiver of Subrogation",
+    "label": "Bis-PakÂ® Business Liability - Waiver of Subrogation",
     "properties": {
       "ai": false,
       "blanket": false,
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2494,7 +2577,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2508,7 +2591,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2522,7 +2605,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2536,7 +2619,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2550,24 +2633,26 @@
       "operations": "completed",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
   "cb74331001": {
     "code": "CB-7433(10-01)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Blanket Additional Insured - Ongoing",
+    "label": "Bis-PakÂ® Business Liability - Blanket Additional Insured - Ongoing",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "cb7433713": {
@@ -2580,11 +2665,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "cb7456820": {
@@ -2597,7 +2684,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2611,7 +2698,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2625,7 +2712,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2639,7 +2726,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2653,7 +2740,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2667,7 +2754,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2681,7 +2768,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2695,7 +2782,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2709,7 +2796,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2723,7 +2810,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2737,7 +2824,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -2751,7 +2838,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2765,7 +2852,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2779,7 +2866,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2793,7 +2880,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2807,7 +2894,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2821,7 +2908,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2835,7 +2922,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2849,7 +2936,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2863,7 +2950,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2877,11 +2964,13 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "cmp47861": {
@@ -2894,7 +2983,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2908,7 +2997,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2922,7 +3011,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2936,7 +3025,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2950,7 +3039,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2964,7 +3053,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2978,7 +3067,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -2992,7 +3081,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3006,11 +3095,13 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "cmp4943": {
@@ -3023,7 +3114,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3037,7 +3128,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3051,7 +3142,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3065,7 +3156,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -3079,7 +3170,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3093,7 +3184,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3107,7 +3198,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3121,7 +3212,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3135,7 +3226,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3149,7 +3240,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3163,7 +3254,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3177,7 +3268,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3191,7 +3282,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3205,7 +3296,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3219,7 +3310,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3233,7 +3324,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3247,7 +3338,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -3261,7 +3352,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3275,7 +3366,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3289,7 +3380,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -3303,7 +3394,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3317,7 +3408,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3331,7 +3422,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3345,7 +3436,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3359,7 +3450,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3373,7 +3464,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3387,7 +3478,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3401,7 +3492,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3415,7 +3506,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3429,7 +3520,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3443,7 +3534,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3457,7 +3548,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3471,11 +3562,14 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing",
+        "comments": "Farmers"
+      }
     }
   },
   "j7100ed20518937100": {
@@ -3488,7 +3582,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3502,7 +3596,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3516,7 +3610,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3530,11 +3624,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "j7240ed10219": {
@@ -3547,11 +3643,14 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true,
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "2033 wording, only covers Harvey and not owner parties"
+      }
     }
   },
   "m1333mgle0310314": {
@@ -3564,7 +3663,7 @@
       "operations": "both",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3578,7 +3677,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3592,7 +3691,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3606,7 +3705,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3620,7 +3719,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3634,7 +3733,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3648,7 +3747,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3662,7 +3761,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3678,11 +3777,13 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "mm0540111": {
@@ -3695,10 +3796,12 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "mm0540111d2": {
@@ -3711,7 +3814,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3725,7 +3828,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -3741,7 +3844,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3755,7 +3858,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3769,7 +3872,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3783,7 +3886,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3797,7 +3900,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3811,7 +3914,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3825,7 +3928,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3839,7 +3942,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3853,7 +3956,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3867,7 +3970,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3881,7 +3984,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3895,10 +3998,12 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "pb60010411": {
@@ -3911,7 +4016,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3925,10 +4030,12 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "pb60720711": {
@@ -3941,7 +4048,7 @@
       "operations": "none",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3955,7 +4062,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3969,7 +4076,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3983,7 +4090,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -3997,7 +4104,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4011,7 +4118,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4025,7 +4132,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4039,11 +4146,13 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "ppb3130212": {
@@ -4056,10 +4165,12 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "ppb3161113": {
@@ -4072,11 +4183,14 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "none",
+        "comments": "no contractor AI"
+      }
     }
   },
   "s2554ed20122": {
@@ -4089,7 +4203,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4103,7 +4217,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4117,7 +4231,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4131,7 +4245,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4145,7 +4259,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4159,7 +4273,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4173,7 +4287,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4189,7 +4303,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4203,7 +4317,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {
       "cpl": false
@@ -4219,7 +4333,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4233,11 +4347,13 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sb13070416": {
@@ -4250,7 +4366,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4264,7 +4380,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4278,7 +4394,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4292,7 +4408,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -4308,10 +4424,12 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sb147082eed0414": {
@@ -4324,7 +4442,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4338,7 +4456,7 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4352,10 +4470,12 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sb146916eed0720": {
@@ -4368,7 +4488,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4382,10 +4502,12 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sb146932f31ed616": {
@@ -4398,7 +4520,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4412,7 +4534,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4428,7 +4550,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4442,7 +4564,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4456,7 +4578,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4470,11 +4592,13 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sb146935e31222": {
@@ -4487,7 +4611,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4501,7 +4625,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4515,7 +4639,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4531,7 +4655,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4547,7 +4671,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4561,7 +4685,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4575,7 +4699,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -4589,7 +4713,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4603,7 +4727,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4617,21 +4741,21 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
   "sb300176eed1019": {
     "code": "SB300176E (Ed. 10-19)",
     "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory - Gen. Aggregate Limit – Per Project",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory - Gen. Aggregate Limit - Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4645,7 +4769,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4659,7 +4783,7 @@
       "operations": "ongoing",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4673,7 +4797,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4687,7 +4811,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4701,7 +4825,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4715,7 +4839,7 @@
       "operations": "none",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4729,7 +4853,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4743,11 +4867,13 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sl30321018": {
@@ -4760,11 +4886,13 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "sl30431018": {
@@ -4777,7 +4905,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4791,7 +4919,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4805,7 +4933,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4819,7 +4947,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4833,25 +4961,27 @@
       "operations": "both",
       "wos": false,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
   "ss00080405": {
     "code": "SS 00 08 04 05",
     "category": "BOP",
-    "label": "BOP  - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation & Primary & Non-contributory - Cross Liability; Gen. Aggregate Limit – Per Location",
+    "label": "BOP  - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation & Primary & Non-contributory - Cross Liability; Gen. Aggregate Limit - Per Location",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "both"
+      }
     }
   },
   "ss01210614": {
@@ -4864,7 +4994,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4878,7 +5008,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4892,7 +5022,7 @@
       "operations": "none",
       "wos": true,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4906,7 +5036,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4920,7 +5050,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4934,11 +5064,13 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "ongoing"
+      }
     }
   },
   "ss41710611": {
@@ -4951,10 +5083,12 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "ss41711219": {
@@ -4967,11 +5101,13 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": false,
-      "harvey": {}
+      "harvey": {
+        "operations": "completed"
+      }
     }
   },
   "ss41750314": {
@@ -4984,7 +5120,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -4998,7 +5134,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -5012,7 +5148,7 @@
       "operations": "ongoing",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -5026,7 +5162,7 @@
       "operations": "both",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -5040,7 +5176,7 @@
       "operations": "completed",
       "wos": false,
       "pnc": false,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {
       "cpl": true
@@ -5056,7 +5192,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5070,7 +5206,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -5084,7 +5220,7 @@
       "operations": "both",
       "wos": true,
       "pnc": true,
-      "noc": false
+      "noc": "none"
     },
     "restrictions": {}
   },
@@ -5098,7 +5234,7 @@
       "operations": "none",
       "wos": false,
       "pnc": false,
-      "noc": true
+      "noc": "45"
     },
     "restrictions": {}
   }
