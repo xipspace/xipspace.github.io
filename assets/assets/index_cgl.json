@@ -26,11 +26,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "manuscript"
-      }
+      "cpl": false
     }
   },
   "2245": {
@@ -372,11 +368,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "55373517": {
@@ -392,11 +384,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "caused in whole or in part by"
-      }
+      "cpl": false
     }
   },
   "55421517": {
@@ -551,11 +539,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "94955707": {
     "code": "94955 (7/07)",
@@ -583,12 +567,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "Acceptable AI for suppliers only. There is no contractor AI."
-      }
-    }
+    "restrictions": {}
   },
   "97837408": {
     "code": "97837 (4-08)",
@@ -603,10 +582,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "97838408": {
@@ -622,10 +598,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "103366911": {
@@ -668,12 +641,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "same as CG2033"
-      }
-    }
+    "restrictions": {}
   },
   "192170819": {
     "code": "19217 08 19",
@@ -729,11 +697,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "221340108": {
     "code": "22-134 (01/08)",
@@ -747,11 +711,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "550911008": {
     "code": "55091 (10-08)",
@@ -796,10 +756,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "553521008": {
@@ -828,11 +785,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "744341099": {
     "code": "74434 (10/99)",
@@ -889,10 +842,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "819320714": {
@@ -908,10 +858,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "821350918": {
@@ -1070,11 +1017,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "1432960921": {
     "code": "143296 (09/21)",
@@ -1270,12 +1213,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "ariging out of AND caused by"
-      }
-    }
+    "restrictions": {}
   },
   "00gl0794000417": {
     "code": "00 GL0794 00 04 17 ",
@@ -1681,11 +1619,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "30ap20371212": {
     "code": "30AP2037 12 12",
@@ -1771,11 +1705,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "39111070609": {
     "code": "391-1107 06 09",
@@ -1789,11 +1719,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "39115860816": {
     "code": "391-1586 08 16",
@@ -1821,11 +1747,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "40112351214": {
     "code": "401-1235 12 14",
@@ -1853,11 +1775,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "42104520607": {
     "code": "421-0452 06 07",
@@ -1930,11 +1848,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "AI ends when work completed"
-      }
+      "cpl": false
     }
   },
   "42129150615": {
@@ -1950,10 +1864,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": true
     }
   },
   "42129151214": {
@@ -1968,11 +1879,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "42129160615": {
     "code": "421-2916 06 15",
@@ -2000,11 +1907,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "42129260615": {
     "code": "421-2926 06 15",
@@ -2047,10 +1950,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "42144880418": {
@@ -2066,10 +1966,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "42144900418": {
@@ -2114,12 +2011,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "adapts to 10-01"
-      }
-    }
+    "restrictions": {}
   },
   "4901080711": {
     "code": "49-0108 07 11",
@@ -2133,11 +2025,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "5153gl0213": {
     "code": "5153 GL 0213",
@@ -2223,11 +2111,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "7107411116": {
     "code": "71 0741 1116",
@@ -2242,10 +2126,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "7111450121": {
@@ -2276,11 +2157,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "7111451116": {
     "code": "71 1145 1116",
@@ -2295,10 +2172,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "7114030121": {
@@ -2329,12 +2203,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "7117660121": {
     "code": "71 1766 0121",
@@ -2423,11 +2292,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "10.a.(1), to the extent"
-      }
+      "cpl": true
     }
   },
   "8e3552ed012006": {
@@ -2472,12 +2337,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "page 4"
-      }
-    }
+    "restrictions": {}
   },
   "8e3560ed062020": {
     "code": "8-E-3560 Ed. 06-2020",
@@ -2534,11 +2394,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "to the extent"
-      }
+      "cpl": true
     }
   },
   "8e4096ed072016": {
@@ -2553,11 +2409,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "8e42360719": {
     "code": "8-E-4236 07-19",
@@ -2585,12 +2437,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 verbiage, arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "80022000rev401": {
     "code": "80-02-2000 (Rev. 4-01)",
@@ -2605,11 +2452,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no coverage for contractor as ai"
-      }
+      "cpl": false
     }
   },
   "80022002rev401": {
@@ -2638,11 +2481,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "80022057rev1109": {
     "code": "80-02-2057 (Rev. 11-09)",
@@ -2685,10 +2524,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "80022362rev401": {
@@ -2718,10 +2554,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "80022653rev709": {
@@ -2779,11 +2612,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "80029090rev605": {
@@ -2871,7 +2700,7 @@
     "restrictions": {}
   },
   "80022653ed401": {
-    "code": "80âˆ’02âˆ’2653(Ed. 4âˆ’01)",
+    "code": "80−02−2653(Ed. 4−01)",
     "category": "GL",
     "label": "General Liability - Primary And Non-Contributory",
     "properties": {
@@ -2897,11 +2726,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "no coverage for contractor as ai"
-      }
+      "cpl": true
     }
   },
   "82230600819": {
@@ -2916,11 +2741,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "86100509mcl": {
     "code": "8610 (05/09) M-CL",
@@ -3074,12 +2895,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
-    }
+    "restrictions": {}
   },
   "ad69371015": {
     "code": "AD 69 37 10 15",
@@ -3220,10 +3036,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "agl1750119": {
@@ -3252,12 +3065,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
-    }
+    "restrictions": {}
   },
   "agl01351117": {
     "code": "AGL01351117",
@@ -3329,11 +3137,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "agrlcg60020410": {
     "code": "AGRL-CG 6002 (04-10)",
@@ -3347,11 +3151,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ahbp82000917": {
     "code": "AH BP 82 00 09 17",
@@ -3380,11 +3180,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "5.a."
-      }
+      "cpl": false
     }
   },
   "ahcg86170917": {
@@ -3581,12 +3377,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "20 33, caused by"
-      }
-    }
+    "restrictions": {}
   },
   "an066042013": {
     "code": "AN066 (04-2013)",
@@ -3642,11 +3433,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "anicgl11870821": {
     "code": "ANIC GL 1187 08 21 ",
@@ -3786,12 +3573,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(items 1 and 6)"
-      }
-    }
+    "restrictions": {}
   },
   "ap2057us0307": {
     "code": "AP2057US 03-07",
@@ -3833,11 +3615,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "ascnov0071020": {
     "code": "ASC-NOV-007 (10/20)",
@@ -3851,12 +3629,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "This endorsement is only acceptable for suppliers like Construction Interior Products on this project (Lone Star Logistics Park - P 1). Acceptable for ongoing and completed operations for suppliers."
-      }
-    }
+    "restrictions": {}
   },
   "asicgl0000818": {
     "code": "ASIC-GL-0000818",
@@ -3884,11 +3657,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "asicgl00460818": {
     "code": "ASIC-GL-0046-0818",
@@ -4155,10 +3924,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "bkk22862015": {
@@ -4373,12 +4139,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "waiver of subrogation"
-      }
-    }
+    "restrictions": {}
   },
   "cas50030717": {
     "code": "CAS5003 0717",
@@ -4406,12 +4167,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(vicarious liability)"
-      }
-    }
+    "restrictions": {}
   },
   "cas50100717": {
     "code": "CAS5010 0717",
@@ -4485,11 +4241,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cb7242513": {
     "code": "CB-7242(5-13)",
@@ -4517,11 +4269,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "cb7245713": {
     "code": "CB-7245(7-13)",
@@ -4536,10 +4284,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cb7245b713": {
@@ -4652,11 +4397,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cb7433713": {
     "code": "CB-7433(7-13)",
@@ -4671,10 +4412,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cb7433b713": {
@@ -4731,12 +4469,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
-    }
+    "restrictions": {}
   },
   "cbp0410711": {
     "code": "CBP 041 07 11",
@@ -4862,12 +4595,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "The is the general liability coverage form not AI or WOS endorsements."
-      }
-    }
+    "restrictions": {}
   },
   "cg00011188": {
     "code": "CG 00 01 11 88",
@@ -4909,12 +4637,7 @@
       "pnc": true,
       "noc": "30"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "This is an OCP which is only acceptable for elevator companies like Kone Americas (project: VA CBOC Toms Rivers) and it is only acceptable for ongoing operations."
-      }
-    }
+    "restrictions": {}
   },
   "cg02200312": {
     "code": "CG 02 20 03 12",
@@ -5031,7 +4754,7 @@
   "cg20100413": {
     "code": "CG 20 10 04 13",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Owners, Lessees Or Contractors - Scheduled Person Or Organization",
+    "label": "General Liability - Additional Insured – Owners, Lessees Or Contractors – Scheduled Person Or Organization",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -5041,16 +4764,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg20100704": {
     "code": "CG 20 10 07 04 ",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Owners, Lessees Or Contractors - Scheduled Person Or Organization",
+    "label": "General Liability - Additional Insured – Owners, Lessees Or Contractors – Scheduled Person Or Organization",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -5060,10 +4780,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg20100815": {
@@ -5093,10 +4810,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg20101093": {
@@ -5112,10 +4826,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg20101185": {
@@ -5130,12 +4841,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "cg20101219": {
     "code": "CG 20 10 12 19",
@@ -5150,10 +4856,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg2010y0704": {
@@ -5168,11 +4871,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg2010a0108": {
     "code": "CG 20 10A 01 08",
@@ -5214,11 +4913,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "cg20110413": {
     "code": "CG 20 11 04 13",
@@ -5288,12 +4983,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "vendor"
-      }
-    }
+    "restrictions": {}
   },
   "cg20161116": {
     "code": "CG 20 16 11 16",
@@ -5321,12 +5011,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "Ok for lenders only; does not apply to other contractors or owners so different endorsements would be needed."
-      }
-    }
+    "restrictions": {}
   },
   "cg20260413": {
     "code": "CG 20 26 04 13",
@@ -5340,11 +5025,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg20260704": {
     "code": "CG 20 26 07 04",
@@ -5359,11 +5040,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "(no written contract req)"
-      }
+      "cpl": false
     }
   },
   "cg20261185": {
@@ -5378,11 +5055,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cg20261219": {
     "code": "CG 20 26 12 19",
@@ -5396,11 +5069,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg20320413": {
     "code": "CG 20 32 04 13",
@@ -5429,11 +5098,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "no owner flow down"
-      }
+      "cpl": true
     }
   },
   "cg20330704": {
@@ -5448,12 +5113,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "written contract req, no owner flow down"
-      }
-    }
+    "restrictions": {}
   },
   "cg20331001": {
     "code": "CG 20 33 10 01",
@@ -5467,11 +5127,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "cg20331219": {
     "code": "CG 20 33 12 19",
@@ -5486,10 +5142,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": true
     }
   },
   "cg20341219": {
@@ -5532,11 +5185,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "cg20370413": {
     "code": "CG 20 37 04 13",
@@ -5551,10 +5200,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg20370704": {
@@ -5570,10 +5216,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg20370704wnc": {
@@ -5603,10 +5246,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg20371219": {
@@ -5622,10 +5262,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg2038ed413ufb260": {
@@ -5641,10 +5278,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg20380413": {
@@ -5660,11 +5294,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "has owner flow down"
-      }
+      "cpl": false
     }
   },
   "cg20381219": {
@@ -5680,11 +5310,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "has owner flow down"
-      }
+      "cpl": false
     }
   },
   "cg20391219": {
@@ -5700,11 +5326,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "20 33 wording"
-      }
+      "cpl": true
     }
   },
   "cg20401219": {
@@ -5720,10 +5342,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg20421219": {
@@ -5840,12 +5459,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "lender only, excl apply if sub working for lender"
-      }
-    }
+    "restrictions": {}
   },
   "cg20261185d2": {
     "code": "CG 2026( 11 85)",
@@ -6354,11 +5968,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
+      "cpl": true
     }
   },
   "cg70340709": {
@@ -6374,10 +5984,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg7048": {
@@ -6407,10 +6014,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg70481109": {
@@ -6426,10 +6030,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg70481119": {
@@ -6459,11 +6060,7 @@
       "noc": "60"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "No contractor AI."
-      }
+      "cpl": false
     }
   },
   "cg70490905": {
@@ -6485,7 +6082,7 @@
   "cg70491109": {
     "code": "CG 70 49 11 09",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of Subrogation, 60 Days' Notice of Cancellation, General Aggregate Limit - Per Project",
+    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of Subrogation, 60 Days' Notice of Cancellation, General Aggregate Limit – Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -6537,11 +6134,7 @@
       "noc": "30"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "Not acceptable"
-      }
+      "cpl": false
     }
   },
   "cg70700508": {
@@ -6571,10 +6164,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg70870105": {
@@ -6590,11 +6180,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "(sec A-imputed)"
-      }
+      "cpl": true
     }
   },
   "cg70880508": {
@@ -6652,11 +6238,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "(imputed liability)"
-      }
+      "cpl": false
     }
   },
   "cg71181112": {
@@ -6685,11 +6267,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cg71240622": {
     "code": "CG 71 24 06 22",
@@ -6718,10 +6296,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg71360508": {
@@ -6779,11 +6354,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "(imputed liability only)"
-      }
+      "cpl": false
     }
   },
   "cg71570804": {
@@ -6944,12 +6515,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "cg71371217": {
     "code": "CG 7137 12 17",
@@ -6991,11 +6557,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg7167": {
     "code": "CG 7167",
@@ -7023,12 +6585,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "imputed liability"
-      }
-    }
+    "restrictions": {}
   },
   "cg7202": {
     "code": "CG 72 02",
@@ -7056,11 +6613,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg72080717": {
     "code": "CG 72 08 07 17",
@@ -7075,11 +6628,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "imputed liability"
-      }
+      "cpl": false
     }
   },
   "cg72121216": {
@@ -7094,12 +6643,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI; accept for suppliers only"
-      }
-    }
+    "restrictions": {}
   },
   "cg72461115": {
     "code": "CG 72 46 11 15",
@@ -7114,11 +6658,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "ongoing ok, c ops only covers us"
-      }
+      "cpl": false
     }
   },
   "cg72761015": {
@@ -7162,11 +6702,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai, imputed liab."
-      }
+      "cpl": true
     }
   },
   "cg7284": {
@@ -7210,17 +6746,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "cg72881216": {
     "code": "CG 72 88 12 16",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of subrogation",
+    "label": "General Liability - Blanket Additional Insured – Ongoing, Waiver of subrogation",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -7230,10 +6762,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "cg72890417": {
@@ -7263,10 +6792,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg73000119": {
@@ -7282,10 +6808,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg73000622": {
@@ -7301,10 +6824,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg73001023": {
@@ -7320,10 +6840,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg7300ny0116": {
@@ -7398,12 +6915,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "has per proj agg on form also"
-      }
-    }
+    "restrictions": {}
   },
   "cg73231216": {
     "code": "CG 73 23 12 16",
@@ -7418,10 +6930,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg73231111": {
@@ -7465,11 +6974,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "LOI capped at 30 days of coverage"
-      }
+      "cpl": false
     }
   },
   "cg73321111": {
@@ -7512,11 +7017,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg74320512": {
     "code": "CG 74 32 05 12",
@@ -7530,11 +7031,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg74340512": {
     "code": "CG 74 34 05 12",
@@ -7549,11 +7046,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "ins code reference"
-      }
+      "cpl": false
     }
   },
   "cg74701216": {
@@ -7596,12 +7089,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no caused in whole or in part"
-      }
-    }
+    "restrictions": {}
   },
   "cg78270213": {
     "code": "CG 78 27 02 13",
@@ -7615,11 +7103,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cg79210110": {
     "code": "CG 79 21 01 10",
@@ -7633,11 +7117,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "cg79210119": {
     "code": "CG 79 21 01 19",
@@ -7652,10 +7132,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg79210622": {
@@ -7671,10 +7148,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg79211114": {
@@ -7690,10 +7164,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg79880116": {
@@ -7709,11 +7180,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of & caused in whole or in part by"
-      }
+      "cpl": false
     }
   },
   "cg79880119": {
@@ -7729,10 +7196,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg79880512": {
@@ -7748,10 +7212,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg79880622": {
@@ -7767,10 +7228,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg79881023": {
@@ -7786,10 +7244,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg7988ny0119": {
@@ -7860,11 +7315,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg80181220": {
     "code": "CG 80 18 12 20",
@@ -7935,11 +7386,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed",
-        "comments": "includes arising out of"
-      }
+      "cpl": false
     }
   },
   "cg81120917": {
@@ -7955,11 +7402,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "includes arising out of"
-      }
+      "cpl": false
     }
   },
   "cg81280118": {
@@ -8016,11 +7459,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cg81900319": {
     "code": "CG 81 90 03 19",
@@ -8258,12 +7697,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(only \"caused by\")"
-      }
-    }
+    "restrictions": {}
   },
   "cg85830413": {
     "code": "CG 85 83 04 13",
@@ -8278,11 +7712,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "(only \"caused by\")"
-      }
+      "cpl": false
     }
   },
   "cg85831009": {
@@ -8298,11 +7728,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by, no in whole or in part"
-      }
+      "cpl": false
     }
   },
   "cg85840413": {
@@ -8318,11 +7744,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by, no in whole or in part"
-      }
+      "cpl": false
     }
   },
   "cg8550112": {
@@ -8351,12 +7773,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by, no in whole or in part"
-      }
-    }
+    "restrictions": {}
   },
   "cg86110413": {
     "code": "CG 86 11 04 13",
@@ -8370,12 +7787,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(only \"caused by\")"
-      }
-    }
+    "restrictions": {}
   },
   "cg86111016": {
     "code": "CG 86 11 10 16",
@@ -8390,11 +7802,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "(only \"caused by\")"
-      }
+      "cpl": false
     }
   },
   "cg8679": {
@@ -8438,10 +7846,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg88601208": {
@@ -8470,12 +7875,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "vendor endorsement"
-      }
-    }
+    "restrictions": {}
   },
   "cg88711009": {
     "code": "CG 88 71 10 09",
@@ -8504,10 +7904,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg88830412": {
@@ -8564,11 +7961,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg89791013": {
     "code": "CG 89 79 10 13",
@@ -8596,11 +7989,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "cg89951016": {
     "code": "CG 89 95 10 16",
@@ -8615,10 +8004,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg90440812": {
@@ -8692,11 +8078,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "cg93240319": {
@@ -8755,12 +8137,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 language only covers Harvey"
-      }
-    }
+    "restrictions": {}
   },
   "cgcwmg00090417": {
     "code": "CG CW MG0009 0417",
@@ -8887,10 +8264,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgd144": {
@@ -8919,11 +8293,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cgd1440219": {
     "code": "CG D1 44 02 19",
@@ -8938,10 +8308,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgd1860219": {
@@ -8956,11 +8323,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cgd1861103": {
     "code": "CG D1 86 11 03",
@@ -8974,12 +8337,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no ai for contractors)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd1880219": {
     "code": "CG D1 88 02 19",
@@ -9022,11 +8380,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by, OK for suppliers (ok for Hully Supply)"
-      }
+      "cpl": false
     }
   },
   "cgd2460805": {
@@ -9042,10 +8396,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgd2470419": {
@@ -9061,11 +8412,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
+      "cpl": false
     }
   },
   "cgd2480419": {
@@ -9080,12 +8427,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
-    }
+    "restrictions": {}
   },
   "cgd2480805": {
     "code": "CG D2 48 08 05",
@@ -9099,12 +8441,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
-    }
+    "restrictions": {}
   },
   "cgd250": {
     "code": "CG D2 50",
@@ -9160,12 +8497,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "caused by"
-      }
-    }
+    "restrictions": {}
   },
   "cgd2520805": {
     "code": "CG D2 52 08 05 ",
@@ -9179,12 +8511,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by, not primary, (3, 4.d.)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3160219": {
     "code": "CG D3 16 02 19",
@@ -9198,12 +8525,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3160704": {
     "code": "CG D3 16 07 04",
@@ -9217,12 +8539,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no contractor ai)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3161111": {
     "code": "CG D3 16 11 11",
@@ -9236,12 +8553,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no contractor ai)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3210104": {
     "code": "CG D3 21 01 04",
@@ -9270,10 +8582,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cgd3700813": {
@@ -9302,11 +8611,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3740219": {
     "code": "CG D3 74 02 19",
@@ -9334,12 +8639,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3790907": {
     "code": "CG D3 79 09 07",
@@ -9367,12 +8667,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no liab assumed in a contract-on/comp)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd3810915": {
     "code": "CG D3 81 09 15",
@@ -9387,11 +8682,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "OKAY to accept for architects, engineers & surveyors"
-      }
+      "cpl": false
     }
   },
   "cgd3820915": {
@@ -9434,11 +8725,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cgd4140408": {
     "code": "CG D4 14 04 08",
@@ -9453,11 +8740,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "**only architect, engineers endorsement"
-      }
+      "cpl": false
     }
   },
   "cgd417": {
@@ -9486,11 +8769,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cgd4170219": {
     "code": "CG D4 17 02 19",
@@ -9505,10 +8784,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cgd4250708": {
@@ -9551,11 +8827,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cgd4300708": {
     "code": "CG D4 30 07 08",
@@ -9583,12 +8855,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no contractor ai)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd4580713": {
     "code": "CG D4 58 07 13",
@@ -9603,11 +8870,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
+      "cpl": false
     }
   },
   "cgd4670219": {
@@ -9622,12 +8885,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no contractor ai)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd4670713": {
     "code": "CG D4 67 07 13",
@@ -9641,12 +8899,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(no contractor ai)"
-      }
-    }
+    "restrictions": {}
   },
   "cgd4680219": {
     "code": "CG D4 68 02 19",
@@ -9735,7 +8988,7 @@
   "cgd6040219": {
     "code": "CG D6 04 02 19",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Automatic Status If Required By Written Contract (Contractors) - Ongoing, Completed ",
+    "label": "General Liability - Blanket Additional Insured – Automatic Status If Required By Written Contract (Contractors) - Ongoing, Completed ",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -9745,16 +8998,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgd6040813": {
     "code": "CG D6 04 08 13",
     "category": "GL",
-    "label": "General Liability -Blanket Additional Insured - Automatic Status If Required By Written Contract (Contractors) - Ongoing, Completed & Primary coverage",
+    "label": "General Liability -Blanket Additional Insured – Automatic Status If Required By Written Contract (Contractors) - Ongoing, Completed & Primary coverage",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -9764,10 +9014,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgd6850114": {
@@ -9992,12 +9239,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "accept for supplier only"
-      }
-    }
+    "restrictions": {}
   },
   "cgf9430219": {
     "code": "CG F9 43 02 19",
@@ -10058,7 +9300,7 @@
   "cgilct00010717": {
     "code": "CG IL CT0001 0717",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Managers or Lessors, General Aggregate Limit - Per Project (COMPLETED ACCEPTABLE FOR TENANTS ONLY)",
+    "label": "General Liability - Blanket Additional Insured - Ongoing, Managers or Lessors, General Aggregate Limit – Per Project (COMPLETED ACCEPTABLE FOR TENANTS ONLY)",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -10152,11 +9394,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "This is a GL coverage form not AI endorsements."
-      }
+      "cpl": false
     }
   },
   "cgt4911188": {
@@ -10171,11 +9409,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cgt800": {
     "code": "CG T8 00",
@@ -10236,7 +9470,7 @@
   "cgt802": {
     "code": "CG T8 02",
     "category": "GL",
-    "label": "General liability - Additional Insured - Owners, Lessees Or Contractors - Scheduled Person Or Organization - Ongoing and Completed",
+    "label": "General liability - Additional Insured – Owners, Lessees Or Contractors – Scheduled Person Or Organization - Ongoing and Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -10371,11 +9605,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cg2033r613": {
     "code": "CG-2033R(6-13)",
@@ -10390,10 +9620,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cg335713": {
@@ -10409,10 +9636,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": true
     }
   },
   "cg500713": {
@@ -10428,10 +9652,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "cg501515": {
@@ -10447,10 +9668,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg7186ed904": {
@@ -10465,12 +9683,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "cg7194513": {
     "code": "CG-7194(5-13)",
@@ -10554,12 +9767,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "CG 2033 wording and exclusion C.2.c."
-      }
-    }
+    "restrictions": {}
   },
   "cg7255ed35": {
     "code": "CG-7255 (Ed. 3-5)",
@@ -10601,12 +9809,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "CG 2033 wording and exclusion C.2.c."
-      }
-    }
+    "restrictions": {}
   },
   "cg72641219": {
     "code": "CG-7264(12-19)",
@@ -10662,11 +9865,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "cg7277613": {
     "code": "CG-7277(6-13)",
@@ -10681,10 +9880,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cg7280ed1208": {
@@ -10993,11 +10189,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cgf911219": {
     "code": "CG-F-91 (12-19)",
@@ -11054,10 +10246,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg71931013": {
@@ -11073,11 +10262,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "cg719311013": {
@@ -11093,10 +10278,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cg74051020": {
@@ -11140,11 +10322,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "vicarious liability"
-      }
+      "cpl": false
     }
   },
   "cg748231013": {
@@ -11160,11 +10338,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "vicarious liabilty B.1."
-      }
+      "cpl": false
     }
   },
   "cg75551013": {
@@ -11208,11 +10382,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
+      "cpl": true
     }
   },
   "cg75783617": {
@@ -11227,12 +10397,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "on page 4"
-      }
-    }
+    "restrictions": {}
   },
   "cg75784419": {
     "code": "CG7578.4(4-19)",
@@ -11307,10 +10472,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgc01120619ny": {
@@ -11356,17 +10518,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
+      "cpl": false
     }
   },
   "cgd20100912": {
     "code": "CGD 20 10 09 12",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing, Primary & non-contributory",
+    "label": "General Liability - Additional Insured – Ongoing, Primary & non-contributory",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -11376,16 +10534,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "cgd20101001": {
     "code": "CGD 20 10 10 01",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing, Primary & non-contributory",
+    "label": "General Liability – Additional Insured - Ongoing, Primary & non-contributory",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -11413,7 +10568,7 @@
   "cgd20330515": {
     "code": "CGD 20 33 05 15",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Primary & non-contributory",
+    "label": "General Liability - Blanket Additional Insured – Ongoing, Primary & non-contributory",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -11423,11 +10578,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "ok- not same as CG 20 33"
-      }
+      "cpl": false
     }
   },
   "cgd20370119": {
@@ -11443,10 +10594,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cgd20371001": {
@@ -11494,7 +10642,7 @@
   "cgd90360119": {
     "code": "CGD 90 36 01 19",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Primary & non-contributory",
+    "label": "General Liability - Blanket Additional Insured – Ongoing & Completed, Primary & non-contributory",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -11504,16 +10652,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cgd90360515": {
     "code": "CGD 90 36 05 15",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Primary & non-contributory",
+    "label": "General Liability - Blanket Additional Insured – Ongoing & Completed, Primary & non-contributory",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -11523,10 +10668,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "cgd90360912": {
@@ -11541,12 +10683,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "ok- not same as CG 20 33"
-      }
-    }
+    "restrictions": {}
   },
   "cgd90980119": {
     "code": "CGD 90 98 01 19",
@@ -11745,10 +10882,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgl0841013": {
@@ -11764,10 +10898,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgl0880115": {
@@ -11782,12 +10913,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai, pg 9"
-      }
-    }
+    "restrictions": {}
   },
   "cgl0880221": {
     "code": "CGL 088 (02 21)",
@@ -11802,11 +10928,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
+      "cpl": false
     }
   },
   "cgl0881013": {
@@ -11821,12 +10943,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai, pg 10"
-      }
-    }
+    "restrictions": {}
   },
   "cgl0930115": {
     "code": "CGL 093 (01 15)",
@@ -11868,11 +10985,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cgl10010215": {
     "code": "CGL 1001 0215",
@@ -11971,10 +11084,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgl1210413": {
@@ -11990,10 +11100,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cgl17440320": {
@@ -12036,11 +11143,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cgl18160216": {
     "code": "CGL 1816 0216",
@@ -12059,7 +11162,7 @@
   "cgl20100815": {
     "code": "CGL 20 10 08 15",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing",
+    "label": "General Liability - Additional Insured – Ongoing",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -12075,7 +11178,7 @@
   "cgl20330815": {
     "code": "CGL 20 33 08 15",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing",
+    "label": "General Liability - Blanket Additional Insured – Ongoing",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -12099,17 +11202,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
+      "cpl": false
     }
   },
   "cgl2150616": {
     "code": "CGL 215 (06/16)",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Primary & non-contributory",
+    "label": "General Liability - Blanket Additional Insured – Ongoing, Primary & non-contributory",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -12118,16 +11217,12 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "cgl4611116": {
     "code": "CGL 461 (11-16)",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of Subrogation, General Aggregate Per Location, Managers or Lessors.",
+    "label": "General Liability - Blanket Additional Insured – Ongoing, Waiver of Subrogation, General Aggregate Per Location, Managers or Lessors.",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -12165,11 +11260,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
+      "cpl": true
     }
   },
   "cgle5581cw0316": {
@@ -12326,11 +11417,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "clcg00600916": {
     "code": "CL CG 00 60 09 16",
@@ -12389,10 +11476,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "clcg04460916": {
@@ -12421,12 +11505,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
-    }
+    "restrictions": {}
   },
   "clcg04921018": {
     "code": "CL CG 04 92 10 18",
@@ -12441,10 +11520,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "clcg0492va1018": {
@@ -12459,11 +11535,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "clcg04931018": {
     "code": "CL CG 04 93 10 18",
@@ -12533,12 +11605,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
-    }
+    "restrictions": {}
   },
   "clcg20120916": {
     "code": "CL CG 20 12 09 16",
@@ -12553,11 +11620,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by, B1.a, completed ops"
-      }
+      "cpl": false
     }
   },
   "clcg20230916": {
@@ -12573,10 +11636,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "clcg20350613": {
@@ -12605,11 +11665,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "clcg20620916": {
     "code": "CL CG 20 62 09 16",
@@ -12623,11 +11679,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "clcg20671021": {
     "code": "CL CG 20 67 10 21",
@@ -12656,10 +11708,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "clcg20770619": {
@@ -12674,11 +11723,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "clcg20790120": {
     "code": "CL CG 20 79 01 20",
@@ -12721,10 +11766,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "clcg20810720": {
@@ -12740,11 +11782,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "adapts to 10 01 endorsements"
-      }
+      "cpl": false
     }
   },
   "clgl078a062019": {
@@ -12845,11 +11883,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cmp47851": {
     "code": "CMP-4785. 1",
@@ -12878,10 +11912,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cmp4788": {
@@ -13041,7 +12072,7 @@
   "cna74705xx115": {
     "code": "CNA74705XX (1-15)",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Completed, Waiver of Subrogation, Primary and non-Contributory, General Aggregate Limit - Per Project",
+    "label": "General Liability - Blanket Additional Insured - Ongoing, Completed, Waiver of Subrogation, Primary and non-Contributory, General Aggregate Limit – Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -13051,11 +12082,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
+      "cpl": false
     }
   },
   "cna74745xx115": {
@@ -13098,12 +12125,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
-    }
+    "restrictions": {}
   },
   "cna74858xx115": {
     "code": "CNA74858XX (1-15) ",
@@ -13173,12 +12195,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no arising out of or caused in whole or in part by"
-      }
-    }
+    "restrictions": {}
   },
   "cna74902ny815": {
     "code": "CNA74902NY(8-15)",
@@ -13319,10 +12336,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "cna75079xx1016": {
@@ -13338,11 +12352,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "adapts to 10 01 version"
-      }
+      "cpl": false
     }
   },
   "cna75079xx322": {
@@ -13357,11 +12367,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "cna75079xx0322": {
     "code": "CNA75079XX 03-22",
@@ -13392,11 +12398,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
+      "cpl": false
     }
   },
   "cna75101ny815": {
@@ -13426,11 +12428,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no caused in whole or in part"
-      }
+      "cpl": false
     }
   },
   "cna75102ny815": {
@@ -13515,11 +12513,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "con6063118": {
     "code": "CON6063 (1/18)",
@@ -13568,7 +12562,7 @@
   "cscp01008000816": {
     "code": "CSCP 01008 00 08 16",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing",
+    "label": "General Liability - Additional Insured – Ongoing",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -13691,11 +12685,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "csga4371213": {
     "code": "CSGA 437 12 13 ",
@@ -13710,10 +12700,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": true
     }
   },
   "csia4050809b": {
@@ -14050,12 +13037,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "vicarious liability"
-      }
-    }
+    "restrictions": {}
   },
   "ecc3200712": {
     "code": "ECC-320-0712",
@@ -14111,11 +13093,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ecg005950923": {
     "code": "ECG 00 595 09 23",
@@ -14283,11 +13261,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "ecg205900509": {
     "code": "ECG 20 590 05 09",
@@ -14330,11 +13304,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "(D.1)"
-      }
+      "cpl": true
     }
   },
   "ecg205980509": {
@@ -14349,11 +13319,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "ecg205990509": {
     "code": "ECG 20 599 05 09",
@@ -14367,17 +13333,12 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(D.1)"
-      }
-    }
+    "restrictions": {}
   },
   "ecg206000509": {
     "code": "ECG 20 600 05 09",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed",
+    "label": "General Liability - Blanket Additional Insured – Ongoing & Completed",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -14443,11 +13404,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "D.1. and D.2."
-      }
+      "cpl": true
     }
   },
   "ecg206251116": {
@@ -14462,11 +13419,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "ecg206281116": {
     "code": "ECG 20 628 11 16",
@@ -14480,11 +13433,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "ecg206290818": {
     "code": "ECG 20 629 0818",
@@ -14666,11 +13615,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "ecg246760818": {
     "code": "ECG 24 676 08 18",
@@ -14754,11 +13699,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ecp10050410": {
     "code": "ECP 1005 04 10",
@@ -14787,11 +13728,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "resulting from ok."
-      }
+      "cpl": false
     }
   },
   "ecp12200121": {
@@ -14820,11 +13757,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "ecp12460121": {
     "code": "ECP 1246 01 21",
@@ -14839,11 +13772,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
+      "cpl": false
     }
   },
   "ecp12470121": {
@@ -14859,11 +13788,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "2033, caused by"
-      }
+      "cpl": true
     }
   },
   "ecp12480121": {
@@ -14879,11 +13804,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by"
-      }
+      "cpl": false
     }
   },
   "ecp12490121": {
@@ -14898,12 +13819,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "2033, caused by"
-      }
-    }
+    "restrictions": {}
   },
   "ecp12600121": {
     "code": "ECP 1260 01 21",
@@ -15202,10 +14118,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "eh20160605": {
@@ -15262,11 +14175,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "eil045231018": {
     "code": "EIL 04 523 10 18",
@@ -15280,11 +14189,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "eil046160520": {
     "code": "EIL 04 616 05 20",
@@ -15369,10 +14274,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "en01150211": {
@@ -15429,11 +14331,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "en03190211": {
     "code": "EN0319-0211",
@@ -15447,11 +14345,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "en03200211": {
     "code": "EN0320-0211",
@@ -15482,10 +14376,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "en03470217": {
@@ -15514,11 +14405,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "entgl0180119": {
     "code": "ENTGL 018 01 19",
@@ -15574,11 +14461,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "env31430305": {
     "code": "ENV-3143 (03-05)",
@@ -15732,12 +14615,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "last sentence of A.1"
-      }
-    }
+    "restrictions": {}
   },
   "epa1920012019": {
     "code": "EPA-1920 (01-2019)",
@@ -15837,12 +14715,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "No AI for contractors or owners"
-      }
-    }
+    "restrictions": {}
   },
   "epp1802ed1019": {
     "code": "EPP 1802 (Ed. 10-19)",
@@ -15857,10 +14730,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "epp00006ed1019": {
@@ -15890,10 +14760,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "epp1805ed1022": {
@@ -15909,10 +14776,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "epp1807ed1019": {
@@ -15955,11 +14819,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "esg3209ed0116": {
     "code": "ESG 3209 (Ed. 01-16)",
@@ -16015,12 +14875,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "(\"imposed liability\")"
-      }
-    }
+    "restrictions": {}
   },
   "fe6671": {
     "code": "FE-6671",
@@ -16062,11 +14917,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "fg00140507": {
     "code": "FG 00 14 05 07",
@@ -16108,16 +14959,12 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "fitgl01202005": {
     "code": "FIT-GL-01 (2020-05)",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of Subrogation",
+    "label": "General Liability - Blanket Additional Insured – Ongoing, Waiver of Subrogation",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -16322,12 +15169,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "arising out of 10 01 equivalent"
-      }
-    }
+    "restrictions": {}
   },
   "g300416ad2": {
     "code": "G- 300416A",
@@ -16384,10 +15226,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "g144041d1210": {
@@ -16430,12 +15269,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "g300703aed0509": {
     "code": "G-300703-A (Ed. 05-09)",
@@ -16589,12 +15423,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "ga2100917": {
     "code": "GA 210 09 17",
@@ -16608,12 +15437,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "ga210il0917": {
     "code": "GA 210 IL 09 17",
@@ -16782,10 +15606,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": true
     }
   },
   "ga2330915": {
@@ -16800,11 +15621,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "ga2330917": {
     "code": "GA 233 09 17",
@@ -16818,12 +15635,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai, can accept w/GA472"
-      }
-    }
+    "restrictions": {}
   },
   "ga2330920": {
     "code": "GA 233 09 20",
@@ -16940,11 +15752,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
+      "cpl": false
     }
   },
   "ga262ny0917": {
@@ -17001,11 +15809,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "ga43150319": {
     "code": "GA 4315 03 19",
@@ -17047,11 +15851,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "ga43970917": {
     "code": "GA 4397 09 17",
@@ -17080,10 +15880,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ga4523il0520": {
@@ -17098,12 +15895,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "adapts to 10 01 versions of 2010 and 2037"
-      }
-    }
+    "restrictions": {}
   },
   "ga4720520": {
     "code": "GA 472 05 20",
@@ -17118,10 +15910,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ga4720917": {
@@ -17137,10 +15926,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ga4720918": {
@@ -17156,10 +15942,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ga4720919": {
@@ -17188,11 +15971,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ga472az0520": {
     "code": "GA 472 AZ 05 20",
@@ -17220,11 +15999,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "ga472il0520": {
     "code": "GA 472 IL 05 20",
@@ -17252,11 +16027,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ga472il1017": {
     "code": "GA 472 IL 10 17",
@@ -17326,11 +16097,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "gba105004": {
     "code": "GBA 105004",
@@ -17389,10 +16156,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": true
     }
   },
   "gc10520411": {
@@ -17407,11 +16171,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "gc10600411": {
     "code": "GC 10 60 04 11",
@@ -17425,11 +16185,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "gc20400720": {
     "code": "GC 20 40 07 20",
@@ -17459,11 +16215,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "gcp2020511": {
     "code": "GCP 202 05 11",
@@ -17660,10 +16412,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "gk105462015": {
@@ -17846,12 +16595,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
-    }
+    "restrictions": {}
   },
   "gl2590100409": {
     "code": "GL 259 010 0409",
@@ -17879,12 +16623,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "\"caused soley by your work\""
-      }
-    }
+    "restrictions": {}
   },
   "gl2890021012": {
     "code": "GL 289 002 1012",
@@ -17898,12 +16637,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "\"caused soley by your work\""
-      }
-    }
+    "restrictions": {}
   },
   "gl3010220109": {
     "code": "GL 301 022 0109",
@@ -18002,10 +16736,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": false
     }
   },
   "gl6960080916": {
@@ -18132,11 +16863,7 @@
       "pnc": true,
       "noc": "60"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "gl30841019": {
     "code": "GL-3084 (10-19)",
@@ -18151,10 +16878,7 @@
       "noc": "60"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "gl30850911": {
@@ -18169,11 +16893,7 @@
       "pnc": true,
       "noc": "60"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "gl30871019": {
     "code": "GL-3087 (10-19)",
@@ -18201,11 +16921,7 @@
       "pnc": true,
       "noc": "60"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "gl30890911": {
     "code": "GL-3089 (09/11)",
@@ -18262,10 +16978,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "gl46670111": {
@@ -18281,10 +16994,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "gl50571016": {
@@ -18299,11 +17009,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "gloc20600820": {
     "code": "GL-OC-2060 (08-20)",
@@ -18531,11 +17237,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "gl9902101017": {
     "code": "GL990210 1017",
@@ -18634,10 +17336,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "glm3741222": {
@@ -18653,11 +17352,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "not the equivalent of the 2010 and 2037"
-      }
+      "cpl": false
     }
   },
   "gls5007ed1119": {
@@ -18701,10 +17396,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "gls448s215": {
@@ -18719,12 +17411,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033, residential exclusion"
-      }
-    }
+    "restrictions": {}
   },
   "gls5710321": {
     "code": "GLS-571 (03-21)",
@@ -18759,7 +17446,7 @@
   "gmpcle0619": {
     "code": "GMPCLE 06 19",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of Subrogation, Primary & Non-Contributory General Aggregate Limit - Per Project",
+    "label": "General Liability - Blanket Additional Insured - Ongoing, Waiver of Subrogation, Primary & Non-Contributory General Aggregate Limit – Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -18785,7 +17472,7 @@
     "restrictions": {}
   },
   "go02164yp1017": {
-    "code": "GO 0216 - 4YP 10-17",
+    "code": "GO 0216 – 4YP 10-17",
     "category": "GL",
     "label": "General Liability - Primary & Non-contributory",
     "properties": {
@@ -18799,7 +17486,7 @@
     "restrictions": {}
   },
   "go02184ya1017": {
-    "code": "GO 0218 - 4YA 10-17",
+    "code": "GO 0218 – 4YA 10-17",
     "category": "GL",
     "label": "General Liability - Waiver of Subrogation",
     "properties": {
@@ -19077,10 +17764,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "hg00010916": {
@@ -19096,10 +17780,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "hiigcges20660319": {
@@ -19128,11 +17809,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "hk1054u052018": {
     "code": "HK1054U (05-2018)",
@@ -19233,10 +17910,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "hs24820713": {
@@ -19251,12 +17925,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "caused by only"
-      }
-    }
+    "restrictions": {}
   },
   "hs24830713": {
     "code": "HS 24 83 07 13",
@@ -19271,10 +17940,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "hs30060317": {
@@ -19290,11 +17956,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "hudgl20100713": {
@@ -19437,11 +18099,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ieendepic012": {
     "code": "IE.END.EPIC.012",
@@ -19567,12 +18225,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "2033 wording so not acceptable for ongoing ops"
-      }
-    }
+    "restrictions": {}
   },
   "ifgg02711122": {
     "code": "IFG-G-0271 11 22",
@@ -19852,12 +18505,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording, limits to vicarious liability only"
-      }
-    }
+    "restrictions": {}
   },
   "in135102010": {
     "code": "IN135 (10-2010)",
@@ -19886,10 +18534,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "j6858ed20918": {
@@ -19905,11 +18550,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed",
-        "comments": "Farmers"
-      }
+      "cpl": false
     }
   },
   "j7235ed10219": {
@@ -19966,11 +18607,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "l20320712": {
     "code": "L 20 32 07 12",
@@ -20152,11 +18789,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "l8070117": {
     "code": "L807 (01/17)",
@@ -20198,12 +18831,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "A.1.2, bad pnc"
-      }
-    }
+    "restrictions": {}
   },
   "l8150623": {
     "code": "L815 (06-23)",
@@ -20319,11 +18947,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "lc04431118": {
     "code": "LC 04 43 11 18",
@@ -20422,10 +19046,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": false
     }
   },
   "lc20481013": {
@@ -20440,11 +19061,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "lc20580117": {
     "code": "LC 20 58 01 17",
@@ -20458,11 +19075,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "lc20580117d2": {
     "code": "LC 20 58 01 17",
@@ -20491,10 +19104,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "lc20590117": {
@@ -20523,12 +19133,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "excludes construction & renovation work"
-      }
-    }
+    "restrictions": {}
   },
   "lc20610117": {
     "code": "LC 20 61 01 17",
@@ -20543,10 +19148,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": false
     }
   },
   "lc20620117": {
@@ -20848,7 +19450,7 @@
   "ld526781019": {
     "code": "LD-52678 (10/19)",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing, Primary & Non-contributory, Waiver of Subrogation, 90 Days' Notice Of Cancellation, General Aggregate Limit - Per Project",
+    "label": "General Liability - Blanket Additional Insured - Ongoing, Primary & Non-contributory, Waiver of Subrogation, 90 Days' Notice Of Cancellation, General Aggregate Limit – Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -21025,11 +19627,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ln2001": {
     "code": "LN 2001",
@@ -21086,10 +19684,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "lx9466": {
@@ -21174,11 +19769,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "lx43160614": {
     "code": "LX4316 (06/14)",
@@ -21192,11 +19783,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "lx86000810": {
     "code": "LX8600 (08/10)",
@@ -21224,11 +19811,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "lx97760804": {
     "code": "LX9776 (08/04)",
@@ -21242,11 +19825,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "m4": {
     "code": "M - 4",
@@ -21517,11 +20096,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "employee injury exclusion"
-      }
+      "cpl": false
     }
   },
   "megl0241010516": {
@@ -21564,11 +20139,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "megl18940319": {
     "code": "MEGL 1894 03 19",
@@ -21683,16 +20254,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "mg200030618": {
     "code": "MG 20 003 06 18",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Primary and Non-Contributory",
+    "label": "General Liability - Blanket Additional Insured – Ongoing & Completed, Primary and Non-Contributory",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -21701,11 +20269,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "mg220040718": {
     "code": "MG 22 004 07 18 ",
@@ -21719,12 +20283,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "mg90010416": {
     "code": "MG 90 01 04 16",
@@ -21950,11 +20509,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "ml12140413": {
     "code": "ML 12 14 04 13",
@@ -21968,11 +20523,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "ml1215": {
     "code": "ML 12 15",
@@ -22014,12 +20565,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "For this specific instance, the rest of the additional insured names still need to be listed on the endorsement or it needs to have blanket language."
-      }
-    }
+    "restrictions": {}
   },
   "ml71010916": {
     "code": "ML 71 01 09 16",
@@ -22075,11 +20621,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "mp95380305": {
     "code": "MP 95 38 03 05",
@@ -22093,11 +20635,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "mp97671010": {
     "code": "MP 97 67 10 10",
@@ -22112,10 +20650,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "mpl2160306": {
@@ -22438,12 +20973,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "only covers entity with contract"
-      }
-    }
+    "restrictions": {}
   },
   "mu89580314": {
     "code": "MU 89 58 03 14 ",
@@ -22527,11 +21057,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "mus0101201560321": {
     "code": "MUS 01 01 20156 0321",
@@ -22602,11 +21128,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "nacg200719": {
@@ -22650,10 +21172,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "nacg230321": {
@@ -22682,12 +21201,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "contains imputed liability language"
-      }
-    }
+    "restrictions": {}
   },
   "nacg23a20321": {
     "code": "NA CG 23A2 03 21",
@@ -22759,11 +21273,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ncg74711216": {
     "code": "NCG 74 71 12 16",
@@ -22777,12 +21287,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "does not provide coverage for architects and lenders"
-      }
-    }
+    "restrictions": {}
   },
   "ncg74721216": {
     "code": "NCG 74 72 12 16",
@@ -23012,12 +21517,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "nyftz14181": {
     "code": "NY FTZ: 14181",
@@ -23045,11 +21545,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "obenvge3191120": {
     "code": "OBENV GE 319 (11 20)",
@@ -23092,10 +21588,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "obenvge3510920": {
@@ -23110,11 +21603,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "og023": {
     "code": "OG - 023",
@@ -23228,12 +21717,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "og2430717": {
     "code": "OG 243 (07-17)",
@@ -23248,11 +21732,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "og037rev306": {
@@ -23523,12 +22003,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "pd02591010": {
     "code": "PD 02 59 10 10",
@@ -23542,12 +22017,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "pd02621015": {
     "code": "PD 02 62 10 15",
@@ -23744,10 +22214,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "pigl0110714": {
@@ -23776,11 +22243,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "pigl0160915": {
     "code": "PI-GL-016 (09-15)",
@@ -23795,10 +22258,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "pigldagl0119": {
@@ -23884,10 +22344,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "pigldsg1013": {
@@ -24021,7 +22478,7 @@
   "picepac3021216": {
     "code": "PIC- EPAC-302 (12-16)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Completed",
+    "label": "General Liability - Additional Insured – Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -24031,16 +22488,13 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "picepac3001216": {
     "code": "PIC-EPAC-300 (12-16)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing",
+    "label": "General Liability - Additional Insured – Ongoing",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -24050,10 +22504,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "picepac3001216d2": {
@@ -24209,10 +22660,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ppb304g0413": {
@@ -24428,7 +22876,7 @@
   "rgl3650119": {
     "code": "RGL 365 01 19",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Gen. Aggregate limit applied Per Location and Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -24661,11 +23109,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "s2853cg320": {
     "code": "S2853-CG (3/20)",
@@ -24707,11 +23151,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "s3048cg1022": {
     "code": "S3048-CG (10/22)",
@@ -24725,11 +23165,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "s3048cg520": {
     "code": "S3048-CG (5/20)",
@@ -24771,11 +23207,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "s3068cg518": {
     "code": "S3068-CG (5/18)",
@@ -24831,12 +23263,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "same as CG2033"
-      }
-    }
+    "restrictions": {}
   },
   "sb04360117": {
     "code": "SB 04 36 01 17",
@@ -25032,11 +23459,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "sb300120c31ed0611": {
     "code": "SB-300120-C31 (Ed. 06/11)",
@@ -25164,12 +23587,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033, no partial negligence"
-      }
-    }
+    "restrictions": {}
   },
   "sds41119": {
     "code": "SDS-41 (1-19)",
@@ -25225,12 +23643,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033, sections 5, 6 and 8"
-      }
-    }
+    "restrictions": {}
   },
   "sds55118": {
     "code": "SDS-55 (1-18)",
@@ -25244,12 +23657,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "2033, no partial negligence"
-      }
-    }
+    "restrictions": {}
   },
   "sds6119": {
     "code": "SDS-6 (1-19)",
@@ -25263,12 +23671,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
-    }
+    "restrictions": {}
   },
   "sds8118": {
     "code": "SDS-8 (1-18)",
@@ -25282,12 +23685,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
-    }
+    "restrictions": {}
   },
   "sgl020010614": {
     "code": "SGL 02 001 (0614) ",
@@ -25360,11 +23758,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "sl10110121": {
@@ -25394,10 +23788,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "sl10110123": {
@@ -25413,10 +23804,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "sl10140121": {
@@ -25431,12 +23819,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "sl10140122": {
     "code": "SL 10 14 01 22",
@@ -25450,12 +23833,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "sl10140123": {
     "code": "SL 10 14 01 23",
@@ -25470,10 +23848,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "sl10240108": {
@@ -25489,10 +23864,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "sl10241013": {
@@ -25579,11 +23951,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "sl12160121": {
     "code": "SL 12 16 01 21",
@@ -25597,12 +23965,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "sl21000119": {
     "code": "SL 21 00 01 19",
@@ -25630,11 +23993,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "sl30320621": {
     "code": "SL 30 32 06 21",
@@ -25649,10 +24008,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "sl30321018": {
@@ -25668,10 +24024,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "sl30361018": {
@@ -25686,11 +24039,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "sl30421018": {
     "code": "SL 30 42 10 18",
@@ -25718,11 +24067,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "sl30531018": {
     "code": "SL 30 53 10 18",
@@ -25736,12 +24081,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "sl60000121": {
     "code": "SL 60 00 01 21",
@@ -25756,11 +24096,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
+      "cpl": false
     }
   },
   "sl60000123": {
@@ -25776,10 +24112,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": false
     }
   },
   "sl60080121": {
@@ -25794,12 +24127,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
-    }
+    "restrictions": {}
   },
   "sl60080123": {
     "code": "SL 60 08 01 23",
@@ -25814,10 +24142,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": false
     }
   },
   "sl60130123": {
@@ -25846,12 +24171,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "sl821011014": {
     "code": "SL 821 01 (10/14)",
@@ -25865,12 +24185,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "arsing out of"
-      }
-    }
+    "restrictions": {}
   },
   "sl10111215": {
     "code": "SL1011 (12-15)",
@@ -25885,11 +24200,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "3.d. page 4"
-      }
+      "cpl": true
     }
   },
   "sl10141215": {
@@ -25905,10 +24216,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": true
     }
   },
   "sl10241215": {
@@ -25924,10 +24232,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": true
     }
   },
   "sl12021215": {
@@ -25956,12 +24261,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor ai"
-      }
-    }
+    "restrictions": {}
   },
   "sl12160616": {
     "code": "SL1216 (06/16)",
@@ -25976,10 +24276,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "slg2088ed1111": {
@@ -26036,11 +24333,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "spbaipnw0215": {
     "code": "SP BAI PNW (02/15)",
@@ -26054,12 +24347,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "section B"
-      }
-    }
+    "restrictions": {}
   },
   "sp7103ed710": {
     "code": "SP-7103 (Ed. 7-10)",
@@ -26222,7 +24510,7 @@
   "spp0176ed0519": {
     "code": "SPP 0176 (Ed. 05 19)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Completed",
+    "label": "General Liability - Additional Insured – Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -26238,7 +24526,7 @@
   "spp201001ed1116": {
     "code": "SPP 2010 01 (Ed. 11 16)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing",
+    "label": "General Liability - Additional Insured – Ongoing",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -26270,7 +24558,7 @@
   "spp203701ed1116": {
     "code": "SPP 2037 01 (Ed. 11 16)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Completed",
+    "label": "General Liability - Additional Insured – Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -26367,11 +24655,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "ssm0061": {
     "code": "SSM - 0061",
@@ -26470,10 +24754,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "stfesp102dcw": {
@@ -26600,11 +24881,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "tcicaieono00010318": {
     "code": "TCIC AIE ONO 00 01 0318",
@@ -26618,11 +24895,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "tcicaieoop00010117": {
     "code": "TCIC AIE OOP 00 01 0117",
@@ -26636,12 +24909,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "does not include primary coverage"
-      }
-    }
+    "restrictions": {}
   },
   "tcicaieoop00010318": {
     "code": "TCIC AIE OOP 00 01 0318",
@@ -26669,11 +24937,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "tcicaieopws00010318": {
     "code": "TCIC AIE OPWS 00 01 0318",
@@ -26687,12 +24951,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording, to the extent of-ok"
-      }
-    }
+    "restrictions": {}
   },
   "tciccom203700020821": {
     "code": "TCIC COM 2037 00 02 0821",
@@ -26706,12 +24965,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed",
-        "comments": "last paragraph; \"only to the extent of\"; but willing to accept"
-      }
-    }
+    "restrictions": {}
   },
   "tcicgl00020621": {
     "code": "TCIC GL 00 02 0621",
@@ -26739,12 +24993,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "We will accept these endorsements only for this subcontractor, The Door Guys. They are not acceptable for anyone else."
-      }
-    }
+    "restrictions": {}
   },
   "thsnil20201020": {
     "code": "THSN IL 20 20 10 20",
@@ -26800,11 +25049,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "tmgl1750120": {
     "code": "TMGL 175 01 20",
@@ -26833,11 +25078,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed",
-        "comments": "read top part for exclusions"
-      }
+      "cpl": false
     }
   },
   "trs7000120": {
@@ -26978,11 +25219,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ugl113bcw": {
     "code": "U-GL-113-BCW",
@@ -27010,11 +25247,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ugl1175fcw0413": {
     "code": "U-GL-1175-F CW (04-13)",
@@ -27029,10 +25262,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ugl1175acw": {
@@ -27104,10 +25334,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ugl1327afl0409": {
@@ -27178,12 +25405,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no AI, is GL form priorty limits is given to sub"
-      }
-    }
+    "restrictions": {}
   },
   "ugl1345c": {
     "code": "U-GL-1345-C",
@@ -27212,11 +25434,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
+      "cpl": false
     }
   },
   "ugl1345ctx0320": {
@@ -27259,11 +25477,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ugl1466dcw1213": {
     "code": "U-GL-1466-D CW (12-13)",
@@ -27277,11 +25491,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "ugl1477bcw0413": {
     "code": "U-GL-1477-B CW (04-13)",
@@ -27394,10 +25604,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "ugl2166acw0318": {
@@ -27427,10 +25634,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "ugl2169acw0219": {
@@ -27446,10 +25650,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "ugl2182acw0919": {
@@ -27465,11 +25666,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "ugl2183acw0919": {
@@ -27485,11 +25682,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "arising out of"
-      }
+      "cpl": false
     }
   },
   "ugl2217acw0821": {
@@ -27630,12 +25823,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "B. just above 1."
-      }
-    }
+    "restrictions": {}
   },
   "u156a0313": {
     "code": "U156A-0313",
@@ -27649,12 +25837,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "multiple exclusions"
-      }
-    }
+    "restrictions": {}
   },
   "u4070116": {
     "code": "U407-0116",
@@ -27739,10 +25922,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "ulrhed613uf3886": {
@@ -27757,11 +25937,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "uluged520ufb297": {
     "code": "UL-UG (Ed. 5/20) UF-B297",
@@ -27775,12 +25951,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "same as CG2033"
-      }
-    }
+    "restrictions": {}
   },
   "uluged613ufb297": {
     "code": "UL-UG (Ed. 6-13) UF-B297 ",
@@ -27795,11 +25966,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none",
-        "comments": "2033 wording"
-      }
+      "cpl": true
     }
   },
   "uluked314ufb442": {
@@ -27815,10 +25982,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "vpe201622": {
@@ -27945,11 +26109,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "vcg2070709": {
     "code": "VCG 207 07 09",
@@ -27963,11 +26123,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "vcg207mo0618": {
     "code": "VCG 207 MO 06 18",
@@ -27981,11 +26137,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none"
-      }
-    }
+    "restrictions": {}
   },
   "vcg207tx0618": {
     "code": "VCG 207 TX 06 18",
@@ -27999,11 +26151,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "vcg2080618": {
     "code": "VCG 208 06 18",
@@ -28046,10 +26194,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "vcg761ny0205": {
@@ -28176,11 +26321,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "vlcg20540611": {
     "code": "VL CG 20 54 06 11",
@@ -28213,7 +26354,7 @@
   "vlcg50260618": {
     "code": "VL CG 50 26 06 18",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Designated Person Or Organization - Ongoing & Completed",
+    "label": "General Liability - Additional Insured – Designated Person Or Organization - Ongoing & Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -28227,7 +26368,7 @@
   "vlcg20260704": {
     "code": "VLCG2026 07 04",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Designated Person Or OrganizationGeneral Liability - Additional Insured - Designated Person Or Organization - Ongoing & Completed",
+    "label": "General Liability - Additional Insured – Designated Person Or OrganizationGeneral Liability - Additional Insured – Designated Person Or Organization - Ongoing & Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -28251,10 +26392,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "wb1482z0606": {
@@ -28382,10 +26520,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "both"
-      }
+      "cpl": false
     }
   },
   "wngl1460719": {
@@ -28442,12 +26577,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "no contractor AI"
-      }
-    }
+    "restrictions": {}
   },
   "wngl480715": {
     "code": "WN GL 48 07 15",
@@ -28476,10 +26606,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": true
     }
   },
   "wngl500715": {
@@ -28494,11 +26621,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "completed"
-      }
-    }
+    "restrictions": {}
   },
   "wngl720715": {
     "code": "WN GL 72 07 15",
@@ -28556,12 +26679,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "20 33 wording"
-      }
-    }
+    "restrictions": {}
   },
   "ww180ny0312": {
     "code": "WW180 NY (03/12)",
@@ -28590,10 +26708,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": true,
-      "harvey": {
-        "operations": "none"
-      }
+      "cpl": true
     }
   },
   "ww4330914": {
@@ -28608,12 +26723,7 @@
       "pnc": true,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "none",
-        "comments": "excludes liabiity of AI"
-      }
-    }
+    "restrictions": {}
   },
   "ww433a0219": {
     "code": "WW433A (02-19)",
@@ -28686,10 +26796,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "ongoing"
-      }
+      "cpl": false
     }
   },
   "xil20101001ed0413": {
@@ -28704,12 +26811,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing",
-        "comments": "arising out of"
-      }
-    }
+    "restrictions": {}
   },
   "xil20370704ed0413": {
     "code": "XIL 2037-0704 (Ed. 0413)",
@@ -28724,10 +26826,7 @@
       "noc": "none"
     },
     "restrictions": {
-      "cpl": false,
-      "harvey": {
-        "operations": "completed"
-      }
+      "cpl": false
     }
   },
   "xil4240605": {
@@ -28840,16 +26939,12 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "both"
-      }
-    }
+    "restrictions": {}
   },
   "xs21168a0413": {
     "code": "XS-21168a (04/13)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing",
+    "label": "General Liability - Additional Insured – Ongoing",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -28858,11 +26953,7 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "xs21234b0813": {
     "code": "XS-21234b (08/13)",
@@ -28881,7 +26972,7 @@
   "xs6w25b0413": {
     "code": "XS-6W25b (04/13)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Ongoing & Completed",
+    "label": "General Liability - Additional Insured – Ongoing & Completed",
     "properties": {
       "ai": true,
       "blanket": false,
@@ -28890,16 +26981,12 @@
       "pnc": false,
       "noc": "none"
     },
-    "restrictions": {
-      "harvey": {
-        "operations": "ongoing"
-      }
-    }
+    "restrictions": {}
   },
   "xs6w29b0217": {
     "code": "XS-6W29b (02/17)",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed",
+    "label": "General Liability - Blanket Additional Insured – Ongoing & Completed",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -28929,7 +27016,7 @@
   "xs6w31c0217": {
     "code": "XS-6W31c (02/17)",
     "category": "GL",
-    "label": "General Liability - Additional Insured - Completed",
+    "label": "General Liability - Additional Insured – Completed",
     "properties": {
       "ai": true,
       "blanket": false,
