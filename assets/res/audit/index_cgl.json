@@ -21403,7 +21403,9 @@
       "pnc": true,
       "agg": "project"
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": false
+    }
   },
   "s3048cg520": {
     "code": "S3048-CG (5/20)",
