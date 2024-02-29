@@ -16426,7 +16426,7 @@
   "hg00010916": {
     "code": "HG 00 01 09 16",
     "category": "GL",
-    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory, Waiver of Subrogation",
+    "label": "General Liability - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory, Waiver of Subrogation - Cross Liability",
     "properties": {
       "ai": true,
       "blanket": true,
@@ -16533,13 +16533,14 @@
   "hs24501220": {
     "code": "HS 24 50 12 20",
     "category": "GL",
-    "label": "General Liability - 30 Days' Notice of Cancellation",
+    "label": "General Liability - 30 Days' Notice of Cancellation, Aggregate Per Project / Per Location",
     "properties": {
       "ai": false,
       "blanket": false,
       "wos": false,
       "pnc": false,
-      "noc": "30"
+      "noc": "30",
+      "agg": "both"
     },
     "restrictions": {}
   },
@@ -16962,7 +16963,8 @@
       "ai": false,
       "blanket": false,
       "wos": false,
-      "pnc": false
+      "pnc": false,
+	  "noc": "30"
     },
     "restrictions": {}
   },
@@ -24136,7 +24138,9 @@
       "wos": true,
       "pnc": true
     },
-    "restrictions": {}
+    "restrictions": {
+      "cpl": true
+    }
   },
   "vcg2070709": {
     "code": "VCG 207 07 09",
@@ -25008,5 +25012,22 @@
       "pnc": false
     },
     "restrictions": {}
+  },
+  "cg72350712": {
+    "code": "CG 72 35 07 12",
+    "category": "GL",
+    "label": "Oklahoma Contractors General Liability Extension Endorsement - 60 days Notice of Cancellation, Aggregate Limit Per Project",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "wos": true,
+      "pnc": true,
+      "noc": "60",
+      "agg": "project"
+    },
+    "restrictions": {
+      "cpl": false
+    }
   }
 }

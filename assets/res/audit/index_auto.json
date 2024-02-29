@@ -1144,10 +1144,10 @@
   "aa41710620": {
     "code": "AA 4171 06 20",
     "category": "AL",
-    "label": "Business Auto - Additional Insured",
+    "label": "Business Auto - Blanket Additional Insured",
     "properties": {
       "ai": true,
-      "blanket": false,
+      "blanket": true,
       "wos": false,
       "pnc": false
     },
@@ -6235,7 +6235,9 @@
       "wos": true,
       "pnc": false
     },
-    "restrictions": {}
+    "restrictions": {
+	  "cpl": true
+	}
   },
   "vca2190316": {
     "code": "VCA 219 03 16",
