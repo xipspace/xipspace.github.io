@@ -1,0 +1,58 @@
+{
+  "cna88508xx0118": {
+    "code": "CNA88508XX (01-18)",
+    "category": "Env",
+    "label": "Additional Insured with Primary/Non Contributory Provision Endorsement",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "cplo40380318": {
+    "code": "CPLO 4038 03 18",
+    "category": "Env",
+    "label": "Additional Insured - Blanket",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": false
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  },
+  "meei00070122": {
+    "code": "MEEI 0007 01 22",
+    "category": "Env",
+    "label": "Contractor's Pollution Liability Coverage Form",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  },
+  "meei29630922": {
+    "code": "MEEI 2963 09 22",
+    "category": "Env",
+    "label": "Additional Insured - Primary and NonContributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": false
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  }
+}

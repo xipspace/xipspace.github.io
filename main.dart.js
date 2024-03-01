@@ -78307,7 +78307,7 @@ var $async$x4=A.a8(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 i=o.cx
 i.sl(0,!0)
-n=A.a(["index_cgl.json","index_bop.json","index_auto.json"],t.s)
+n=A.a(["index_cgl.json","index_bop.json","index_auto.json","index_env.json"],t.s)
 h=n,g=h.length,f=o.ay,e=0
 case 6:if(!(e<h.length)){s=8
 break}m=h[e]
