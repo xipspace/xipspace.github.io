@@ -1,0 +1,1021 @@
+{
+  "14081115": {
+    "code": "14081(1-15)",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "66105315": {
+    "code": "66105 (3-15)",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "661601217": {
+    "code": "66160 (12-17)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "07020815rev701": {
+    "code": "07-02-0815 (Rev 7-01)",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "07022291ed310": {
+    "code": "07-02-2291 (Ed. 3-10)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "32ap11230119": {
+    "code": "32AP1123 01 19",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "47502691214": {
+    "code": "475-0269 12 14",
+    "category": "UL",
+    "label": "Umbrella Liability - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "7116660919": {
+    "code": "71 1666 0919",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "aescx0360720": {
+    "code": "AES CX 036 07 20",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "aspenv1171117": {
+    "code": "ASPENV117 1117",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cat166ed1022uf4065": {
+    "code": "CAT-166 (Ed. 10/22) UF-4065",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cfsicex10103020818": {
+    "code": "CFSIC EX 101.0.302 08 18",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured, Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "clcu24550710": {
+    "code": "CL CU 24 55 07 10",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "clcu24650916": {
+    "code": "CL CU 24 65 09 16",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "clcu24870916": {
+    "code": "CL CU 24 87 09 16",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "clun045102016": {
+    "code": "CL-UN-045-10/2016",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cna75504xx032015": {
+    "code": "CNA75504XX (03-2015)",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured, Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "cu2403ed900uf3735": {
+    "code": "CU 24 03 (Ed. 9/00) UF-3735",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cu24031220": {
+    "code": "CU 24 03 12 20",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cu60020421": {
+    "code": "CU 60 02 04 21",
+    "category": "UL",
+    "label": "Umbrella Liability - Additional Insured,",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cu74670810": {
+    "code": "CU 74 67 08 10",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cu88390714": {
+    "code": "CU 88 39 07 14",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured - Amendment of Insured Definition",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cu88400210": {
+    "code": "CU 88 40 02 10",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cual20080611": {
+    "code": "CU Al 2008 (06 11)",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "cu70981115": {
+    "code": "CU-7098(11-15)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cuf1270718": {
+    "code": "CU-F-127 (07-18)",
+    "category": "UL",
+    "label": "Umbrella Liability - Additional Insured, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cu00010413": {
+    "code": "CU 00 01 04 13",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "cu74601215": {
+    "code": "CU7460(12-15)",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cud90050306": {
+    "code": "CUD 90 05 03 06",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "cuhg24780621": {
+    "code": "CUHG2478 0621",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cupop62000311": {
+    "code": "CUPOP 62 00 03 11",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "cxl11820317": {
+    "code": "CXL 1182 0317",
+    "category": "UL",
+    "label": "Umbrella Liability - Additional Insured, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxl24031010": {
+    "code": "CXL 2403 1010",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxl40403": {
+    "code": "CXL 4 04 03",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxl4490617": {
+    "code": "CXL 449 06 17",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxl449ny0617": {
+    "code": "CXL 449NY 06 17",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxl4560320": {
+    "code": "CXL 456 03 20",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxl4560622": {
+    "code": "CXL 456 06 22",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "cxs20500821": {
+    "code": "CXS 20 50 08 21",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "ec201004130316": {
+    "code": "EC 20100413 0316",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "env20130618": {
+    "code": "ENV 2013 06 18",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "eu00010716": {
+    "code": "EU 00 01 07 16",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured, Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "eu70001207": {
+    "code": "EU 70 00 12 07",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "eu70910515": {
+    "code": "EU 70 91 05 15",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "eum005020802": {
+    "code": "EUM 00 502 08 02",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "eum005220207": {
+    "code": "EUM 00 522 02 07",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "eum245710817": {
+    "code": "EUM 24 571 08 17",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "exl60920813": {
+    "code": "EXL 6092 0813",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "ffx80000222": {
+    "code": "FFX 8000 02 22",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "ffx80000320": {
+    "code": "FFX 8000 03 20",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "ffx80550519": {
+    "code": "FFX 8055 05 19",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "g15057ced0605": {
+    "code": "G-15057-C (Ed. 06-05)",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "ifgfx00010717": {
+    "code": "IFG-FX-0001 07 17",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "ifgfx01360821": {
+    "code": "IFG-FX-0136 08 21",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "il71051014": {
+    "code": "IL 71 05 10 14",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "lcu00010118": {
+    "code": "LCU 00 01 01 18",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "navexc0010410": {
+    "code": "NAV-EXC-001 (04-10)",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured - 30 Days' Notice of Cancellation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "navexc348a0111": {
+    "code": "NAV-EXC-348A (01-11)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "navumb0010410": {
+    "code": "NAV-UMB-001 (04-10)",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "picxl0870119": {
+    "code": "PI-CXL-087 (01-19)",
+    "category": "UL",
+    "label": "Umbrella Liability - Additional Insured, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  },
+  "ppu3040610": {
+    "code": "PPU 304 06 10",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "sgxs00031001114": {
+    "code": "SG-XS 00031 00 (11-14)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "su00001219": {
+    "code": "SU 00 00 12 19",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured,",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "uexs150acw0499": {
+    "code": "U-EXS-150-A CW (04-99)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "usxs100acw0911": {
+    "code": "U-SXS-100-A CW (09-11)",
+    "category": "UL",
+    "label": "Umbrella Liability - Waiver of Subrogation",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "uumb103ccw0310": {
+    "code": "U-UMB-103-C CW (03-10)",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form - Blanket Additional Insured, Waiver of Subrogation, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "umb1790709": {
+    "code": "UMB 179 (07 09)",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "us1010920": {
+    "code": "US 101 09 20",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "us1011204": {
+    "code": "US 101 12 04",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "us101um1204": {
+    "code": "US 101 UM 12 04",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "us40960121": {
+    "code": "US 4096 01 21",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "xl00030605": {
+    "code": "XL 00 03 06 05",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "xl00030916": {
+    "code": "XL 00 03 09 16",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": true,
+      "ff": false
+    },
+    "restrictions": {}
+  },
+  "xl00150209": {
+    "code": "XL 00 15 02 09",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  },
+  "xl24370911": {
+    "code": "XL 24 37 09 11",
+    "category": "UL",
+    "label": "Umbrella Liability - Blanket Additional Insured - Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {
+      "cpl": true
+    }
+  },
+  "xs1001008": {
+    "code": "XS - 100 (10-08)",
+    "category": "UL",
+    "label": "Umbrella Liability - Follow Form",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
+  },
+  "xsecert0260819": {
+    "code": "XSE CERT 026 08 19",
+    "category": "UL",
+    "label": "Umbrella Liability - Primary & Non-contributory",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false,
+      "ff": false
+    },
+    "restrictions": {}
+  }
+}
