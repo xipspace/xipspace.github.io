@@ -6,8 +6,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -18,8 +18,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -32,8 +32,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -44,8 +44,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -56,8 +56,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -68,8 +68,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -82,8 +82,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -94,8 +94,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -108,8 +108,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -122,8 +122,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -134,8 +134,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -146,8 +146,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -158,8 +158,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -170,8 +170,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -182,8 +182,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -196,8 +196,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -208,8 +208,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -220,8 +220,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -232,8 +232,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -244,8 +244,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -256,8 +256,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -268,8 +268,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -280,8 +280,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -294,8 +294,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -308,8 +308,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -320,8 +320,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -332,8 +332,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -344,8 +344,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -356,8 +356,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -370,8 +370,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -382,8 +382,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -394,8 +394,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -406,8 +406,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -420,8 +420,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -434,8 +434,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -446,8 +446,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -458,8 +458,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -470,8 +470,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -482,8 +482,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -496,8 +496,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -508,8 +508,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -520,8 +520,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -534,8 +534,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -546,8 +546,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -558,8 +558,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -570,8 +570,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -582,8 +582,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -594,8 +594,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -606,8 +606,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -618,8 +618,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -630,8 +630,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -644,8 +644,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -656,8 +656,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -668,8 +668,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -680,8 +680,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -692,8 +692,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -704,8 +704,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -716,8 +716,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -730,8 +730,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -744,8 +744,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -756,8 +756,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -770,8 +770,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -784,8 +784,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -796,8 +796,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -808,8 +808,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -820,8 +820,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -832,8 +832,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -844,8 +844,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -856,8 +856,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -870,8 +870,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -884,8 +884,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -898,8 +898,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -910,8 +910,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -924,8 +924,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -936,8 +936,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -948,8 +948,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -962,8 +962,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -974,8 +974,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -986,8 +986,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -998,8 +998,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1010,8 +1010,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1022,8 +1022,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1034,8 +1034,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1048,8 +1048,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1062,8 +1062,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1074,8 +1074,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1086,8 +1086,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1098,8 +1098,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1110,8 +1110,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1122,8 +1122,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1134,8 +1134,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1148,8 +1148,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1162,8 +1162,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -1176,8 +1176,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1188,8 +1188,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1200,8 +1200,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1214,8 +1214,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1226,8 +1226,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1238,8 +1238,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1250,8 +1250,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1262,8 +1262,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1274,8 +1274,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1288,8 +1288,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1300,8 +1300,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1312,8 +1312,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1326,8 +1326,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1338,8 +1338,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1350,8 +1350,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1362,8 +1362,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1376,8 +1376,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1390,8 +1390,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1404,8 +1404,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1416,8 +1416,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1428,8 +1428,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1440,8 +1440,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1452,8 +1452,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1466,8 +1466,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1480,8 +1480,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1492,8 +1492,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1504,8 +1504,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1516,8 +1516,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1528,8 +1528,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1540,8 +1540,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1552,8 +1552,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1564,8 +1564,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1576,8 +1576,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1588,8 +1588,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1602,8 +1602,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1616,8 +1616,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1630,8 +1630,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1642,8 +1642,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1654,8 +1654,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1666,8 +1666,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1678,8 +1678,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1692,8 +1692,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1704,8 +1704,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1716,8 +1716,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1728,8 +1728,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1740,8 +1740,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1752,8 +1752,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1766,8 +1766,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1778,8 +1778,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1790,8 +1790,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1802,8 +1802,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1814,8 +1814,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1828,8 +1828,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1842,8 +1842,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1854,8 +1854,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1866,8 +1866,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1878,8 +1878,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1890,8 +1890,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -1904,8 +1904,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1916,8 +1916,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1928,8 +1928,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -1942,8 +1942,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1954,8 +1954,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1966,8 +1966,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1978,8 +1978,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1990,8 +1990,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2002,8 +2002,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2014,8 +2014,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2026,8 +2026,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2038,8 +2038,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -2052,8 +2052,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2066,8 +2066,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2078,8 +2078,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2090,8 +2090,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2102,8 +2102,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2114,8 +2114,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2128,8 +2128,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2140,8 +2140,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2152,8 +2152,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2164,8 +2164,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2178,8 +2178,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2190,8 +2190,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2202,8 +2202,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2214,8 +2214,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2226,8 +2226,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2240,8 +2240,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2252,8 +2252,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2264,8 +2264,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2278,8 +2278,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2290,8 +2290,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2302,8 +2302,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2314,8 +2314,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2326,8 +2326,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2338,8 +2338,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2350,8 +2350,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2362,8 +2362,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2374,8 +2374,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2386,8 +2386,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2398,8 +2398,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2410,8 +2410,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2422,8 +2422,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2434,8 +2434,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2446,8 +2446,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2460,8 +2460,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2472,8 +2472,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2486,8 +2486,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2498,8 +2498,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2510,8 +2510,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2522,8 +2522,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2534,8 +2534,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2546,8 +2546,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2560,8 +2560,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -2574,8 +2574,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2588,8 +2588,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2600,8 +2600,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2612,8 +2612,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2624,8 +2624,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2636,8 +2636,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2650,8 +2650,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2662,8 +2662,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2674,8 +2674,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -2688,8 +2688,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2700,8 +2700,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2712,8 +2712,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2724,8 +2724,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2736,8 +2736,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2748,8 +2748,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -2762,8 +2762,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2774,8 +2774,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2788,8 +2788,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2802,8 +2802,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2816,8 +2816,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -2830,8 +2830,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2844,8 +2844,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2856,8 +2856,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2870,8 +2870,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2882,8 +2882,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2896,8 +2896,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2910,8 +2910,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2922,8 +2922,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2934,8 +2934,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2946,8 +2946,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2958,8 +2958,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -2972,8 +2972,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -2986,8 +2986,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3000,8 +3000,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3012,8 +3012,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3024,8 +3024,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3036,8 +3036,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3050,8 +3050,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3064,8 +3064,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3076,8 +3076,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3088,8 +3088,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3100,8 +3100,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3112,8 +3112,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3126,8 +3126,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3138,8 +3138,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3150,8 +3150,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3162,8 +3162,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3174,8 +3174,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3186,8 +3186,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3198,8 +3198,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3210,8 +3210,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3222,8 +3222,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3234,8 +3234,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3246,8 +3246,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3258,8 +3258,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3270,8 +3270,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3284,8 +3284,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3298,8 +3298,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3310,8 +3310,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3324,8 +3324,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3336,8 +3336,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3350,8 +3350,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3364,8 +3364,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3376,8 +3376,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3390,8 +3390,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3402,8 +3402,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3414,8 +3414,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3426,8 +3426,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3438,8 +3438,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3450,8 +3450,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3464,8 +3464,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3476,8 +3476,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3488,8 +3488,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3502,8 +3502,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3516,8 +3516,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3528,8 +3528,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3542,8 +3542,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3554,8 +3554,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3568,8 +3568,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3582,8 +3582,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3596,8 +3596,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3608,8 +3608,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3620,8 +3620,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3634,8 +3634,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3646,8 +3646,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3660,8 +3660,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3672,8 +3672,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3684,8 +3684,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3698,8 +3698,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3712,8 +3712,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3726,8 +3726,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3740,8 +3740,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3754,8 +3754,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3766,8 +3766,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3778,8 +3778,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3790,8 +3790,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3802,8 +3802,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3816,8 +3816,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3828,8 +3828,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3840,8 +3840,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3852,8 +3852,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3866,8 +3866,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3880,8 +3880,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3892,8 +3892,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3904,8 +3904,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3916,8 +3916,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3930,8 +3930,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -3944,8 +3944,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3958,8 +3958,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3972,8 +3972,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3986,8 +3986,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3998,8 +3998,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4010,8 +4010,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4024,8 +4024,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4036,8 +4036,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4050,8 +4050,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4062,8 +4062,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4074,8 +4074,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4086,8 +4086,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4098,8 +4098,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4110,8 +4110,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4122,8 +4122,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -4136,8 +4136,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -4150,8 +4150,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4162,8 +4162,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -4176,8 +4176,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -4190,8 +4190,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4202,8 +4202,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4214,8 +4214,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4228,8 +4228,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -4242,8 +4242,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -4256,8 +4256,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -4270,8 +4270,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4282,8 +4282,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -4296,8 +4296,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -4310,8 +4310,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4322,8 +4322,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4334,8 +4334,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4348,8 +4348,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4362,8 +4362,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4374,8 +4374,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4386,8 +4386,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4398,8 +4398,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4410,8 +4410,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4422,8 +4422,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4434,8 +4434,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4448,8 +4448,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4462,8 +4462,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4476,8 +4476,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4488,8 +4488,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4500,8 +4500,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4514,8 +4514,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4526,8 +4526,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4538,8 +4538,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4550,8 +4550,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4562,8 +4562,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4574,8 +4574,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4586,8 +4586,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4600,8 +4600,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4614,8 +4614,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4626,8 +4626,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4640,8 +4640,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4654,8 +4654,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4668,8 +4668,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4680,8 +4680,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4692,8 +4692,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4704,8 +4704,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4716,8 +4716,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4728,8 +4728,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4740,8 +4740,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4754,8 +4754,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4766,8 +4766,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4780,8 +4780,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4792,8 +4792,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4804,8 +4804,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4818,8 +4818,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4830,8 +4830,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4842,8 +4842,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4854,8 +4854,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4866,8 +4866,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4878,8 +4878,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4890,8 +4890,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4902,8 +4902,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4914,8 +4914,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4926,8 +4926,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4940,8 +4940,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4952,8 +4952,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4966,8 +4966,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4980,8 +4980,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4994,8 +4994,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5006,8 +5006,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5018,8 +5018,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5030,8 +5030,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5042,8 +5042,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5054,8 +5054,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5066,8 +5066,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5078,8 +5078,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5090,8 +5090,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5102,8 +5102,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5114,8 +5114,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -5128,8 +5128,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5140,8 +5140,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5152,8 +5152,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5164,8 +5164,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5176,8 +5176,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5188,8 +5188,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5200,8 +5200,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5212,8 +5212,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -5226,8 +5226,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5238,8 +5238,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5250,8 +5250,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5262,8 +5262,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5274,8 +5274,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5286,8 +5286,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5298,8 +5298,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5310,8 +5310,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5322,8 +5322,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -5336,8 +5336,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5348,8 +5348,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5360,8 +5360,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5372,8 +5372,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5384,8 +5384,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5396,8 +5396,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5408,8 +5408,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -5422,8 +5422,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5434,8 +5434,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5446,8 +5446,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5458,8 +5458,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5470,8 +5470,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -5484,8 +5484,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5496,8 +5496,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -5510,8 +5510,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5522,8 +5522,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5534,8 +5534,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -5548,8 +5548,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5560,8 +5560,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5572,8 +5572,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5584,8 +5584,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5596,8 +5596,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5608,8 +5608,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5620,8 +5620,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5632,8 +5632,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5644,8 +5644,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5656,8 +5656,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5668,8 +5668,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -5682,8 +5682,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5694,8 +5694,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -5708,8 +5708,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -5722,8 +5722,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -5736,8 +5736,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5748,8 +5748,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5760,8 +5760,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5772,8 +5772,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5784,8 +5784,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5796,8 +5796,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5808,8 +5808,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5820,8 +5820,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5832,8 +5832,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5844,8 +5844,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5856,8 +5856,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5868,8 +5868,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5880,8 +5880,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -5894,8 +5894,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5906,8 +5906,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5918,8 +5918,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5930,8 +5930,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5942,8 +5942,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5954,8 +5954,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5966,8 +5966,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -5980,8 +5980,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5992,8 +5992,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6004,8 +6004,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -6018,8 +6018,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6030,8 +6030,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6042,8 +6042,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -6056,8 +6056,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -6070,8 +6070,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6082,8 +6082,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6094,8 +6094,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6106,8 +6106,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -6120,8 +6120,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6132,8 +6132,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -6146,8 +6146,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6158,8 +6158,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6170,8 +6170,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6182,8 +6182,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6194,8 +6194,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6206,8 +6206,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6218,8 +6218,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -6232,12 +6232,10 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
-    "restrictions": {
-	  "cpl": true
-	}
+    "restrictions": {}
   },
   "vca2190316": {
     "code": "VCA 219 03 16",
@@ -6246,8 +6244,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6258,8 +6256,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6270,8 +6268,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6282,8 +6280,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6294,8 +6292,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   },
@@ -6306,8 +6304,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -6320,8 +6318,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6332,8 +6330,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -6346,8 +6344,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": false,
-      "pnc": true
+      "pnc": true,
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -6360,8 +6358,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": false,
-      "pnc": false
+      "pnc": false,
+      "wos": false
     },
     "restrictions": {}
   },
@@ -6372,8 +6370,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "wos": true,
-      "pnc": true
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {
       "cpl": true
@@ -6386,8 +6384,32 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "wos": true,
-      "pnc": false
+      "pnc": false,
+      "wos": true
+    },
+    "restrictions": {}
+  },
+  "mcamsbe0221": {
+    "code": "MCA MSBE 02 21",
+    "category": "AL",
+    "label": "Mercury Business Auto Broadening Endorsement",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false
+    },
+    "restrictions": {}
+  },
+  "ca71090106": {
+    "code": "CA 71 09 01 06",
+    "category": "AL",
+    "label": "Business Auto Ultra Endorsement",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true
     },
     "restrictions": {}
   }

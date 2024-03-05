@@ -1017,5 +1017,18 @@
       "ff": false
     },
     "restrictions": {}
+  },
+  "exl02030813": {
+    "code": "EXL 0203 0813",
+    "category": "UL",
+    "label": "Excess Liability Coverage Follow Form (Short Form)",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": false,
+      "wos": false,
+      "ff": true
+    },
+    "restrictions": {}
   }
 }
