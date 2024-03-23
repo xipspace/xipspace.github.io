@@ -8,9 +8,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -25,9 +23,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -42,9 +38,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -59,9 +53,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -76,9 +68,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -93,9 +83,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -108,9 +96,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -125,9 +111,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -138,11 +122,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -155,9 +136,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -170,9 +149,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -185,9 +162,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -200,9 +175,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -217,9 +190,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -232,9 +203,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -248,8 +217,7 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -262,9 +230,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -277,9 +243,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -292,9 +256,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -307,11 +269,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -324,9 +283,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -339,9 +296,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -354,9 +309,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -369,9 +322,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -384,9 +335,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -401,9 +350,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -414,11 +361,9 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
       "wos": false,
-      "noc": false,
-      "agg": "none"
+      "noc": "10"
     },
     "restrictions": {}
   },
@@ -431,9 +376,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -444,11 +387,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -462,7 +402,6 @@
       "operations": "both",
       "pnc": false,
       "wos": false,
-      "noc": false,
       "agg": "both"
     },
     "restrictions": {}
@@ -474,11 +413,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -491,9 +427,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -506,9 +440,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -519,11 +451,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -534,11 +463,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -551,9 +478,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -564,11 +489,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -579,11 +502,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -594,11 +515,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -611,9 +529,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -626,9 +542,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -639,11 +553,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -654,11 +566,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -669,11 +579,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -684,11 +592,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -699,11 +605,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -716,9 +620,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -733,9 +635,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -748,9 +648,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -764,7 +662,6 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": false,
       "agg": "both"
     },
     "restrictions": {}
@@ -778,9 +675,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -793,9 +688,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -808,9 +701,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -821,11 +712,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -836,11 +725,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -851,11 +738,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -868,9 +752,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -884,7 +766,6 @@
       "operations": "both",
       "pnc": false,
       "wos": true,
-      "noc": false,
       "agg": "location"
     },
     "restrictions": {}
@@ -898,9 +779,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -913,9 +792,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -928,9 +805,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -944,7 +819,6 @@
       "operations": "both",
       "pnc": false,
       "wos": true,
-      "noc": false,
       "agg": "location"
     },
     "restrictions": {}
@@ -958,9 +832,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -975,9 +847,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -992,9 +862,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1007,9 +875,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1022,9 +888,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1037,9 +901,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1052,9 +914,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1067,9 +927,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1082,9 +940,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1097,9 +953,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1110,11 +964,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1125,11 +976,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1140,11 +988,9 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1155,11 +1001,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1170,11 +1013,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1185,11 +1026,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1200,11 +1039,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1215,11 +1052,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1230,11 +1065,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1245,11 +1078,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1260,11 +1091,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1275,11 +1104,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -1290,11 +1117,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1305,11 +1129,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -1322,9 +1144,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1337,9 +1157,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1352,9 +1170,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1367,9 +1183,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1382,9 +1196,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1397,9 +1209,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1412,9 +1222,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1427,9 +1235,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1444,9 +1250,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1459,9 +1263,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1474,9 +1276,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1491,9 +1291,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -1508,9 +1306,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1523,9 +1319,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -1538,11 +1332,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1553,11 +1344,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1570,9 +1358,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1583,11 +1369,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1600,9 +1384,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1615,9 +1397,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1632,9 +1412,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1645,11 +1423,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1662,9 +1437,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1677,9 +1450,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1693,7 +1464,6 @@
       "operations": "ongoing",
       "pnc": false,
       "wos": true,
-      "noc": false,
       "agg": "both"
     },
     "restrictions": {
@@ -1709,9 +1479,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1726,9 +1494,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1741,9 +1507,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1756,9 +1520,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1771,9 +1533,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1786,9 +1546,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1801,9 +1559,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1816,9 +1572,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1831,9 +1585,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1847,7 +1599,6 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": false,
-      "noc": false,
       "agg": "both"
     },
     "restrictions": {}
@@ -1861,9 +1612,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -1877,8 +1626,7 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1892,8 +1640,7 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -1906,9 +1653,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1923,9 +1668,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -1941,7 +1684,6 @@
       "operations": "ongoing",
       "pnc": false,
       "wos": false,
-      "noc": false,
       "agg": "both"
     },
     "restrictions": {
@@ -1958,7 +1700,6 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": false,
-      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -1972,9 +1713,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -1987,9 +1726,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2002,9 +1739,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2017,9 +1752,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2030,11 +1763,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2047,9 +1777,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2062,9 +1790,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2077,9 +1803,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2092,9 +1816,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2108,7 +1830,6 @@
       "operations": "both",
       "pnc": false,
       "wos": false,
-      "noc": false,
       "agg": "location"
     },
     "restrictions": {}
@@ -2123,7 +1844,6 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": false,
       "agg": "location"
     },
     "restrictions": {
@@ -2139,9 +1859,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2152,11 +1870,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2167,11 +1882,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2184,9 +1896,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2199,9 +1909,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2214,9 +1922,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2229,9 +1935,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2242,11 +1946,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2259,9 +1960,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2274,9 +1973,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2289,9 +1986,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2304,9 +1999,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2317,11 +2010,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2334,9 +2024,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -2351,9 +2039,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2366,9 +2052,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2383,9 +2067,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -2400,9 +2082,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2415,9 +2095,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2430,9 +2108,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -2445,11 +2121,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2460,11 +2133,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2477,9 +2148,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2492,9 +2161,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2505,11 +2172,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2522,9 +2186,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2537,9 +2199,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2554,9 +2214,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2569,11 +2227,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2584,11 +2239,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2599,11 +2251,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2616,9 +2265,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2631,9 +2278,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2646,9 +2291,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2661,9 +2304,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2676,9 +2317,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -2691,11 +2330,8 @@
     "properties": {
       "ai": true,
       "blanket": true,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2708,9 +2344,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2721,11 +2355,9 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2738,9 +2370,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2753,9 +2383,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2768,9 +2396,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2781,11 +2407,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -2796,11 +2419,9 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2811,11 +2432,9 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2826,11 +2445,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2841,11 +2458,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -2856,11 +2471,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2871,11 +2484,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2886,11 +2497,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2901,11 +2510,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -2918,9 +2525,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2933,9 +2538,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2948,9 +2551,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2961,11 +2562,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2978,9 +2576,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -2993,9 +2589,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3010,9 +2604,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3023,11 +2615,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3040,9 +2629,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3055,9 +2642,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3070,9 +2655,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3085,9 +2668,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3098,11 +2679,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3113,11 +2691,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": false,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3130,9 +2706,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3145,11 +2719,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3162,9 +2733,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3175,11 +2744,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3190,11 +2757,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -3205,11 +2770,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3222,9 +2784,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3237,9 +2797,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3250,11 +2808,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3267,9 +2823,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3282,9 +2836,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3295,11 +2847,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3312,9 +2861,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3327,9 +2874,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3342,9 +2887,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3355,11 +2898,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3370,11 +2910,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3385,11 +2923,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -3400,11 +2936,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3415,11 +2949,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3430,11 +2961,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "60"
     },
     "restrictions": {}
   },
@@ -3445,11 +2974,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3460,11 +2987,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3475,11 +3000,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3490,11 +3013,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3505,11 +3026,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3520,11 +3039,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3535,11 +3052,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3550,11 +3065,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3565,11 +3078,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3580,11 +3091,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3598,7 +3107,6 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -3612,9 +3120,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3627,9 +3133,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3642,11 +3146,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3659,9 +3160,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3674,9 +3173,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3689,9 +3186,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3706,9 +3201,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3723,9 +3216,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3736,11 +3227,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3753,9 +3241,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3768,9 +3254,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3783,9 +3267,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3798,9 +3280,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3813,9 +3293,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3828,9 +3306,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -3845,9 +3321,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -3862,9 +3336,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3877,9 +3349,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -3894,9 +3364,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3909,9 +3377,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3922,11 +3388,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -3939,9 +3402,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3952,11 +3413,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3967,11 +3426,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -3984,9 +3441,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -3999,9 +3454,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4012,11 +3465,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4027,11 +3478,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4044,9 +3493,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4059,9 +3506,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4074,9 +3519,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4087,11 +3530,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4102,11 +3542,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4119,9 +3557,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4132,11 +3568,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4147,11 +3580,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4164,9 +3595,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4177,11 +3606,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4194,9 +3621,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4211,9 +3636,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4226,9 +3649,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4241,11 +3662,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4256,11 +3675,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4273,9 +3690,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4286,11 +3701,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4303,9 +3715,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4318,9 +3728,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4333,9 +3741,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4351,8 +3757,7 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4366,8 +3771,7 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {
       "cpl": false
@@ -4383,8 +3787,7 @@
       "operations": "both",
       "pnc": true,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4397,9 +3800,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -4414,9 +3815,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4429,9 +3828,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4442,11 +3839,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4459,9 +3853,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -4476,9 +3868,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4489,11 +3879,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4506,9 +3894,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4521,9 +3907,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4534,11 +3918,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4551,9 +3933,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4566,9 +3946,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4581,9 +3959,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4598,9 +3974,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4613,9 +3987,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4628,9 +4000,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4643,9 +4013,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4660,9 +4028,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4675,9 +4041,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4690,9 +4054,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4707,9 +4069,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {
       "cpl": false
@@ -4724,9 +4084,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4737,11 +4095,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4752,11 +4108,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -4767,11 +4121,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4784,9 +4135,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4799,9 +4148,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4815,7 +4162,6 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -4830,7 +4176,6 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -4844,9 +4189,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4857,11 +4200,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4872,11 +4213,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4889,9 +4228,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4902,11 +4239,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4917,11 +4251,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -4934,9 +4265,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4951,9 +4280,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -4968,9 +4295,7 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -4981,11 +4306,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -4996,11 +4319,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5011,11 +4332,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5028,9 +4347,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5044,7 +4361,6 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": false,
       "agg": "location"
     },
     "restrictions": {
@@ -5058,11 +4374,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5073,11 +4387,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5088,11 +4400,8 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5103,11 +4412,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5118,11 +4425,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5135,9 +4440,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -5152,9 +4455,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5167,9 +4468,7 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": false
@@ -5182,11 +4481,8 @@
     "properties": {
       "ai": true,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5199,9 +4495,7 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5214,9 +4508,7 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5229,9 +4521,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {}
   },
@@ -5244,9 +4534,7 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false,
-      "noc": false,
-      "agg": "none"
+      "wos": false
     },
     "restrictions": {
       "cpl": true
@@ -5259,11 +4547,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "30"
     },
     "restrictions": {}
   },
@@ -5274,11 +4560,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   },
@@ -5291,9 +4575,7 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true,
-      "noc": false,
-      "agg": "none"
+      "wos": true
     },
     "restrictions": {}
   },
@@ -5304,11 +4586,9 @@
     "properties": {
       "ai": false,
       "blanket": false,
-      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": true,
-      "agg": "none"
+      "noc": "45"
     },
     "restrictions": {}
   }
