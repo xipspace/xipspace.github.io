@@ -1,94 +1,4 @@
 {
-  "21710718": {
-    "code": "2171 (07-18)",
-    "category": "BOP",
-    "label": "Business Liability - Blanket Additional Insured - Ongoing",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "ongoing",
-      "pnc": false,
-      "wos": false
-    },
-    "restrictions": {}
-  },
-  "22860718": {
-    "code": "2286 (07-18)",
-    "category": "BOP",
-    "label": "Business Liability - Blanket Additional Insured - Completed",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "completed",
-      "pnc": false,
-      "wos": false
-    },
-    "restrictions": {}
-  },
-  "54619894": {
-    "code": "54619 (8-94)",
-    "category": "BOP",
-    "label": "Businessowners - Additional Insured",
-    "properties": {
-      "ai": true,
-      "blanket": false,
-      "pnc": false,
-      "wos": false
-    },
-    "restrictions": {}
-  },
-  "182031118": {
-    "code": "18203 11 18",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "both",
-      "pnc": false,
-      "wos": false
-    },
-    "restrictions": {}
-  },
-  "543601008": {
-    "code": "54360 (10-08)",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "both",
-      "pnc": false,
-      "wos": true
-    },
-    "restrictions": {}
-  },
-  "2601150511": {
-    "code": "26-0115 05 11",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "both",
-      "pnc": false,
-      "wos": true
-    },
-    "restrictions": {}
-  },
-  "3911006702": {
-    "code": "391-1006 (7/02)",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "both",
-      "pnc": true,
-      "wos": false
-    },
-    "restrictions": {}
-  },
   "0120100413": {
     "code": "01 2010 04 13",
     "category": "BOP",
@@ -98,7 +8,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -113,7 +25,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -128,7 +42,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -143,7 +59,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -158,7 +76,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -173,7 +93,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -186,7 +108,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -201,7 +125,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -212,8 +138,56 @@
     "properties": {
       "ai": true,
       "blanket": true,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
+    },
+    "restrictions": {}
+  },
+  "182031118": {
+    "code": "18203 11 18",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "pnc": false,
+      "wos": false,
+      "noc": false,
+      "agg": "none"
+    },
+    "restrictions": {}
+  },
+  "21710718": {
+    "code": "2171 (07-18)",
+    "category": "BOP",
+    "label": "Business Liability - Blanket Additional Insured - Ongoing",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "ongoing",
+      "pnc": false,
+      "wos": false,
+      "noc": false,
+      "agg": "none"
+    },
+    "restrictions": {}
+  },
+  "22860718": {
+    "code": "2286 (07-18)",
+    "category": "BOP",
+    "label": "Business Liability - Blanket Additional Insured - Completed",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "completed",
+      "pnc": false,
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -226,11 +200,28 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
     }
+  },
+  "2601150511": {
+    "code": "26-0115 05 11",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "pnc": false,
+      "wos": true,
+      "noc": false,
+      "agg": "none"
+    },
+    "restrictions": {}
   },
   "30ap21430318": {
     "code": "30AP2143 03 18",
@@ -241,7 +232,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -255,7 +248,23 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
+    },
+    "restrictions": {}
+  },
+  "3911006702": {
+    "code": "391-1006 (7/02)",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Primary & Non-contributory",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "pnc": true,
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -268,7 +277,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -281,7 +292,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -294,8 +307,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -308,7 +324,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -321,7 +339,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -334,7 +354,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -347,7 +369,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -360,7 +384,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -375,7 +401,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -386,9 +414,41 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
       "wos": false,
-      "noc": "10"
+      "noc": false,
+      "agg": "none"
+    },
+    "restrictions": {}
+  },
+  "543601008": {
+    "code": "54360 (10-08)",
+    "category": "BOP",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "operations": "both",
+      "pnc": false,
+      "wos": true,
+      "noc": false,
+      "agg": "none"
+    },
+    "restrictions": {}
+  },
+  "54619894": {
+    "code": "54619 (8-94)",
+    "category": "BOP",
+    "label": "Businessowners - Additional Insured",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "operations": "none",
+      "pnc": false,
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -402,6 +462,7 @@
       "operations": "both",
       "pnc": false,
       "wos": false,
+      "noc": false,
       "agg": "both"
     },
     "restrictions": {}
@@ -413,8 +474,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -427,7 +491,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -440,7 +506,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -451,8 +519,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -463,9 +534,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "60"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -478,7 +551,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -489,9 +564,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -502,9 +579,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -515,8 +594,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -529,7 +611,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -542,7 +626,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -553,9 +639,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -566,22 +654,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
-    },
-    "restrictions": {}
-  },
-  "all326870111d2": {
-    "code": "ALL-32687 (01/11)",
-    "category": "BOP",
-    "label": "30 Days' Notice of Cancellation",
-    "properties": {
-      "ai": false,
-      "blanket": false,
-      "pnc": false,
-      "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -592,9 +669,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -605,9 +684,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -618,9 +699,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -633,7 +716,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -648,7 +733,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -661,20 +748,23 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "bo60910121": {
     "code": "BO 60 91 01 21",
     "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured -  Ongoing (& Completed Tenants only) - Waiver of Subrogaion, Primary & Non-contributory, Gen. Aggregate Applied Per Location and Per Project - Managers or Lessors",
+    "label": "Businessowners - Blanket Additional Insured -  Ongoing (& Completed Tenants only) - Waiver of Subrogation, Primary & Non-contributory, Aggregate Per Location and Per Project - Managers or Lessors",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "both",
       "pnc": true,
       "wos": true,
+      "noc": false,
       "agg": "both"
     },
     "restrictions": {}
@@ -688,7 +778,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -701,7 +793,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -714,7 +808,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -725,9 +821,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "60"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -738,9 +836,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "60"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -751,8 +851,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -765,7 +868,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -779,6 +884,7 @@
       "operations": "both",
       "pnc": false,
       "wos": true,
+      "noc": false,
       "agg": "location"
     },
     "restrictions": {}
@@ -792,7 +898,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -805,7 +913,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -818,7 +928,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -832,6 +944,7 @@
       "operations": "both",
       "pnc": false,
       "wos": true,
+      "noc": false,
       "agg": "location"
     },
     "restrictions": {}
@@ -845,7 +958,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -860,7 +975,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -875,7 +992,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -888,7 +1007,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -901,7 +1022,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -914,7 +1037,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -927,7 +1052,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -940,7 +1067,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -953,7 +1082,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -966,7 +1097,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -977,8 +1110,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -989,8 +1125,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1001,9 +1140,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1014,8 +1155,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1026,9 +1170,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1039,9 +1185,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1052,22 +1200,26 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "bp00030713": {
     "code": "BP 00 03 07 13",
     "category": "BOP",
-    "label": "Businessowners - Additional Insured - Waiver of Subrogation, 30 Days' Notice of Cancellation, Cross Liability",
+    "label": "Businessowners - 30 Days' Notice of Cancellation, Cross Liability",
     "properties": {
-      "ai": true,
+      "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true,
-      "noc": "30"
+      "wos": false,
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1078,9 +1230,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1091,9 +1245,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1104,9 +1260,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1117,9 +1275,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1130,8 +1290,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1142,22 +1305,26 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "bp04020187": {
     "code": "BP 04 02 01 87",
     "category": "BOP",
-    "label": "BOP - Blanket Additional Insured - Ongoing",
+    "label": "BOP - Additional Insured - Ongoing (TENANTS ONLY) - Managers or Lessors",
     "properties": {
       "ai": true,
-      "blanket": true,
+      "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1170,7 +1337,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1183,7 +1352,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1196,7 +1367,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1209,7 +1382,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1222,7 +1397,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1235,7 +1412,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1248,7 +1427,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1263,7 +1444,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1276,7 +1459,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1289,7 +1474,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1304,7 +1491,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -1319,7 +1508,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1332,7 +1523,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -1345,8 +1538,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1357,8 +1553,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1371,7 +1570,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1382,9 +1583,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1397,7 +1600,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1410,7 +1615,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1425,7 +1632,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1436,8 +1645,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1450,7 +1662,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1463,7 +1677,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1477,6 +1693,7 @@
       "operations": "ongoing",
       "pnc": false,
       "wos": true,
+      "noc": false,
       "agg": "both"
     },
     "restrictions": {
@@ -1492,7 +1709,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1507,7 +1726,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1520,7 +1741,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1533,7 +1756,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1546,7 +1771,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1559,7 +1786,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1572,7 +1801,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1585,7 +1816,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1598,7 +1831,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1612,6 +1847,7 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": false,
+      "noc": false,
       "agg": "both"
     },
     "restrictions": {}
@@ -1625,7 +1861,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1639,7 +1877,8 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1653,7 +1892,8 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1666,7 +1906,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1681,7 +1923,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -1697,6 +1941,7 @@
       "operations": "ongoing",
       "pnc": false,
       "wos": false,
+      "noc": false,
       "agg": "both"
     },
     "restrictions": {
@@ -1713,6 +1958,7 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": false,
+      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -1726,7 +1972,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1739,7 +1987,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1752,7 +2002,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1765,7 +2017,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1776,8 +2030,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1790,7 +2047,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1803,7 +2062,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1816,7 +2077,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1829,7 +2092,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1843,6 +2108,7 @@
       "operations": "both",
       "pnc": false,
       "wos": false,
+      "noc": false,
       "agg": "location"
     },
     "restrictions": {}
@@ -1857,6 +2123,7 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
+      "noc": false,
       "agg": "location"
     },
     "restrictions": {
@@ -1872,7 +2139,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1883,8 +2152,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1895,8 +2167,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1909,7 +2184,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1922,7 +2199,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1935,7 +2214,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1948,7 +2229,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1959,8 +2242,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1973,7 +2259,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1986,7 +2274,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -1999,7 +2289,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2012,7 +2304,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2023,8 +2317,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2037,7 +2334,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -2052,7 +2351,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2065,7 +2366,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2080,7 +2383,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -2095,7 +2400,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2108,7 +2415,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2121,7 +2430,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -2134,8 +2445,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2146,9 +2460,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2161,7 +2477,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2174,32 +2492,39 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "cb1488713": {
     "code": "CB-1488(7-13)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Primary & Non-contributory",
+    "label": "Bis-Pak\u00ae Business Liability - Primary & Non-contributory",
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "cb7245308": {
     "code": "CB-7245(3-08)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Blanket Additional Insured - Completed",
+    "label": "Bis-Pak\u00ae Business Liability - Blanket Additional Insured - Completed",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2212,7 +2537,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2227,7 +2554,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2236,12 +2565,15 @@
   "cb7252410": {
     "code": "CB-7252(4-10)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Waiver of Subrogation",
+    "label": "Bis-Pak\u00ae Business Liability - Waiver of Subrogation",
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2252,8 +2584,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2264,8 +2599,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2278,7 +2616,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2291,7 +2631,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2304,20 +2646,24 @@
       "blanket": false,
       "operations": "completed",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "cb74331001": {
     "code": "CB-7433(10-01)",
     "category": "BOP",
-    "label": "Bis-Pak® Business Liability - Blanket Additional Insured - Ongoing",
+    "label": "Bis-Pak\u00ae Business Liability - Blanket Additional Insured - Ongoing",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2330,7 +2676,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2343,8 +2691,11 @@
     "properties": {
       "ai": true,
       "blanket": true,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2357,7 +2708,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2368,9 +2721,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2383,7 +2738,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2396,7 +2753,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2409,7 +2768,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2420,8 +2781,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2432,9 +2796,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2445,9 +2811,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2458,9 +2826,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2471,9 +2841,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2484,9 +2856,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2497,9 +2871,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2510,9 +2886,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2523,9 +2901,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2538,7 +2918,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2551,7 +2933,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2564,7 +2948,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2575,8 +2961,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2589,7 +2978,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2602,7 +2993,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2617,7 +3010,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2628,8 +3023,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2642,7 +3040,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2655,7 +3055,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2668,7 +3070,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2681,7 +3085,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2692,8 +3098,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2704,9 +3113,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2719,7 +3130,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -2732,8 +3145,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2746,7 +3162,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2757,9 +3175,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2770,9 +3190,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "60"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2783,8 +3205,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2797,7 +3222,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2810,7 +3237,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2821,9 +3250,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2836,7 +3267,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2849,7 +3282,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2860,8 +3295,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2874,7 +3312,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2887,7 +3327,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2900,7 +3342,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2911,8 +3355,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2923,9 +3370,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2936,9 +3385,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2949,9 +3400,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2962,8 +3415,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2974,9 +3430,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "60"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -2987,9 +3445,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3000,9 +3460,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3013,9 +3475,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3026,9 +3490,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3039,9 +3505,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3052,9 +3520,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3065,9 +3535,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3078,9 +3550,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3091,9 +3565,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3104,22 +3580,25 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "ile10371105": {
     "code": "ILE 1037 1105",
     "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory; Gen. Aggregate Applied Per Project",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory, Aggregate Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "both",
       "pnc": true,
       "wos": true,
+      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -3133,7 +3612,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3146,7 +3627,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3159,8 +3642,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3173,7 +3659,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3186,7 +3674,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3199,7 +3689,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3214,7 +3706,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -3229,7 +3723,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3240,8 +3736,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3254,7 +3753,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3267,7 +3768,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3280,7 +3783,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3293,7 +3798,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3306,7 +3813,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3319,7 +3828,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3334,26 +3845,15 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
     }
   },
   "mm0540111": {
-    "code": "MM 054 01 11",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "both",
-      "pnc": false,
-      "wos": false
-    },
-    "restrictions": {}
-  },
-  "mm0540111d2": {
     "code": "MM054 01 11",
     "category": "BOP",
     "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed",
@@ -3362,7 +3862,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3375,24 +3877,13 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
     }
-  },
-  "mu82771019d2": {
-    "code": "MU 82 77 10 19",
-    "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing, Primary & Non-contributory",
-    "properties": {
-      "ai": true,
-      "blanket": true,
-      "operations": "ongoing",
-      "pnc": true,
-      "wos": false
-    },
-    "restrictions": {}
   },
   "mu82771111": {
     "code": "MU 82 77 11 11",
@@ -3403,7 +3894,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3416,7 +3909,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3427,8 +3922,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3441,7 +3939,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3452,9 +3952,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3465,9 +3967,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3480,7 +3984,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3493,7 +3999,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3504,9 +4012,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3517,9 +4027,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3532,7 +4044,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3545,7 +4059,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3558,7 +4074,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3569,8 +4087,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3581,9 +4102,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3596,7 +4119,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3607,8 +4132,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3619,9 +4147,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3634,7 +4164,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3645,9 +4177,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3660,7 +4194,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3675,7 +4211,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3688,7 +4226,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3701,9 +4241,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3714,9 +4256,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3729,7 +4273,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3740,8 +4286,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3754,7 +4303,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3767,7 +4318,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3780,7 +4333,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3796,7 +4351,8 @@
       "operations": "ongoing",
       "pnc": true,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3810,7 +4366,8 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -3826,7 +4383,8 @@
       "operations": "both",
       "pnc": true,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3839,7 +4397,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -3854,7 +4414,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3867,7 +4429,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3878,8 +4442,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3892,7 +4459,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -3907,7 +4476,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3918,9 +4489,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3933,7 +4506,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3946,7 +4521,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3957,9 +4534,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3972,7 +4551,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3985,7 +4566,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -3998,7 +4581,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4013,7 +4598,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4026,7 +4613,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4039,7 +4628,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4052,7 +4643,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4067,7 +4660,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4080,7 +4675,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4093,7 +4690,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4108,7 +4707,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4123,7 +4724,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4134,9 +4737,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4147,9 +4752,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4160,8 +4767,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4174,7 +4784,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4187,20 +4799,23 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "sb300176eed1019": {
     "code": "SB300176E (Ed. 10-19)",
     "category": "BOP",
-    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory - Gen. Aggregate Limit – Per Project",
+    "label": "Businessowners - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation, Primary & Non-contributory, Aggregate Per Project",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "both",
       "pnc": true,
       "wos": true,
+      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -4215,6 +4830,7 @@
       "operations": "both",
       "pnc": true,
       "wos": true,
+      "noc": false,
       "agg": "project"
     },
     "restrictions": {}
@@ -4228,7 +4844,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4239,9 +4857,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4252,9 +4872,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4267,7 +4889,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4278,8 +4902,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4290,8 +4917,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4304,7 +4934,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4319,7 +4951,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4334,7 +4968,9 @@
       "blanket": false,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4345,9 +4981,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4358,9 +4996,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": true,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4371,9 +5011,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4386,20 +5028,23 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
   "ss00080405": {
     "code": "SS 00 08 04 05",
     "category": "BOP",
-    "label": "BOP  - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation & Primary & Non-contributory - Cross Liability; Gen. Aggregate Limit – Per Location",
+    "label": "BOP  - Blanket Additional Insured - Ongoing & Completed, Waiver of Subrogation & Primary & Non-contributory, Aggregate Per Location - Cross Liability",
     "properties": {
       "ai": true,
       "blanket": true,
       "operations": "both",
       "pnc": true,
       "wos": true,
+      "noc": false,
       "agg": "location"
     },
     "restrictions": {
@@ -4413,9 +5058,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4426,9 +5073,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4439,8 +5088,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4451,9 +5103,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4464,9 +5118,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4479,7 +5135,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4494,7 +5152,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4507,7 +5167,9 @@
       "blanket": false,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": false
@@ -4520,8 +5182,11 @@
     "properties": {
       "ai": true,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4534,7 +5199,9 @@
       "blanket": true,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4547,7 +5214,9 @@
       "blanket": false,
       "operations": "ongoing",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4560,7 +5229,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4573,7 +5244,9 @@
       "blanket": true,
       "operations": "completed",
       "pnc": false,
-      "wos": false
+      "wos": false,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {
       "cpl": true
@@ -4586,9 +5259,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "30"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4599,9 +5274,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4614,7 +5291,9 @@
       "blanket": true,
       "operations": "both",
       "pnc": true,
-      "wos": true
+      "wos": true,
+      "noc": false,
+      "agg": "none"
     },
     "restrictions": {}
   },
@@ -4625,9 +5304,11 @@
     "properties": {
       "ai": false,
       "blanket": false,
+      "operations": "none",
       "pnc": false,
       "wos": false,
-      "noc": "45"
+      "noc": true,
+      "agg": "none"
     },
     "restrictions": {}
   }

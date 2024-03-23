@@ -1,4 +1,18 @@
 {
+  "cl00051015": {
+    "code": "CL 00 05 10 15",
+    "category": "Env",
+    "label": "Contractors Professional Protective Indemnity Plus (CPPI+) Coverage Form",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": false,
+      "wos": true
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
   "cna88508xx0118": {
     "code": "CNA88508XX (01-18)",
     "category": "Env",
@@ -27,6 +41,20 @@
       "cpl": true
     }
   },
+  "kld0510113": {
+    "code": "KLD 051 0113",
+    "category": "Env",
+    "label": "PA/CE Plus Professional Activities/Complete Execution + Pollution (Occurrence) Professional & Pollution Liability for Construction Contractors and Construction Support Services Providers",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
   "meei00070122": {
     "code": "MEEI 0007 01 22",
     "category": "Env",
@@ -41,6 +69,20 @@
       "cpl": true
     }
   },
+  "meei00070123": {
+    "code": "MEEI 0007 01 23",
+    "category": "Env",
+    "label": "Contractor's Pollution Liability Coverage Form",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
   "meei29630922": {
     "code": "MEEI 2963 09 22",
     "category": "Env",
@@ -53,6 +95,62 @@
     },
     "restrictions": {
       "cpl": true
+    }
+  },
+  "wclanep0006cw1019": {
+    "code": "WCLANE P0006 CW (10/19)",
+    "category": "Env",
+    "label": "General Contractors Professional Liability Coverage Part",
+    "properties": {
+      "ai": true,
+      "blanket": true,
+      "pnc": true,
+      "wos": true
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "env32501218": {
+    "code": "ENV-3250 (12/18)",
+    "category": "Env",
+    "label": "Additional Insured Endorsement - Ongoing Work or Operations",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": false,
+      "wos": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "env32511218": {
+    "code": "ENV-3251 (12/18)",
+    "category": "Env",
+    "label": "Additional Insured Endorsement - Products-Completed Operations Hazard",
+    "properties": {
+      "ai": true,
+      "blanket": false,
+      "pnc": false,
+      "wos": false
+    },
+    "restrictions": {
+      "cpl": false
+    }
+  },
+  "env32531218": {
+    "code": "ENV-3253 (12-18)\n",
+    "category": "Env",
+    "label": "Primary and NonContributory - Other Insurance Condition",
+    "properties": {
+      "ai": false,
+      "blanket": false,
+      "pnc": true,
+      "wos": false
+    },
+    "restrictions": {
+      "cpl": false
     }
   }
 }
